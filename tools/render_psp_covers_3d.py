@@ -13,7 +13,12 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageFilter
 from export_psp_covers import atomic_json, digest, inspect_image
 
-VERSION = "psp-case-v7-wrap-aa"
+VERSION = "psp-case-v13-clean-spine"
+TEMPLATE_HASH = hashlib.sha256(
+    Path(__file__).read_bytes().replace(b"\r\n", b"\n")
+    + (Path(__file__).parent / "assets/playstation-logo.png").read_bytes()
+    + (Path(__file__).parent / "assets/psp-logo.png").read_bytes()
+).hexdigest()
 SIZE = (1200, 1800)
 FRONT = [(76, 43), (568, 73), (568, 819), (76, 853)]
 SPINE = [(35, 59), (76, 43), (76, 853), (35, 834)]
@@ -56,8 +61,12 @@ def render(source: Image.Image) -> Image.Image:
     wrap_art = ImageOps.fit(source.convert("RGBA"), (650, 838), Image.Resampling.LANCZOS)
     art = wrap_art.crop((50, 0, 650, 838))
     face.alpha_composite(art, (0, 62))
-    header = ImageDraw.Draw(face)
-    header.text((24, 31), "PlayStation Portable", font=ImageFont.load_default(size=32), anchor="lm", fill="white")
+    with Image.open(Path(__file__).parent / "assets/psp-logo.png") as psp_source:
+        psp_source = psp_source.convert("RGBA")
+        psp_mark = Image.new("RGBA", psp_source.size, "white")
+        psp_mark.putalpha(psp_source.getchannel("A"))
+    wordmark = ImageOps.contain(psp_mark.crop((135, 232, 751, 295)), (440, 38), Image.Resampling.LANCZOS)
+    face.alpha_composite(wordmark, (24, (62-wordmark.height)//2))
     with Image.open(Path(__file__).parent / "assets/playstation-logo.png") as logo_source:
         logo = ImageOps.contain(logo_source.convert("RGBA"), (54, 44), Image.Resampling.LANCZOS)
     face.alpha_composite(logo, (530, (62-logo.height)//2))
@@ -65,10 +74,12 @@ def render(source: Image.Image) -> Image.Image:
     # One continuous print wraps around the shared front/spine edge.
     spine = Image.new("RGBA", (50, 900), (22, 24, 28, 255))
     spine.alpha_composite(wrap_art.crop((0, 0, 50, 838)), (0, 62))
-    spine.alpha_composite(Image.new("RGBA", spine.size, (0, 0, 0, 58)))
-    d = ImageDraw.Draw(spine)
-    small_logo = ImageOps.contain(logo, (36, 32), Image.Resampling.LANCZOS)
-    spine.alpha_composite(small_logo, ((50-small_logo.width)//2, 14))
+    # Keep only the PlayStation emblem on the short spine header.
+    panel = Image.new("RGBA", (50, 62), (22, 24, 28, 255))
+    small_logo = ImageOps.contain(logo, (30, 26), Image.Resampling.LANCZOS)
+    panel.alpha_composite(small_logo, ((50-small_logo.width)//2, (62-small_logo.height)//2))
+    spine.alpha_composite(panel)
+    spine.alpha_composite(Image.new("RGBA", spine.size, (0, 0, 0, 42)))
     out.alpha_composite(warp(spine, SPINE))
     d = ImageDraw.Draw(out)
     d.line([FRONT[0], FRONT[1], FRONT[2]], fill=(88, 92, 98, 255), width=2)
@@ -86,7 +97,7 @@ def generate_one(task: tuple[str, str, str, str]) -> tuple[str, dict]:
     image.save(temporary, "WEBP", quality=92, method=4)
     info = inspect_image(temporary)
     os.replace(temporary, target)
-    return game_id, dict(info, path=f"covers/3d/{game_id}.webp", source_sha256=source_hash, template=VERSION)
+    return game_id, dict(info, path=f"covers/3d/{game_id}.webp", source_sha256=source_hash, template=VERSION, template_sha256=TEMPLATE_HASH)
 
 
 def main() -> int:
@@ -112,7 +123,7 @@ def main() -> int:
                 continue
             old = previous.get(key, {})
             target = root / "covers/3d" / f"{key}.webp"
-            if old.get("template") == VERSION and old.get("source_sha256") == game["sha256"] and target.is_file() and digest(target) == old.get("sha256"):
+            if old.get("template_sha256") == TEMPLATE_HASH and old.get("source_sha256") == game["sha256"] and target.is_file() and digest(target) == old.get("sha256"):
                 continue
             if digest(root / game["path"]) != game["sha256"]:
                 raise ValueError(f"Source checksum mismatch for {key}")
@@ -124,7 +135,7 @@ def main() -> int:
                     atomic_json(cache_path, previous)
                     print(f"Rendered {count}/{len(tasks)}", flush=True)
         atomic_json(cache_path, previous)
-        print(f"Verified 3D covers: {len(previous)}", flush=True)
+        print(f"Current-template covers: {sum(v.get('template_sha256') == TEMPLATE_HASH for v in previous.values())}/{len(manifest['games'])}", flush=True)
     finally:
         lock.unlink(missing_ok=True)
     return 0
