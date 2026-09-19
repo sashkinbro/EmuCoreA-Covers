@@ -13,10 +13,12 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageFilter
 from export_psp_covers import atomic_json, digest, inspect_image
 
-VERSION = "psp-case-v2-webp"
-SIZE = (600, 900)
-FRONT = [(81, 43), (568, 73), (568, 819), (81, 852)]
+VERSION = "psp-case-v7-wrap-aa"
+SIZE = (1200, 1800)
+FRONT = [(76, 43), (568, 73), (568, 819), (76, 853)]
 SPINE = [(35, 59), (76, 43), (76, 853), (35, 834)]
+FRONT = [(x * 2, y * 2) for x, y in FRONT]
+SPINE = [(x * 2, y * 2) for x, y in SPINE]
 
 
 def warp(source: Image.Image, corners: list[tuple[int, int]]) -> Image.Image:
@@ -33,39 +35,44 @@ def warp(source: Image.Image, corners: list[tuple[int, int]]) -> Image.Image:
 def template() -> Image.Image:
     out = Image.new("RGBA", SIZE)
     shadow = Image.new("RGBA", SIZE)
-    ImageDraw.Draw(shadow).polygon([(35, 75), (100, 33), (577, 69), (579, 835), (88, 874), (29, 847)], fill=(0, 0, 0, 100))
-    out.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(9)))
+    ImageDraw.Draw(shadow).polygon([(x*2, y*2) for x,y in [(35, 75), (100, 33), (577, 69), (579, 835), (88, 874), (29, 847)]], fill=(0, 0, 0, 100))
+    out.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(18)))
     draw = ImageDraw.Draw(out)
-    draw.polygon([(29, 51), (78, 29), (578, 65), (578, 830), (79, 865), (29, 841)], fill=(185, 191, 197, 255))
-    draw.polygon([(29, 51), (78, 29), (578, 65), (568, 73), (81, 43), (35, 59)], fill=(242, 245, 247, 255))
-    draw.polygon([(29, 51), (35, 59), (35, 834), (76, 853), (79, 865), (29, 841)], fill=(117, 124, 132, 255))
-    draw.polygon([(76, 43), (81, 43), (81, 852), (76, 853)], fill=(247, 249, 251, 255))
-    draw.polygon([(568, 73), (578, 65), (578, 830), (568, 819)], fill=(130, 137, 145, 255))
+    def polygon(points, fill):
+        draw.polygon([(x*2, y*2) for x,y in points], fill=fill)
+    polygon([(29, 51), (78, 29), (578, 65), (578, 830), (79, 865), (29, 841)], fill=(32, 34, 38, 255))
+    polygon([(29, 51), (78, 29), (578, 65), (568, 73), (81, 43), (35, 59)], fill=(67, 70, 76, 255))
+    polygon([(29, 51), (35, 59), (35, 834), (76, 853), (79, 865), (29, 841)], fill=(41, 43, 48, 255))
+    polygon([(76, 43), (81, 43), (81, 852), (76, 853)], fill=(64, 67, 72, 255))
+    polygon([(568, 73), (578, 65), (578, 830), (568, 819)], fill=(56, 59, 64, 255))
     return out
 
 
 def render(source: Image.Image) -> Image.Image:
     out = template()
-    # Fit, never stretch or crop. Source pixels and original files are untouched.
+    # Fill the printable area proportionally: a small edge crop replaces letterboxing.
+    # Flat originals remain untouched and available separately.
     face = Image.new("RGBA", (600, 900), (22, 24, 28, 255))
-    art = ImageOps.contain(source.convert("RGBA"), face.size, Image.Resampling.LANCZOS)
-    face.alpha_composite(art, ((face.width-art.width)//2, (face.height-art.height)//2))
+    wrap_art = ImageOps.fit(source.convert("RGBA"), (650, 838), Image.Resampling.LANCZOS)
+    art = wrap_art.crop((50, 0, 650, 838))
+    face.alpha_composite(art, (0, 62))
+    header = ImageDraw.Draw(face)
+    header.text((24, 31), "PlayStation Portable", font=ImageFont.load_default(size=32), anchor="lm", fill="white")
+    with Image.open(Path(__file__).parent / "assets/playstation-logo.png") as logo_source:
+        logo = ImageOps.contain(logo_source.convert("RGBA"), (54, 44), Image.Resampling.LANCZOS)
+    face.alpha_composite(logo, (530, (62-logo.height)//2))
     out.alpha_composite(warp(face, FRONT))
-    spine = Image.new("RGBA", (76, 1400), (232, 235, 238, 255))
+    # One continuous print wraps around the shared front/spine edge.
+    spine = Image.new("RGBA", (50, 900), (22, 24, 28, 255))
+    spine.alpha_composite(wrap_art.crop((0, 0, 50, 838)), (0, 62))
+    spine.alpha_composite(Image.new("RGBA", spine.size, (0, 0, 0, 58)))
     d = ImageDraw.Draw(spine)
-    d.rectangle((0, 0, 76, 205), fill=(25, 28, 32, 255))
-    font = ImageFont.load_default(size=30)
-    d.text((38, 60), "PSP", font=font, anchor="mm", fill="white")
-    label = Image.new("RGBA", (1000, 66))
-    ld = ImageDraw.Draw(label)
-    ld.text((500, 32), "PLAYSTATION PORTABLE", font=ImageFont.load_default(size=34), anchor="mm", fill=(34, 38, 43, 255))
-    label = label.rotate(-90, expand=True)
-    spine.alpha_composite(label, (5, 250))
-    d.text((38, 1300), "UMD", font=ImageFont.load_default(size=23), anchor="mm", fill=(52, 57, 63, 255))
+    small_logo = ImageOps.contain(logo, (36, 32), Image.Resampling.LANCZOS)
+    spine.alpha_composite(small_logo, ((50-small_logo.width)//2, 14))
     out.alpha_composite(warp(spine, SPINE))
     d = ImageDraw.Draw(out)
-    d.line([FRONT[0], FRONT[1], FRONT[2]], fill=(255, 255, 255, 110), width=2)
-    return out
+    d.line([FRONT[0], FRONT[1], FRONT[2]], fill=(88, 92, 98, 255), width=2)
+    return out.resize((600, 900), Image.Resampling.LANCZOS)
 
 
 def generate_one(task: tuple[str, str, str, str]) -> tuple[str, dict]:

@@ -1483,15 +1483,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULAS42214",
-      "title": "Tekken 6",
-      "reason": "ambiguous",
-      "candidate_igdb_ids": [
-        "1247",
-        "195868"
-      ]
-    },
-    {
       "serial": "ULAS42219",
       "title": "Geki Sengoku Musou",
       "reason": "no_exact_match",
@@ -2815,15 +2806,6 @@
       "candidate_igdb_ids": [
         "138",
         "194933"
-      ]
-    },
-    {
-      "serial": "ULES01376",
-      "title": "Tekken 6",
-      "reason": "ambiguous",
-      "candidate_igdb_ids": [
-        "1247",
-        "195868"
       ]
     },
     {
@@ -5641,15 +5623,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS19054",
-      "title": "Tekken 6",
-      "reason": "ambiguous",
-      "candidate_igdb_ids": [
-        "1247",
-        "195868"
-      ]
-    },
-    {
       "serial": "ULJS19056",
       "title": "God Eater Burst",
       "reason": "no_exact_match",
@@ -5894,15 +5867,6 @@
       "title": "Naruto Shippuuden: Narutimate Accel 3",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULKS46235",
-      "title": "Tekken 6",
-      "reason": "ambiguous",
-      "candidate_igdb_ids": [
-        "1247",
-        "195868"
-      ]
     },
     {
       "serial": "ULKS46236",
@@ -6278,15 +6242,6 @@
       "title": "Holy Invasion of Privacy, Badman! What Did I Do to Deserve This?",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10466",
-      "title": "Tekken 6",
-      "reason": "ambiguous",
-      "candidate_igdb_ids": [
-        "1247",
-        "195868"
-      ]
     },
     {
       "serial": "ULUS10471",
@@ -8078,7 +8033,6 @@
     194817,
     194933,
     195856,
-    195868,
     196027,
     196213,
     196507,
@@ -8634,8 +8588,8 @@
   ],
   "summary": {
     "games": 3168,
-    "mapped_serials": 1962,
-    "unresolved_serials": 1060,
+    "mapped_serials": 1967,
+    "unresolved_serials": 1055,
     "downloaded": 3168,
     "failed": 0
   },

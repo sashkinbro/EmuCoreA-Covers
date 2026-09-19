@@ -10,11 +10,11 @@ Multiple regional serials deliberately reference one canonical game image. A sha
 
 ## Coverage and limitations
 
-The snapshot contains 3,168 original IGDB images and 3,168 generated 3D images. There are 1,962 mapped serials and 1,060 unresolved entries from the 3,022-entry source list. This is not complete PSP regional coverage. `review.json` lists every unresolved/ambiguous entry and small source image; `manifest.json` records every mapping method, source URL and checksum. Missing entries should retain the game's embedded icon or a placeholder, not an approximate title match.
+The snapshot contains 3,168 original IGDB images and 3,168 generated 3D images. There are 1,967 mapped serials and 1,055 unresolved entries from the 3,022-entry source list. This is not complete PSP regional coverage. `review.json` lists every unresolved/ambiguous entry and small source image; `manifest.json` records every mapping method, source URL and checksum. Missing entries should retain the game's embedded icon or a placeholder, not an approximate title match.
 
 Mappings use explicit database serials, unique normalized title equality, or reviewed overrides. Duplicate titles are not resolved automatically. The bundled serial source is a title index, not an authoritative guarantee of every retail reprint, PSN edition, demo or homebrew identity. Source errors remain possible and corrections should identify the serial, correct title and supporting evidence.
 
-Flat images preserve IGDB bytes and aspect ratio, requested at `t_1080p`; this does not guarantee the source artwork was high resolution. Clients should fit artwork without stretching. 3D images are 600x900 transparent WebP, quality 92, using an original generic PSP case with PSP/PlayStation Portable/UMD text. The artwork is fitted onto the case without cropping. No PS2 template, PS2 branding or invented regional serial is included.
+Flat images preserve IGDB bytes and aspect ratio, requested at `t_1080p`; this does not guarantee the source artwork was high resolution. Clients should fit artwork without stretching. 3D images are 600x900 transparent WebP, quality 92, using an original generic PSP case with PSP/PlayStation Portable/UMD text. The 3D printable area fills to the bottom edge using a proportional crop, without stretching or letterbox bars; full uncropped originals remain available as flat images. No PS2 template, PS2 branding or invented regional serial is included.
 
 ## Rebuild
 
@@ -37,3 +37,5 @@ The application bundles a reviewed index and downloads only the user's games. Up
 ## Attribution
 
 Artwork source: [IGDB](https://www.igdb.com/), via [IGDB image CDN](https://api-docs.igdb.com/#images). Cover artwork and game/platform trademarks belong to their respective owners. Repository tooling and metadata do not grant ownership or a new license to that artwork. The 3D case was implemented independently after reviewing the approach in [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers); its PS2 template and code are not included.
+
+PlayStation emblem: [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Playstation_logo_colour.svg), credited there to Sony / Manabu Sakamoto (PD-textlogo; trademark). A raster copy is in `tools/assets/playstation-logo.png`.

@@ -2,11 +2,11 @@
   "schema_version": 1,
   "platform": "Sony PlayStation Portable",
   "image_size": "1080p",
-  "generated_at": "2026-09-19T20:26:24.214062+00:00",
+  "generated_at": "2026-09-19T20:45:43.294976+00:00",
   "sources": {
     "catalog_sha256": "928550ba0e50b23549a306ccb82f320b5498c0c1ccc75da945fdf010a2b76b16",
     "titles_sha256": "8bf315ee67710ab1bc0640453535a1a4ab75f598c4d39a7d91284f25be25ec53",
-    "overrides_sha256": "4c22c8bab8d29c9c2b9cfd92f780b14cb0f568424ec88a2edb8cf8a5eaec5184"
+    "overrides_sha256": "a20342f160ceb3ae13e441233df777ddc8cd48cf4c8cfec80290efe5afd5d3d5"
   },
   "games": {
     "138": {
@@ -36704,7 +36704,13 @@
       "igdb_id": 195868,
       "name": "Tekken 6",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4m42.jpg",
-      "serials": [],
+      "serials": [
+        "ULAS42214",
+        "ULES01376",
+        "ULJS19054",
+        "ULKS46235",
+        "ULUS10466"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4m42.jpg",
       "path": "covers/195868.jpg",
@@ -49621,6 +49627,12 @@
       "title": "NBA Live 10",
       "match_method": "unique_normalized_title"
     },
+    "ULAS42214": {
+      "igdb_id": 195868,
+      "path": "covers/195868.jpg",
+      "title": "Tekken 6",
+      "match_method": "reviewed_title_alias"
+    },
     "ULAS42218": {
       "igdb_id": 382,
       "path": "covers/382.jpg",
@@ -52488,6 +52500,12 @@
       "path": "covers/248571.jpg",
       "title": "MX vs. ATV Reflex",
       "match_method": "unique_normalized_title"
+    },
+    "ULES01376": {
+      "igdb_id": 195868,
+      "path": "covers/195868.jpg",
+      "title": "Tekken 6",
+      "match_method": "reviewed_title_alias"
     },
     "ULES01381": {
       "igdb_id": 997,
@@ -55825,6 +55843,12 @@
       "title": "Zettai Zetsumei Toshi 3: Kowareyuku Machi to Kanojo no Uta",
       "match_method": "unique_normalized_title"
     },
+    "ULJS19054": {
+      "igdb_id": 195868,
+      "path": "covers/195868.jpg",
+      "title": "Tekken 6",
+      "match_method": "reviewed_title_alias"
+    },
     "ULKS46002": {
       "igdb_id": 42774,
       "path": "covers/42774.jpg",
@@ -56046,6 +56070,12 @@
       "path": "covers/10661.jpg",
       "title": "Assassin's Creed: Bloodlines",
       "match_method": "unique_normalized_title"
+    },
+    "ULKS46235": {
+      "igdb_id": 195868,
+      "path": "covers/195868.jpg",
+      "title": "Tekken 6",
+      "match_method": "reviewed_title_alias"
     },
     "ULKS46239": {
       "igdb_id": 382,
@@ -58446,6 +58476,12 @@
       "path": "covers/7107.jpg",
       "title": "NBA Live 10",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10466": {
+      "igdb_id": 195868,
+      "path": "covers/195868.jpg",
+      "title": "Tekken 6",
+      "match_method": "reviewed_title_alias"
     },
     "ULUS10468": {
       "igdb_id": 10732,
