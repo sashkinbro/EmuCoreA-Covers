@@ -1535,6 +1535,10 @@
     "igdb_id": 7107,
     "path": "covers/7107.jpg"
   },
+  "ULAS42214": {
+    "igdb_id": 195868,
+    "path": "covers/195868.jpg"
+  },
   "ULAS42218": {
     "igdb_id": 382,
     "path": "covers/382.jpg"
@@ -3446,6 +3450,10 @@
   "ULES01375": {
     "igdb_id": 248571,
     "path": "covers/248571.jpg"
+  },
+  "ULES01376": {
+    "igdb_id": 195868,
+    "path": "covers/195868.jpg"
   },
   "ULES01381": {
     "igdb_id": 997,
@@ -5671,6 +5679,10 @@
     "igdb_id": 11697,
     "path": "covers/11697.jpg"
   },
+  "ULJS19054": {
+    "igdb_id": 195868,
+    "path": "covers/195868.jpg"
+  },
   "ULKS46002": {
     "igdb_id": 42774,
     "path": "covers/42774.jpg"
@@ -5818,6 +5830,10 @@
   "ULKS46231": {
     "igdb_id": 10661,
     "path": "covers/10661.jpg"
+  },
+  "ULKS46235": {
+    "igdb_id": 195868,
+    "path": "covers/195868.jpg"
   },
   "ULKS46239": {
     "igdb_id": 382,
@@ -7418,6 +7434,10 @@
   "ULUS10465": {
     "igdb_id": 7107,
     "path": "covers/7107.jpg"
+  },
+  "ULUS10466": {
+    "igdb_id": 195868,
+    "path": "covers/195868.jpg"
   },
   "ULUS10468": {
     "igdb_id": 10732,
