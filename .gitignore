@@ -1,0 +1,4 @@
+*.part
+*.lock
+__pycache__/
+.venv/

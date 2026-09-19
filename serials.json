@@ -1,0 +1,7850 @@
+{
+  "JRPG00001": {
+    "igdb_id": 11831,
+    "path": "covers/11831.jpg"
+  },
+  "ROSE00004": {
+    "igdb_id": 56524,
+    "path": "covers/56524.jpg"
+  },
+  "ROSE00025": {
+    "igdb_id": 56549,
+    "path": "covers/56549.jpg"
+  },
+  "ROSE00027": {
+    "igdb_id": 218786,
+    "path": "covers/218786.jpg"
+  },
+  "UCAS40015": {
+    "igdb_id": 18787,
+    "path": "covers/18787.jpg"
+  },
+  "UCAS40019": {
+    "igdb_id": 66831,
+    "path": "covers/66831.jpg"
+  },
+  "UCAS40022": {
+    "igdb_id": 60365,
+    "path": "covers/60365.jpg"
+  },
+  "UCAS40037": {
+    "igdb_id": 38471,
+    "path": "covers/38471.jpg"
+  },
+  "UCAS40047": {
+    "igdb_id": 357453,
+    "path": "covers/357453.jpg"
+  },
+  "UCAS40093": {
+    "igdb_id": 18787,
+    "path": "covers/18787.jpg"
+  },
+  "UCAS40100": {
+    "igdb_id": 38465,
+    "path": "covers/38465.jpg"
+  },
+  "UCAS40105": {
+    "igdb_id": 38463,
+    "path": "covers/38463.jpg"
+  },
+  "UCAS40119": {
+    "igdb_id": 23127,
+    "path": "covers/23127.jpg"
+  },
+  "UCAS40120": {
+    "igdb_id": 14755,
+    "path": "covers/14755.jpg"
+  },
+  "UCAS40133": {
+    "igdb_id": 22453,
+    "path": "covers/22453.jpg"
+  },
+  "UCAS40135": {
+    "igdb_id": 269666,
+    "path": "covers/269666.jpg"
+  },
+  "UCAS40139": {
+    "igdb_id": 137875,
+    "path": "covers/137875.jpg"
+  },
+  "UCAS40140": {
+    "igdb_id": 64955,
+    "path": "covers/64955.jpg"
+  },
+  "UCAS40145": {
+    "igdb_id": 1791,
+    "path": "covers/1791.jpg"
+  },
+  "UCAS40152": {
+    "igdb_id": 380633,
+    "path": "covers/380633.jpg"
+  },
+  "UCAS40156": {
+    "igdb_id": 69046,
+    "path": "covers/69046.jpg"
+  },
+  "UCAS40164": {
+    "igdb_id": 24181,
+    "path": "covers/24181.jpg"
+  },
+  "UCAS40167": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "UCAS40175": {
+    "igdb_id": 59001,
+    "path": "covers/59001.jpg"
+  },
+  "UCAS40179": {
+    "igdb_id": 1543,
+    "path": "covers/1543.jpg"
+  },
+  "UCAS40181": {
+    "igdb_id": 7382,
+    "path": "covers/7382.jpg"
+  },
+  "UCAS40182": {
+    "igdb_id": 43342,
+    "path": "covers/43342.jpg"
+  },
+  "UCAS40194": {
+    "igdb_id": 8198,
+    "path": "covers/8198.jpg"
+  },
+  "UCAS40198": {
+    "igdb_id": 552,
+    "path": "covers/552.jpg"
+  },
+  "UCAS40199": {
+    "igdb_id": 23005,
+    "path": "covers/23005.jpg"
+  },
+  "UCAS40213": {
+    "igdb_id": 21050,
+    "path": "covers/21050.jpg"
+  },
+  "UCAS40215": {
+    "igdb_id": 21682,
+    "path": "covers/21682.jpg"
+  },
+  "UCAS40217": {
+    "igdb_id": 46000,
+    "path": "covers/46000.jpg"
+  },
+  "UCAS40218": {
+    "igdb_id": 1793,
+    "path": "covers/1793.jpg"
+  },
+  "UCAS40222": {
+    "igdb_id": 1461,
+    "path": "covers/1461.jpg"
+  },
+  "UCAS40223": {
+    "igdb_id": 22528,
+    "path": "covers/22528.jpg"
+  },
+  "UCAS40224": {
+    "igdb_id": 24279,
+    "path": "covers/24279.jpg"
+  },
+  "UCAS40238": {
+    "igdb_id": 20553,
+    "path": "covers/20553.jpg"
+  },
+  "UCAS40241": {
+    "igdb_id": 38441,
+    "path": "covers/38441.jpg"
+  },
+  "UCAS40242": {
+    "igdb_id": 38439,
+    "path": "covers/38439.jpg"
+  },
+  "UCAS40243": {
+    "igdb_id": 38440,
+    "path": "covers/38440.jpg"
+  },
+  "UCAS40248": {
+    "igdb_id": 44497,
+    "path": "covers/44497.jpg"
+  },
+  "UCAS40249": {
+    "igdb_id": 7371,
+    "path": "covers/7371.jpg"
+  },
+  "UCAS40257": {
+    "igdb_id": 21309,
+    "path": "covers/21309.jpg"
+  },
+  "UCAS40258": {
+    "igdb_id": 69255,
+    "path": "covers/69255.jpg"
+  },
+  "UCAS40262": {
+    "igdb_id": 21911,
+    "path": "covers/21911.jpg"
+  },
+  "UCAS40268": {
+    "igdb_id": 38453,
+    "path": "covers/38453.jpg"
+  },
+  "UCAS40272": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "UCAS40273": {
+    "igdb_id": 23127,
+    "path": "covers/23127.jpg"
+  },
+  "UCAS40274": {
+    "igdb_id": 391,
+    "path": "covers/391.jpg"
+  },
+  "UCAS40275": {
+    "igdb_id": 1568,
+    "path": "covers/1568.jpg"
+  },
+  "UCAS40279": {
+    "igdb_id": 21895,
+    "path": "covers/21895.jpg"
+  },
+  "UCAS40295": {
+    "igdb_id": 1224,
+    "path": "covers/1224.jpg"
+  },
+  "UCAS40305": {
+    "igdb_id": 4841,
+    "path": "covers/4841.jpg"
+  },
+  "UCAS40323": {
+    "igdb_id": 550,
+    "path": "covers/550.jpg"
+  },
+  "UCAS40337": {
+    "igdb_id": 11611,
+    "path": "covers/11611.jpg"
+  },
+  "UCED00017": {
+    "igdb_id": 1542,
+    "path": "covers/1542.jpg"
+  },
+  "UCED00150": {
+    "igdb_id": 26995,
+    "path": "covers/26995.jpg"
+  },
+  "UCED00365": {
+    "igdb_id": 1459,
+    "path": "covers/1459.jpg"
+  },
+  "UCED00413": {
+    "igdb_id": 20764,
+    "path": "covers/20764.jpg"
+  },
+  "UCED00432": {
+    "igdb_id": 20565,
+    "path": "covers/20565.jpg"
+  },
+  "UCED00448": {
+    "igdb_id": 24181,
+    "path": "covers/24181.jpg"
+  },
+  "UCED00970": {
+    "igdb_id": 552,
+    "path": "covers/552.jpg"
+  },
+  "UCED01060": {
+    "igdb_id": 18050,
+    "path": "covers/18050.jpg"
+  },
+  "UCES00001": {
+    "igdb_id": 1542,
+    "path": "covers/1542.jpg"
+  },
+  "UCES00002": {
+    "igdb_id": 18787,
+    "path": "covers/18787.jpg"
+  },
+  "UCES00003": {
+    "igdb_id": 22291,
+    "path": "covers/22291.jpg"
+  },
+  "UCES00004": {
+    "igdb_id": 38472,
+    "path": "covers/38472.jpg"
+  },
+  "UCES00005": {
+    "igdb_id": 119183,
+    "path": "covers/119183.jpg"
+  },
+  "UCES00006": {
+    "igdb_id": 4005,
+    "path": "covers/4005.jpg"
+  },
+  "UCES00015": {
+    "igdb_id": 22451,
+    "path": "covers/22451.jpg"
+  },
+  "UCES00018": {
+    "igdb_id": 5414,
+    "path": "covers/5414.jpg"
+  },
+  "UCES00019": {
+    "igdb_id": 26995,
+    "path": "covers/26995.jpg"
+  },
+  "UCES00038": {
+    "igdb_id": 24148,
+    "path": "covers/24148.jpg"
+  },
+  "UCES00044": {
+    "igdb_id": 1533,
+    "path": "covers/1533.jpg"
+  },
+  "UCES00045": {
+    "igdb_id": 3762,
+    "path": "covers/3762.jpg"
+  },
+  "UCES00109": {
+    "igdb_id": 76216,
+    "path": "covers/76216.jpg"
+  },
+  "UCES00113": {
+    "igdb_id": 23136,
+    "path": "covers/23136.jpg"
+  },
+  "UCES00116": {
+    "igdb_id": 46000,
+    "path": "covers/46000.jpg"
+  },
+  "UCES00152": {
+    "igdb_id": 38464,
+    "path": "covers/38464.jpg"
+  },
+  "UCES00243": {
+    "igdb_id": 55850,
+    "path": "covers/55850.jpg"
+  },
+  "UCES00249": {
+    "igdb_id": 20565,
+    "path": "covers/20565.jpg"
+  },
+  "UCES00254": {
+    "igdb_id": 23141,
+    "path": "covers/23141.jpg"
+  },
+  "UCES00279": {
+    "igdb_id": 1868,
+    "path": "covers/1868.jpg"
+  },
+  "UCES00302": {
+    "igdb_id": 37047,
+    "path": "covers/37047.jpg"
+  },
+  "UCES00304": {
+    "igdb_id": 1459,
+    "path": "covers/1459.jpg"
+  },
+  "UCES00310": {
+    "igdb_id": 20764,
+    "path": "covers/20764.jpg"
+  },
+  "UCES00356": {
+    "igdb_id": 24181,
+    "path": "covers/24181.jpg"
+  },
+  "UCES00373": {
+    "igdb_id": 131087,
+    "path": "covers/131087.jpg"
+  },
+  "UCES00420": {
+    "igdb_id": 1791,
+    "path": "covers/1791.jpg"
+  },
+  "UCES00421": {
+    "igdb_id": 23108,
+    "path": "covers/23108.jpg"
+  },
+  "UCES00422": {
+    "igdb_id": 23127,
+    "path": "covers/23127.jpg"
+  },
+  "UCES00423": {
+    "igdb_id": 14755,
+    "path": "covers/14755.jpg"
+  },
+  "UCES00465": {
+    "igdb_id": 1543,
+    "path": "covers/1543.jpg"
+  },
+  "UCES00523": {
+    "igdb_id": 23136,
+    "path": "covers/23136.jpg"
+  },
+  "UCES00543": {
+    "igdb_id": 19431,
+    "path": "covers/19431.jpg"
+  },
+  "UCES00694": {
+    "igdb_id": 23055,
+    "path": "covers/23055.jpg"
+  },
+  "UCES00710": {
+    "igdb_id": 19430,
+    "path": "covers/19430.jpg"
+  },
+  "UCES00758": {
+    "igdb_id": 7188,
+    "path": "covers/7188.jpg"
+  },
+  "UCES00775": {
+    "igdb_id": 269666,
+    "path": "covers/269666.jpg"
+  },
+  "UCES00786": {
+    "igdb_id": 8274,
+    "path": "covers/8274.jpg"
+  },
+  "UCES00842": {
+    "igdb_id": 552,
+    "path": "covers/552.jpg"
+  },
+  "UCES00855": {
+    "igdb_id": 22530,
+    "path": "covers/22530.jpg"
+  },
+  "UCES00890": {
+    "igdb_id": 23055,
+    "path": "covers/23055.jpg"
+  },
+  "UCES00942": {
+    "igdb_id": 1793,
+    "path": "covers/1793.jpg"
+  },
+  "UCES00995": {
+    "igdb_id": 7812,
+    "path": "covers/7812.jpg"
+  },
+  "UCES01011": {
+    "igdb_id": 18050,
+    "path": "covers/18050.jpg"
+  },
+  "UCES01031": {
+    "igdb_id": 21944,
+    "path": "covers/21944.jpg"
+  },
+  "UCES01032": {
+    "igdb_id": 21944,
+    "path": "covers/21944.jpg"
+  },
+  "UCES01033": {
+    "igdb_id": 21944,
+    "path": "covers/21944.jpg"
+  },
+  "UCES01034": {
+    "igdb_id": 21944,
+    "path": "covers/21944.jpg"
+  },
+  "UCES01041": {
+    "igdb_id": 21944,
+    "path": "covers/21944.jpg"
+  },
+  "UCES01042": {
+    "igdb_id": 21944,
+    "path": "covers/21944.jpg"
+  },
+  "UCES01059": {
+    "igdb_id": 1461,
+    "path": "covers/1461.jpg"
+  },
+  "UCES01130": {
+    "igdb_id": 21944,
+    "path": "covers/21944.jpg"
+  },
+  "UCES01157": {
+    "igdb_id": 23267,
+    "path": "covers/23267.jpg"
+  },
+  "UCES01158": {
+    "igdb_id": 23267,
+    "path": "covers/23267.jpg"
+  },
+  "UCES01159": {
+    "igdb_id": 80160,
+    "path": "covers/80160.jpg"
+  },
+  "UCES01160": {
+    "igdb_id": 79651,
+    "path": "covers/79651.jpg"
+  },
+  "UCES01177": {
+    "igdb_id": 7813,
+    "path": "covers/7813.jpg"
+  },
+  "UCES01184": {
+    "igdb_id": 22885,
+    "path": "covers/22885.jpg"
+  },
+  "UCES01196": {
+    "igdb_id": 21131,
+    "path": "covers/21131.jpg"
+  },
+  "UCES01201": {
+    "igdb_id": 7282,
+    "path": "covers/7282.jpg"
+  },
+  "UCES01225": {
+    "igdb_id": 1531,
+    "path": "covers/1531.jpg"
+  },
+  "UCES01229": {
+    "igdb_id": 391,
+    "path": "covers/391.jpg"
+  },
+  "UCES01241": {
+    "igdb_id": 2994,
+    "path": "covers/2994.jpg"
+  },
+  "UCES01242": {
+    "igdb_id": 21665,
+    "path": "covers/21665.jpg"
+  },
+  "UCES01245": {
+    "igdb_id": 20426,
+    "path": "covers/20426.jpg"
+  },
+  "UCES01250": {
+    "igdb_id": 21104,
+    "path": "covers/21104.jpg"
+  },
+  "UCES01264": {
+    "igdb_id": 21911,
+    "path": "covers/21911.jpg"
+  },
+  "UCES01276": {
+    "igdb_id": 210296,
+    "path": "covers/210296.jpg"
+  },
+  "UCES01279": {
+    "igdb_id": 218634,
+    "path": "covers/218634.jpg"
+  },
+  "UCES01289": {
+    "igdb_id": 7284,
+    "path": "covers/7284.jpg"
+  },
+  "UCES01290": {
+    "igdb_id": 7284,
+    "path": "covers/7284.jpg"
+  },
+  "UCES01291": {
+    "igdb_id": 7284,
+    "path": "covers/7284.jpg"
+  },
+  "UCES01293": {
+    "igdb_id": 7284,
+    "path": "covers/7284.jpg"
+  },
+  "UCES01294": {
+    "igdb_id": 7284,
+    "path": "covers/7284.jpg"
+  },
+  "UCES01295": {
+    "igdb_id": 7284,
+    "path": "covers/7284.jpg"
+  },
+  "UCES01296": {
+    "igdb_id": 7284,
+    "path": "covers/7284.jpg"
+  },
+  "UCES01297": {
+    "igdb_id": 7284,
+    "path": "covers/7284.jpg"
+  },
+  "UCES01312": {
+    "igdb_id": 21752,
+    "path": "covers/21752.jpg"
+  },
+  "UCES01313": {
+    "igdb_id": 22976,
+    "path": "covers/22976.jpg"
+  },
+  "UCES01320": {
+    "igdb_id": 194275,
+    "path": "covers/194275.jpg"
+  },
+  "UCES01321": {
+    "igdb_id": 210296,
+    "path": "covers/210296.jpg"
+  },
+  "UCES01327": {
+    "igdb_id": 4841,
+    "path": "covers/4841.jpg"
+  },
+  "UCES01334": {
+    "igdb_id": 46020,
+    "path": "covers/46020.jpg"
+  },
+  "UCES01378": {
+    "igdb_id": 1531,
+    "path": "covers/1531.jpg"
+  },
+  "UCES01401": {
+    "igdb_id": 550,
+    "path": "covers/550.jpg"
+  },
+  "UCES01411": {
+    "igdb_id": 2996,
+    "path": "covers/2996.jpg"
+  },
+  "UCES01421": {
+    "igdb_id": 18373,
+    "path": "covers/18373.jpg"
+  },
+  "UCES01445": {
+    "igdb_id": 44586,
+    "path": "covers/44586.jpg"
+  },
+  "UCES01449": {
+    "igdb_id": 44586,
+    "path": "covers/44586.jpg"
+  },
+  "UCES01450": {
+    "igdb_id": 44586,
+    "path": "covers/44586.jpg"
+  },
+  "UCES01451": {
+    "igdb_id": 44586,
+    "path": "covers/44586.jpg"
+  },
+  "UCES01452": {
+    "igdb_id": 44586,
+    "path": "covers/44586.jpg"
+  },
+  "UCES01453": {
+    "igdb_id": 44586,
+    "path": "covers/44586.jpg"
+  },
+  "UCES01454": {
+    "igdb_id": 44586,
+    "path": "covers/44586.jpg"
+  },
+  "UCES01462": {
+    "igdb_id": 7303,
+    "path": "covers/7303.jpg"
+  },
+  "UCES01473": {
+    "igdb_id": 550,
+    "path": "covers/550.jpg"
+  },
+  "UCES01485": {
+    "igdb_id": 44586,
+    "path": "covers/44586.jpg"
+  },
+  "UCES01496": {
+    "igdb_id": 42758,
+    "path": "covers/42758.jpg"
+  },
+  "UCES01502": {
+    "igdb_id": 45998,
+    "path": "covers/45998.jpg"
+  },
+  "UCES01503": {
+    "igdb_id": 45997,
+    "path": "covers/45997.jpg"
+  },
+  "UCES01504": {
+    "igdb_id": 45996,
+    "path": "covers/45996.jpg"
+  },
+  "UCES01511": {
+    "igdb_id": 42811,
+    "path": "covers/42811.jpg"
+  },
+  "UCES01520": {
+    "igdb_id": 269409,
+    "path": "covers/269409.jpg"
+  },
+  "UCES01525": {
+    "igdb_id": 3001,
+    "path": "covers/3001.jpg"
+  },
+  "UCES01531": {
+    "igdb_id": 52215,
+    "path": "covers/52215.jpg"
+  },
+  "UCES01535": {
+    "igdb_id": 42807,
+    "path": "covers/42807.jpg"
+  },
+  "UCES01536": {
+    "igdb_id": 42775,
+    "path": "covers/42775.jpg"
+  },
+  "UCES01559": {
+    "igdb_id": 58573,
+    "path": "covers/58573.jpg"
+  },
+  "UCES01579": {
+    "igdb_id": 269505,
+    "path": "covers/269505.jpg"
+  },
+  "UCES01581": {
+    "igdb_id": 2996,
+    "path": "covers/2996.jpg"
+  },
+  "UCES01585": {
+    "igdb_id": 142554,
+    "path": "covers/142554.jpg"
+  },
+  "UCET00001": {
+    "igdb_id": 1542,
+    "path": "covers/1542.jpg"
+  },
+  "UCET00006": {
+    "igdb_id": 119183,
+    "path": "covers/119183.jpg"
+  },
+  "UCET00179": {
+    "igdb_id": 76216,
+    "path": "covers/76216.jpg"
+  },
+  "UCET00222": {
+    "igdb_id": 24148,
+    "path": "covers/24148.jpg"
+  },
+  "UCET00357": {
+    "igdb_id": 1459,
+    "path": "covers/1459.jpg"
+  },
+  "UCET00424": {
+    "igdb_id": 24181,
+    "path": "covers/24181.jpg"
+  },
+  "UCET00445": {
+    "igdb_id": 37047,
+    "path": "covers/37047.jpg"
+  },
+  "UCET00713": {
+    "igdb_id": 1543,
+    "path": "covers/1543.jpg"
+  },
+  "UCET00751": {
+    "igdb_id": 1791,
+    "path": "covers/1791.jpg"
+  },
+  "UCET00794": {
+    "igdb_id": 19431,
+    "path": "covers/19431.jpg"
+  },
+  "UCET00844": {
+    "igdb_id": 552,
+    "path": "covers/552.jpg"
+  },
+  "UCET01015": {
+    "igdb_id": 7812,
+    "path": "covers/7812.jpg"
+  },
+  "UCET01101": {
+    "igdb_id": 1793,
+    "path": "covers/1793.jpg"
+  },
+  "UCJB98011": {
+    "igdb_id": 1459,
+    "path": "covers/1459.jpg"
+  },
+  "UCJP00062": {
+    "igdb_id": 11326,
+    "path": "covers/11326.jpg"
+  },
+  "UCJP00125": {
+    "igdb_id": 7812,
+    "path": "covers/7812.jpg"
+  },
+  "UCJP00161": {
+    "igdb_id": 1461,
+    "path": "covers/1461.jpg"
+  },
+  "UCJP00164": {
+    "igdb_id": 1461,
+    "path": "covers/1461.jpg"
+  },
+  "UCJS10007": {
+    "igdb_id": 1542,
+    "path": "covers/1542.jpg"
+  },
+  "UCJS10008": {
+    "igdb_id": 44488,
+    "path": "covers/44488.jpg"
+  },
+  "UCJS10009": {
+    "igdb_id": 23141,
+    "path": "covers/23141.jpg"
+  },
+  "UCJS10016": {
+    "igdb_id": 59373,
+    "path": "covers/59373.jpg"
+  },
+  "UCJS10017": {
+    "igdb_id": 44481,
+    "path": "covers/44481.jpg"
+  },
+  "UCJS10023": {
+    "igdb_id": 64955,
+    "path": "covers/64955.jpg"
+  },
+  "UCJS10025": {
+    "igdb_id": 65025,
+    "path": "covers/65025.jpg"
+  },
+  "UCJS10027": {
+    "igdb_id": 269489,
+    "path": "covers/269489.jpg"
+  },
+  "UCJS10031": {
+    "igdb_id": 334216,
+    "path": "covers/334216.jpg"
+  },
+  "UCJS10039": {
+    "igdb_id": 72561,
+    "path": "covers/72561.jpg"
+  },
+  "UCJS10041": {
+    "igdb_id": 1459,
+    "path": "covers/1459.jpg"
+  },
+  "UCJS10042": {
+    "igdb_id": 72793,
+    "path": "covers/72793.jpg"
+  },
+  "UCJS10046": {
+    "igdb_id": 269666,
+    "path": "covers/269666.jpg"
+  },
+  "UCJS10047": {
+    "igdb_id": 69046,
+    "path": "covers/69046.jpg"
+  },
+  "UCJS10048": {
+    "igdb_id": 11326,
+    "path": "covers/11326.jpg"
+  },
+  "UCJS10057": {
+    "igdb_id": 46001,
+    "path": "covers/46001.jpg"
+  },
+  "UCJS10061": {
+    "igdb_id": 67801,
+    "path": "covers/67801.jpg"
+  },
+  "UCJS10077": {
+    "igdb_id": 7812,
+    "path": "covers/7812.jpg"
+  },
+  "UCJS10080": {
+    "igdb_id": 269518,
+    "path": "covers/269518.jpg"
+  },
+  "UCJS10082": {
+    "igdb_id": 72958,
+    "path": "covers/72958.jpg"
+  },
+  "UCJS10087": {
+    "igdb_id": 1461,
+    "path": "covers/1461.jpg"
+  },
+  "UCJS10092": {
+    "igdb_id": 61258,
+    "path": "covers/61258.jpg"
+  },
+  "UCJS10093": {
+    "igdb_id": 69255,
+    "path": "covers/69255.jpg"
+  },
+  "UCJS10097": {
+    "igdb_id": 61254,
+    "path": "covers/61254.jpg"
+  },
+  "UCJS10100": {
+    "igdb_id": 20426,
+    "path": "covers/20426.jpg"
+  },
+  "UCJS10105": {
+    "igdb_id": 61259,
+    "path": "covers/61259.jpg"
+  },
+  "UCJS10110": {
+    "igdb_id": 66765,
+    "path": "covers/66765.jpg"
+  },
+  "UCJS10113": {
+    "igdb_id": 18373,
+    "path": "covers/18373.jpg"
+  },
+  "UCJS18011": {
+    "igdb_id": 1459,
+    "path": "covers/1459.jpg"
+  },
+  "UCJS18012": {
+    "igdb_id": 72561,
+    "path": "covers/72561.jpg"
+  },
+  "UCJS18017": {
+    "igdb_id": 23141,
+    "path": "covers/23141.jpg"
+  },
+  "UCJS18018": {
+    "igdb_id": 23141,
+    "path": "covers/23141.jpg"
+  },
+  "UCJS18027": {
+    "igdb_id": 7812,
+    "path": "covers/7812.jpg"
+  },
+  "UCJX90019": {
+    "igdb_id": 11326,
+    "path": "covers/11326.jpg"
+  },
+  "UCKM84002": {
+    "igdb_id": 67813,
+    "path": "covers/67813.jpg"
+  },
+  "UCKS45001": {
+    "igdb_id": 67813,
+    "path": "covers/67813.jpg"
+  },
+  "UCKS45002": {
+    "igdb_id": 18787,
+    "path": "covers/18787.jpg"
+  },
+  "UCKS45008": {
+    "igdb_id": 1542,
+    "path": "covers/1542.jpg"
+  },
+  "UCKS45021": {
+    "igdb_id": 24148,
+    "path": "covers/24148.jpg"
+  },
+  "UCKS45027": {
+    "igdb_id": 24181,
+    "path": "covers/24181.jpg"
+  },
+  "UCKS45038": {
+    "igdb_id": 14755,
+    "path": "covers/14755.jpg"
+  },
+  "UCKS45043": {
+    "igdb_id": 19431,
+    "path": "covers/19431.jpg"
+  },
+  "UCKS45051": {
+    "igdb_id": 7188,
+    "path": "covers/7188.jpg"
+  },
+  "UCKS45061": {
+    "igdb_id": 24148,
+    "path": "covers/24148.jpg"
+  },
+  "UCKS45067": {
+    "igdb_id": 14755,
+    "path": "covers/14755.jpg"
+  },
+  "UCKS45069": {
+    "igdb_id": 24181,
+    "path": "covers/24181.jpg"
+  },
+  "UCKS45076": {
+    "igdb_id": 7812,
+    "path": "covers/7812.jpg"
+  },
+  "UCKS45078": {
+    "igdb_id": 1543,
+    "path": "covers/1543.jpg"
+  },
+  "UCKS45084": {
+    "igdb_id": 552,
+    "path": "covers/552.jpg"
+  },
+  "UCKS45085": {
+    "igdb_id": 7370,
+    "path": "covers/7370.jpg"
+  },
+  "UCKS45095": {
+    "igdb_id": 21682,
+    "path": "covers/21682.jpg"
+  },
+  "UCKS45096": {
+    "igdb_id": 1793,
+    "path": "covers/1793.jpg"
+  },
+  "UCKS45099": {
+    "igdb_id": 7812,
+    "path": "covers/7812.jpg"
+  },
+  "UCKS45103": {
+    "igdb_id": 1461,
+    "path": "covers/1461.jpg"
+  },
+  "UCKS45107": {
+    "igdb_id": 391,
+    "path": "covers/391.jpg"
+  },
+  "UCKS45124": {
+    "igdb_id": 21104,
+    "path": "covers/21104.jpg"
+  },
+  "UCKS45126": {
+    "igdb_id": 1568,
+    "path": "covers/1568.jpg"
+  },
+  "UCKS45128": {
+    "igdb_id": 21665,
+    "path": "covers/21665.jpg"
+  },
+  "UCKS45131": {
+    "igdb_id": 1531,
+    "path": "covers/1531.jpg"
+  },
+  "UCKS45142": {
+    "igdb_id": 22976,
+    "path": "covers/22976.jpg"
+  },
+  "UCKS45154": {
+    "igdb_id": 4841,
+    "path": "covers/4841.jpg"
+  },
+  "UCKS45155": {
+    "igdb_id": 552,
+    "path": "covers/552.jpg"
+  },
+  "UCKS45158": {
+    "igdb_id": 66765,
+    "path": "covers/66765.jpg"
+  },
+  "UCKS45161": {
+    "igdb_id": 550,
+    "path": "covers/550.jpg"
+  },
+  "UCKS45162": {
+    "igdb_id": 21736,
+    "path": "covers/21736.jpg"
+  },
+  "UCUS10352": {
+    "igdb_id": 243242,
+    "path": "covers/243242.jpg"
+  },
+  "UCUS90678": {
+    "igdb_id": 243252,
+    "path": "covers/243252.jpg"
+  },
+  "UCUS90691": {
+    "igdb_id": 20426,
+    "path": "covers/20426.jpg"
+  },
+  "UCUS98173": {
+    "igdb_id": 1224,
+    "path": "covers/1224.jpg"
+  },
+  "UCUS98601": {
+    "igdb_id": 5414,
+    "path": "covers/5414.jpg"
+  },
+  "UCUS98603": {
+    "igdb_id": 8272,
+    "path": "covers/8272.jpg"
+  },
+  "UCUS98604": {
+    "igdb_id": 138071,
+    "path": "covers/138071.jpg"
+  },
+  "UCUS98606": {
+    "igdb_id": 19430,
+    "path": "covers/19430.jpg"
+  },
+  "UCUS98607": {
+    "igdb_id": 100222,
+    "path": "covers/100222.jpg"
+  },
+  "UCUS98609": {
+    "igdb_id": 44530,
+    "path": "covers/44530.jpg"
+  },
+  "UCUS98612": {
+    "igdb_id": 1542,
+    "path": "covers/1542.jpg"
+  },
+  "UCUS98613": {
+    "igdb_id": 22291,
+    "path": "covers/22291.jpg"
+  },
+  "UCUS98614": {
+    "igdb_id": 22453,
+    "path": "covers/22453.jpg"
+  },
+  "UCUS98615": {
+    "igdb_id": 24148,
+    "path": "covers/24148.jpg"
+  },
+  "UCUS98617": {
+    "igdb_id": 23136,
+    "path": "covers/23136.jpg"
+  },
+  "UCUS98618": {
+    "igdb_id": 1533,
+    "path": "covers/1533.jpg"
+  },
+  "UCUS98619": {
+    "igdb_id": 22454,
+    "path": "covers/22454.jpg"
+  },
+  "UCUS98620": {
+    "igdb_id": 4005,
+    "path": "covers/4005.jpg"
+  },
+  "UCUS98621": {
+    "igdb_id": 22578,
+    "path": "covers/22578.jpg"
+  },
+  "UCUS98622": {
+    "igdb_id": 78340,
+    "path": "covers/78340.jpg"
+  },
+  "UCUS98623": {
+    "igdb_id": 42878,
+    "path": "covers/42878.jpg"
+  },
+  "UCUS98624": {
+    "igdb_id": 20525,
+    "path": "covers/20525.jpg"
+  },
+  "UCUS98626": {
+    "igdb_id": 24143,
+    "path": "covers/24143.jpg"
+  },
+  "UCUS98627": {
+    "igdb_id": 24142,
+    "path": "covers/24142.jpg"
+  },
+  "UCUS98629": {
+    "igdb_id": 22454,
+    "path": "covers/22454.jpg"
+  },
+  "UCUS98631": {
+    "igdb_id": 24180,
+    "path": "covers/24180.jpg"
+  },
+  "UCUS98632": {
+    "igdb_id": 20426,
+    "path": "covers/20426.jpg"
+  },
+  "UCUS98633": {
+    "igdb_id": 1791,
+    "path": "covers/1791.jpg"
+  },
+  "UCUS98634": {
+    "igdb_id": 1531,
+    "path": "covers/1531.jpg"
+  },
+  "UCUS98637": {
+    "igdb_id": 24148,
+    "path": "covers/24148.jpg"
+  },
+  "UCUS98638": {
+    "igdb_id": 24148,
+    "path": "covers/24148.jpg"
+  },
+  "UCUS98640": {
+    "igdb_id": 26995,
+    "path": "covers/26995.jpg"
+  },
+  "UCUS98641": {
+    "igdb_id": 20764,
+    "path": "covers/20764.jpg"
+  },
+  "UCUS98644": {
+    "igdb_id": 7381,
+    "path": "covers/7381.jpg"
+  },
+  "UCUS98645": {
+    "igdb_id": 19431,
+    "path": "covers/19431.jpg"
+  },
+  "UCUS98646": {
+    "igdb_id": 1868,
+    "path": "covers/1868.jpg"
+  },
+  "UCUS98647": {
+    "igdb_id": 76216,
+    "path": "covers/76216.jpg"
+  },
+  "UCUS98648": {
+    "igdb_id": 8274,
+    "path": "covers/8274.jpg"
+  },
+  "UCUS98649": {
+    "igdb_id": 22530,
+    "path": "covers/22530.jpg"
+  },
+  "UCUS98653": {
+    "igdb_id": 552,
+    "path": "covers/552.jpg"
+  },
+  "UCUS98654": {
+    "igdb_id": 1533,
+    "path": "covers/1533.jpg"
+  },
+  "UCUS98655": {
+    "igdb_id": 26995,
+    "path": "covers/26995.jpg"
+  },
+  "UCUS98656": {
+    "igdb_id": 20764,
+    "path": "covers/20764.jpg"
+  },
+  "UCUS98662": {
+    "igdb_id": 1459,
+    "path": "covers/1459.jpg"
+  },
+  "UCUS98667": {
+    "igdb_id": 7369,
+    "path": "covers/7369.jpg"
+  },
+  "UCUS98668": {
+    "igdb_id": 22885,
+    "path": "covers/22885.jpg"
+  },
+  "UCUS98670": {
+    "igdb_id": 1868,
+    "path": "covers/1868.jpg"
+  },
+  "UCUS98671": {
+    "igdb_id": 76216,
+    "path": "covers/76216.jpg"
+  },
+  "UCUS98676": {
+    "igdb_id": 24180,
+    "path": "covers/24180.jpg"
+  },
+  "UCUS98677": {
+    "igdb_id": 19431,
+    "path": "covers/19431.jpg"
+  },
+  "UCUS98680": {
+    "igdb_id": 7369,
+    "path": "covers/7369.jpg"
+  },
+  "UCUS98681": {
+    "igdb_id": 8274,
+    "path": "covers/8274.jpg"
+  },
+  "UCUS98684": {
+    "igdb_id": 1791,
+    "path": "covers/1791.jpg"
+  },
+  "UCUS98685": {
+    "igdb_id": 1459,
+    "path": "covers/1459.jpg"
+  },
+  "UCUS98689": {
+    "igdb_id": 23136,
+    "path": "covers/23136.jpg"
+  },
+  "UCUS98691": {
+    "igdb_id": 19431,
+    "path": "covers/19431.jpg"
+  },
+  "UCUS98692": {
+    "igdb_id": 19431,
+    "path": "covers/19431.jpg"
+  },
+  "UCUS98693": {
+    "igdb_id": 21050,
+    "path": "covers/21050.jpg"
+  },
+  "UCUS98694": {
+    "igdb_id": 7381,
+    "path": "covers/7381.jpg"
+  },
+  "UCUS98695": {
+    "igdb_id": 1791,
+    "path": "covers/1791.jpg"
+  },
+  "UCUS98696": {
+    "igdb_id": 7370,
+    "path": "covers/7370.jpg"
+  },
+  "UCUS98697": {
+    "igdb_id": 1793,
+    "path": "covers/1793.jpg"
+  },
+  "UCUS98699": {
+    "igdb_id": 7382,
+    "path": "covers/7382.jpg"
+  },
+  "UCUS98700": {
+    "igdb_id": 11326,
+    "path": "covers/11326.jpg"
+  },
+  "UCUS98701": {
+    "igdb_id": 21754,
+    "path": "covers/21754.jpg"
+  },
+  "UCUS98702": {
+    "igdb_id": 269666,
+    "path": "covers/269666.jpg"
+  },
+  "UCUS98703": {
+    "igdb_id": 23055,
+    "path": "covers/23055.jpg"
+  },
+  "UCUS98704": {
+    "igdb_id": 19430,
+    "path": "covers/19430.jpg"
+  },
+  "UCUS98706": {
+    "igdb_id": 11326,
+    "path": "covers/11326.jpg"
+  },
+  "UCUS98707": {
+    "igdb_id": 1793,
+    "path": "covers/1793.jpg"
+  },
+  "UCUS98711": {
+    "igdb_id": 7812,
+    "path": "covers/7812.jpg"
+  },
+  "UCUS98712": {
+    "igdb_id": 1543,
+    "path": "covers/1543.jpg"
+  },
+  "UCUS98714": {
+    "igdb_id": 22530,
+    "path": "covers/22530.jpg"
+  },
+  "UCUS98715": {
+    "igdb_id": 7383,
+    "path": "covers/7383.jpg"
+  },
+  "UCUS98716": {
+    "igdb_id": 21665,
+    "path": "covers/21665.jpg"
+  },
+  "UCUS98718": {
+    "igdb_id": 23055,
+    "path": "covers/23055.jpg"
+  },
+  "UCUS98721": {
+    "igdb_id": 7812,
+    "path": "covers/7812.jpg"
+  },
+  "UCUS98729": {
+    "igdb_id": 21944,
+    "path": "covers/21944.jpg"
+  },
+  "UCUS98730": {
+    "igdb_id": 7371,
+    "path": "covers/7371.jpg"
+  },
+  "UCUS98731": {
+    "igdb_id": 1461,
+    "path": "covers/1461.jpg"
+  },
+  "UCUS98732": {
+    "igdb_id": 7813,
+    "path": "covers/7813.jpg"
+  },
+  "UCUS98737": {
+    "igdb_id": 550,
+    "path": "covers/550.jpg"
+  },
+  "UCUS98738": {
+    "igdb_id": 21895,
+    "path": "covers/21895.jpg"
+  },
+  "UCUS98739": {
+    "igdb_id": 44520,
+    "path": "covers/44520.jpg"
+  },
+  "UCUS98740": {
+    "igdb_id": 21752,
+    "path": "covers/21752.jpg"
+  },
+  "UCUS98741": {
+    "igdb_id": 4841,
+    "path": "covers/4841.jpg"
+  },
+  "UCUS98742": {
+    "igdb_id": 7372,
+    "path": "covers/7372.jpg"
+  },
+  "UCUS98743": {
+    "igdb_id": 21104,
+    "path": "covers/21104.jpg"
+  },
+  "UCUS98744": {
+    "igdb_id": 21911,
+    "path": "covers/21911.jpg"
+  },
+  "UCUS98746": {
+    "igdb_id": 2994,
+    "path": "covers/2994.jpg"
+  },
+  "UCUS98751": {
+    "igdb_id": 18373,
+    "path": "covers/18373.jpg"
+  },
+  "UCUS98758": {
+    "igdb_id": 7373,
+    "path": "covers/7373.jpg"
+  },
+  "UCUS98759": {
+    "igdb_id": 7303,
+    "path": "covers/7303.jpg"
+  },
+  "UCUS98760": {
+    "igdb_id": 2996,
+    "path": "covers/2996.jpg"
+  },
+  "UCUS98764": {
+    "igdb_id": 1533,
+    "path": "covers/1533.jpg"
+  },
+  "UCUS98765": {
+    "igdb_id": 248136,
+    "path": "covers/248136.jpg"
+  },
+  "UCUS98919": {
+    "igdb_id": 382,
+    "path": "covers/382.jpg"
+  },
+  "ULAS42002": {
+    "igdb_id": 248495,
+    "path": "covers/248495.jpg"
+  },
+  "ULAS42003": {
+    "igdb_id": 38479,
+    "path": "covers/38479.jpg"
+  },
+  "ULAS42009": {
+    "igdb_id": 21619,
+    "path": "covers/21619.jpg"
+  },
+  "ULAS42019": {
+    "igdb_id": 10916,
+    "path": "covers/10916.jpg"
+  },
+  "ULAS42020": {
+    "igdb_id": 248474,
+    "path": "covers/248474.jpg"
+  },
+  "ULAS42031": {
+    "igdb_id": 121504,
+    "path": "covers/121504.jpg"
+  },
+  "ULAS42044": {
+    "igdb_id": 5836,
+    "path": "covers/5836.jpg"
+  },
+  "ULAS42049": {
+    "igdb_id": 62140,
+    "path": "covers/62140.jpg"
+  },
+  "ULAS42054": {
+    "igdb_id": 42748,
+    "path": "covers/42748.jpg"
+  },
+  "ULAS42076": {
+    "igdb_id": 248771,
+    "path": "covers/248771.jpg"
+  },
+  "ULAS42080": {
+    "igdb_id": 11639,
+    "path": "covers/11639.jpg"
+  },
+  "ULAS42083": {
+    "igdb_id": 72879,
+    "path": "covers/72879.jpg"
+  },
+  "ULAS42085": {
+    "igdb_id": 286683,
+    "path": "covers/286683.jpg"
+  },
+  "ULAS42087": {
+    "igdb_id": 381,
+    "path": "covers/381.jpg"
+  },
+  "ULAS42090": {
+    "igdb_id": 42869,
+    "path": "covers/42869.jpg"
+  },
+  "ULAS42095": {
+    "igdb_id": 6203,
+    "path": "covers/6203.jpg"
+  },
+  "ULAS42099": {
+    "igdb_id": 21939,
+    "path": "covers/21939.jpg"
+  },
+  "ULAS42104": {
+    "igdb_id": 3011,
+    "path": "covers/3011.jpg"
+  },
+  "ULAS42110": {
+    "igdb_id": 23066,
+    "path": "covers/23066.jpg"
+  },
+  "ULAS42115": {
+    "igdb_id": 259331,
+    "path": "covers/259331.jpg"
+  },
+  "ULAS42120": {
+    "igdb_id": 1315,
+    "path": "covers/1315.jpg"
+  },
+  "ULAS42123": {
+    "igdb_id": 21617,
+    "path": "covers/21617.jpg"
+  },
+  "ULAS42129": {
+    "igdb_id": 210431,
+    "path": "covers/210431.jpg"
+  },
+  "ULAS42137": {
+    "igdb_id": 72752,
+    "path": "covers/72752.jpg"
+  },
+  "ULAS42146": {
+    "igdb_id": 248138,
+    "path": "covers/248138.jpg"
+  },
+  "ULAS42147": {
+    "igdb_id": 269497,
+    "path": "covers/269497.jpg"
+  },
+  "ULAS42155": {
+    "igdb_id": 56744,
+    "path": "covers/56744.jpg"
+  },
+  "ULAS42163": {
+    "igdb_id": 11754,
+    "path": "covers/11754.jpg"
+  },
+  "ULAS42176": {
+    "igdb_id": 248136,
+    "path": "covers/248136.jpg"
+  },
+  "ULAS42187": {
+    "igdb_id": 7107,
+    "path": "covers/7107.jpg"
+  },
+  "ULAS42218": {
+    "igdb_id": 382,
+    "path": "covers/382.jpg"
+  },
+  "ULAS42244": {
+    "igdb_id": 66611,
+    "path": "covers/66611.jpg"
+  },
+  "ULAS42260": {
+    "igdb_id": 42759,
+    "path": "covers/42759.jpg"
+  },
+  "ULAS42270": {
+    "igdb_id": 269504,
+    "path": "covers/269504.jpg"
+  },
+  "ULAS42298": {
+    "igdb_id": 11767,
+    "path": "covers/11767.jpg"
+  },
+  "ULED01244": {
+    "igdb_id": 20427,
+    "path": "covers/20427.jpg"
+  },
+  "ULED01539": {
+    "igdb_id": 19649,
+    "path": "covers/19649.jpg"
+  },
+  "ULES00011": {
+    "igdb_id": 22293,
+    "path": "covers/22293.jpg"
+  },
+  "ULES00016": {
+    "igdb_id": 20011,
+    "path": "covers/20011.jpg"
+  },
+  "ULES00022": {
+    "igdb_id": 218127,
+    "path": "covers/218127.jpg"
+  },
+  "ULES00023": {
+    "igdb_id": 218127,
+    "path": "covers/218127.jpg"
+  },
+  "ULES00025": {
+    "igdb_id": 22509,
+    "path": "covers/22509.jpg"
+  },
+  "ULES00026": {
+    "igdb_id": 100279,
+    "path": "covers/100279.jpg"
+  },
+  "ULES00033": {
+    "igdb_id": 22311,
+    "path": "covers/22311.jpg"
+  },
+  "ULES00034": {
+    "igdb_id": 22311,
+    "path": "covers/22311.jpg"
+  },
+  "ULES00035": {
+    "igdb_id": 22311,
+    "path": "covers/22311.jpg"
+  },
+  "ULES00036": {
+    "igdb_id": 243016,
+    "path": "covers/243016.jpg"
+  },
+  "ULES00037": {
+    "igdb_id": 38479,
+    "path": "covers/38479.jpg"
+  },
+  "ULES00040": {
+    "igdb_id": 6201,
+    "path": "covers/6201.jpg"
+  },
+  "ULES00046": {
+    "igdb_id": 22508,
+    "path": "covers/22508.jpg"
+  },
+  "ULES00108": {
+    "igdb_id": 5928,
+    "path": "covers/5928.jpg"
+  },
+  "ULES00111": {
+    "igdb_id": 44470,
+    "path": "covers/44470.jpg"
+  },
+  "ULES00118": {
+    "igdb_id": 100279,
+    "path": "covers/100279.jpg"
+  },
+  "ULES00119": {
+    "igdb_id": 100279,
+    "path": "covers/100279.jpg"
+  },
+  "ULES00123": {
+    "igdb_id": 38473,
+    "path": "covers/38473.jpg"
+  },
+  "ULES00124": {
+    "igdb_id": 21619,
+    "path": "covers/21619.jpg"
+  },
+  "ULES00125": {
+    "igdb_id": 10916,
+    "path": "covers/10916.jpg"
+  },
+  "ULES00126": {
+    "igdb_id": 22312,
+    "path": "covers/22312.jpg"
+  },
+  "ULES00135": {
+    "igdb_id": 114138,
+    "path": "covers/114138.jpg"
+  },
+  "ULES00144": {
+    "igdb_id": 45988,
+    "path": "covers/45988.jpg"
+  },
+  "ULES00146": {
+    "igdb_id": 22564,
+    "path": "covers/22564.jpg"
+  },
+  "ULES00147": {
+    "igdb_id": 243006,
+    "path": "covers/243006.jpg"
+  },
+  "ULES00151": {
+    "igdb_id": 3263,
+    "path": "covers/3263.jpg"
+  },
+  "ULES00153": {
+    "igdb_id": 248474,
+    "path": "covers/248474.jpg"
+  },
+  "ULES00154": {
+    "igdb_id": 248474,
+    "path": "covers/248474.jpg"
+  },
+  "ULES00155": {
+    "igdb_id": 8272,
+    "path": "covers/8272.jpg"
+  },
+  "ULES00156": {
+    "igdb_id": 242986,
+    "path": "covers/242986.jpg"
+  },
+  "ULES00157": {
+    "igdb_id": 242986,
+    "path": "covers/242986.jpg"
+  },
+  "ULES00158": {
+    "igdb_id": 242986,
+    "path": "covers/242986.jpg"
+  },
+  "ULES00159": {
+    "igdb_id": 3992,
+    "path": "covers/3992.jpg"
+  },
+  "ULES00168": {
+    "igdb_id": 248550,
+    "path": "covers/248550.jpg"
+  },
+  "ULES00169": {
+    "igdb_id": 248550,
+    "path": "covers/248550.jpg"
+  },
+  "ULES00170": {
+    "igdb_id": 248550,
+    "path": "covers/248550.jpg"
+  },
+  "ULES00171": {
+    "igdb_id": 248550,
+    "path": "covers/248550.jpg"
+  },
+  "ULES00172": {
+    "igdb_id": 248550,
+    "path": "covers/248550.jpg"
+  },
+  "ULES00173": {
+    "igdb_id": 248550,
+    "path": "covers/248550.jpg"
+  },
+  "ULES00174": {
+    "igdb_id": 269426,
+    "path": "covers/269426.jpg"
+  },
+  "ULES00175": {
+    "igdb_id": 22563,
+    "path": "covers/22563.jpg"
+  },
+  "ULES00176": {
+    "igdb_id": 329316,
+    "path": "covers/329316.jpg"
+  },
+  "ULES00177": {
+    "igdb_id": 21810,
+    "path": "covers/21810.jpg"
+  },
+  "ULES00180": {
+    "igdb_id": 71407,
+    "path": "covers/71407.jpg"
+  },
+  "ULES00182": {
+    "igdb_id": 3263,
+    "path": "covers/3263.jpg"
+  },
+  "ULES00183": {
+    "igdb_id": 142,
+    "path": "covers/142.jpg"
+  },
+  "ULES00189": {
+    "igdb_id": 245310,
+    "path": "covers/245310.jpg"
+  },
+  "ULES00190": {
+    "igdb_id": 245310,
+    "path": "covers/245310.jpg"
+  },
+  "ULES00192": {
+    "igdb_id": 4177,
+    "path": "covers/4177.jpg"
+  },
+  "ULES00193": {
+    "igdb_id": 207256,
+    "path": "covers/207256.jpg"
+  },
+  "ULES00195": {
+    "igdb_id": 3010,
+    "path": "covers/3010.jpg"
+  },
+  "ULES00196": {
+    "igdb_id": 121504,
+    "path": "covers/121504.jpg"
+  },
+  "ULES00198": {
+    "igdb_id": 22458,
+    "path": "covers/22458.jpg"
+  },
+  "ULES00207": {
+    "igdb_id": 11481,
+    "path": "covers/11481.jpg"
+  },
+  "ULES00210": {
+    "igdb_id": 248544,
+    "path": "covers/248544.jpg"
+  },
+  "ULES00211": {
+    "igdb_id": 210460,
+    "path": "covers/210460.jpg"
+  },
+  "ULES00215": {
+    "igdb_id": 248544,
+    "path": "covers/248544.jpg"
+  },
+  "ULES00216": {
+    "igdb_id": 248544,
+    "path": "covers/248544.jpg"
+  },
+  "ULES00219": {
+    "igdb_id": 46022,
+    "path": "covers/46022.jpg"
+  },
+  "ULES00223": {
+    "igdb_id": 22565,
+    "path": "covers/22565.jpg"
+  },
+  "ULES00224": {
+    "igdb_id": 4235,
+    "path": "covers/4235.jpg"
+  },
+  "ULES00225": {
+    "igdb_id": 248542,
+    "path": "covers/248542.jpg"
+  },
+  "ULES00227": {
+    "igdb_id": 18323,
+    "path": "covers/18323.jpg"
+  },
+  "ULES00235": {
+    "igdb_id": 42876,
+    "path": "covers/42876.jpg"
+  },
+  "ULES00239": {
+    "igdb_id": 38456,
+    "path": "covers/38456.jpg"
+  },
+  "ULES00248": {
+    "igdb_id": 22629,
+    "path": "covers/22629.jpg"
+  },
+  "ULES00251": {
+    "igdb_id": 24275,
+    "path": "covers/24275.jpg"
+  },
+  "ULES00256": {
+    "igdb_id": 4231,
+    "path": "covers/4231.jpg"
+  },
+  "ULES00260": {
+    "igdb_id": 243197,
+    "path": "covers/243197.jpg"
+  },
+  "ULES00262": {
+    "igdb_id": 2054,
+    "path": "covers/2054.jpg"
+  },
+  "ULES00264": {
+    "igdb_id": 240365,
+    "path": "covers/240365.jpg"
+  },
+  "ULES00268": {
+    "igdb_id": 18313,
+    "path": "covers/18313.jpg"
+  },
+  "ULES00270": {
+    "igdb_id": 5836,
+    "path": "covers/5836.jpg"
+  },
+  "ULES00274": {
+    "igdb_id": 18267,
+    "path": "covers/18267.jpg"
+  },
+  "ULES00275": {
+    "igdb_id": 203188,
+    "path": "covers/203188.jpg"
+  },
+  "ULES00276": {
+    "igdb_id": 46017,
+    "path": "covers/46017.jpg"
+  },
+  "ULES00277": {
+    "igdb_id": 44512,
+    "path": "covers/44512.jpg"
+  },
+  "ULES00281": {
+    "igdb_id": 22632,
+    "path": "covers/22632.jpg"
+  },
+  "ULES00285": {
+    "igdb_id": 85653,
+    "path": "covers/85653.jpg"
+  },
+  "ULES00291": {
+    "igdb_id": 23140,
+    "path": "covers/23140.jpg"
+  },
+  "ULES00294": {
+    "igdb_id": 4075,
+    "path": "covers/4075.jpg"
+  },
+  "ULES00296": {
+    "igdb_id": 23148,
+    "path": "covers/23148.jpg"
+  },
+  "ULES00297": {
+    "igdb_id": 12299,
+    "path": "covers/12299.jpg"
+  },
+  "ULES00298": {
+    "igdb_id": 12299,
+    "path": "covers/12299.jpg"
+  },
+  "ULES00299": {
+    "igdb_id": 12299,
+    "path": "covers/12299.jpg"
+  },
+  "ULES00301": {
+    "igdb_id": 23006,
+    "path": "covers/23006.jpg"
+  },
+  "ULES00303": {
+    "igdb_id": 38483,
+    "path": "covers/38483.jpg"
+  },
+  "ULES00307": {
+    "igdb_id": 12937,
+    "path": "covers/12937.jpg"
+  },
+  "ULES00309": {
+    "igdb_id": 2567,
+    "path": "covers/2567.jpg"
+  },
+  "ULES00312": {
+    "igdb_id": 19692,
+    "path": "covers/19692.jpg"
+  },
+  "ULES00318": {
+    "igdb_id": 2269,
+    "path": "covers/2269.jpg"
+  },
+  "ULES00330": {
+    "igdb_id": 5771,
+    "path": "covers/5771.jpg"
+  },
+  "ULES00335": {
+    "igdb_id": 42873,
+    "path": "covers/42873.jpg"
+  },
+  "ULES00337": {
+    "igdb_id": 44524,
+    "path": "covers/44524.jpg"
+  },
+  "ULES00338": {
+    "igdb_id": 44524,
+    "path": "covers/44524.jpg"
+  },
+  "ULES00339": {
+    "igdb_id": 6455,
+    "path": "covers/6455.jpg"
+  },
+  "ULES00347": {
+    "igdb_id": 23005,
+    "path": "covers/23005.jpg"
+  },
+  "ULES00348": {
+    "igdb_id": 42761,
+    "path": "covers/42761.jpg"
+  },
+  "ULES00353": {
+    "igdb_id": 1615,
+    "path": "covers/1615.jpg"
+  },
+  "ULES00358": {
+    "igdb_id": 46019,
+    "path": "covers/46019.jpg"
+  },
+  "ULES00363": {
+    "igdb_id": 23001,
+    "path": "covers/23001.jpg"
+  },
+  "ULES00364": {
+    "igdb_id": 248530,
+    "path": "covers/248530.jpg"
+  },
+  "ULES00366": {
+    "igdb_id": 20542,
+    "path": "covers/20542.jpg"
+  },
+  "ULES00368": {
+    "igdb_id": 8512,
+    "path": "covers/8512.jpg"
+  },
+  "ULES00374": {
+    "igdb_id": 23121,
+    "path": "covers/23121.jpg"
+  },
+  "ULES00375": {
+    "igdb_id": 23818,
+    "path": "covers/23818.jpg"
+  },
+  "ULES00376": {
+    "igdb_id": 23818,
+    "path": "covers/23818.jpg"
+  },
+  "ULES00377": {
+    "igdb_id": 23099,
+    "path": "covers/23099.jpg"
+  },
+  "ULES00379": {
+    "igdb_id": 18262,
+    "path": "covers/18262.jpg"
+  },
+  "ULES00381": {
+    "igdb_id": 18192,
+    "path": "covers/18192.jpg"
+  },
+  "ULES00382": {
+    "igdb_id": 77232,
+    "path": "covers/77232.jpg"
+  },
+  "ULES00383": {
+    "igdb_id": 42813,
+    "path": "covers/42813.jpg"
+  },
+  "ULES00388": {
+    "igdb_id": 21886,
+    "path": "covers/21886.jpg"
+  },
+  "ULES00390": {
+    "igdb_id": 23123,
+    "path": "covers/23123.jpg"
+  },
+  "ULES00419": {
+    "igdb_id": 12481,
+    "path": "covers/12481.jpg"
+  },
+  "ULES00437": {
+    "igdb_id": 24185,
+    "path": "covers/24185.jpg"
+  },
+  "ULES00451": {
+    "igdb_id": 23122,
+    "path": "covers/23122.jpg"
+  },
+  "ULES00452": {
+    "igdb_id": 23122,
+    "path": "covers/23122.jpg"
+  },
+  "ULES00453": {
+    "igdb_id": 42848,
+    "path": "covers/42848.jpg"
+  },
+  "ULES00455": {
+    "igdb_id": 5220,
+    "path": "covers/5220.jpg"
+  },
+  "ULES00456": {
+    "igdb_id": 5220,
+    "path": "covers/5220.jpg"
+  },
+  "ULES00462": {
+    "igdb_id": 248771,
+    "path": "covers/248771.jpg"
+  },
+  "ULES00463": {
+    "igdb_id": 248771,
+    "path": "covers/248771.jpg"
+  },
+  "ULES00464": {
+    "igdb_id": 248771,
+    "path": "covers/248771.jpg"
+  },
+  "ULES00466": {
+    "igdb_id": 23125,
+    "path": "covers/23125.jpg"
+  },
+  "ULES00468": {
+    "igdb_id": 23106,
+    "path": "covers/23106.jpg"
+  },
+  "ULES00469": {
+    "igdb_id": 129853,
+    "path": "covers/129853.jpg"
+  },
+  "ULES00472": {
+    "igdb_id": 20572,
+    "path": "covers/20572.jpg"
+  },
+  "ULES00473": {
+    "igdb_id": 23098,
+    "path": "covers/23098.jpg"
+  },
+  "ULES00474": {
+    "igdb_id": 5821,
+    "path": "covers/5821.jpg"
+  },
+  "ULES00477": {
+    "igdb_id": 5964,
+    "path": "covers/5964.jpg"
+  },
+  "ULES00479": {
+    "igdb_id": 248528,
+    "path": "covers/248528.jpg"
+  },
+  "ULES00483": {
+    "igdb_id": 6030,
+    "path": "covers/6030.jpg"
+  },
+  "ULES00484": {
+    "igdb_id": 248546,
+    "path": "covers/248546.jpg"
+  },
+  "ULES00485": {
+    "igdb_id": 248546,
+    "path": "covers/248546.jpg"
+  },
+  "ULES00496": {
+    "igdb_id": 13107,
+    "path": "covers/13107.jpg"
+  },
+  "ULES00502": {
+    "igdb_id": 3262,
+    "path": "covers/3262.jpg"
+  },
+  "ULES00503": {
+    "igdb_id": 3262,
+    "path": "covers/3262.jpg"
+  },
+  "ULES00507": {
+    "igdb_id": 248524,
+    "path": "covers/248524.jpg"
+  },
+  "ULES00508": {
+    "igdb_id": 248524,
+    "path": "covers/248524.jpg"
+  },
+  "ULES00509": {
+    "igdb_id": 22578,
+    "path": "covers/22578.jpg"
+  },
+  "ULES00511": {
+    "igdb_id": 22578,
+    "path": "covers/22578.jpg"
+  },
+  "ULES00512": {
+    "igdb_id": 22578,
+    "path": "covers/22578.jpg"
+  },
+  "ULES00513": {
+    "igdb_id": 22578,
+    "path": "covers/22578.jpg"
+  },
+  "ULES00516": {
+    "igdb_id": 22578,
+    "path": "covers/22578.jpg"
+  },
+  "ULES00517": {
+    "igdb_id": 23103,
+    "path": "covers/23103.jpg"
+  },
+  "ULES00522": {
+    "igdb_id": 94821,
+    "path": "covers/94821.jpg"
+  },
+  "ULES00530": {
+    "igdb_id": 5004,
+    "path": "covers/5004.jpg"
+  },
+  "ULES00540": {
+    "igdb_id": 44631,
+    "path": "covers/44631.jpg"
+  },
+  "ULES00542": {
+    "igdb_id": 288948,
+    "path": "covers/288948.jpg"
+  },
+  "ULES00545": {
+    "igdb_id": 5140,
+    "path": "covers/5140.jpg"
+  },
+  "ULES00546": {
+    "igdb_id": 5140,
+    "path": "covers/5140.jpg"
+  },
+  "ULES00547": {
+    "igdb_id": 5140,
+    "path": "covers/5140.jpg"
+  },
+  "ULES00549": {
+    "igdb_id": 269427,
+    "path": "covers/269427.jpg"
+  },
+  "ULES00550": {
+    "igdb_id": 80845,
+    "path": "covers/80845.jpg"
+  },
+  "ULES00553": {
+    "igdb_id": 4690,
+    "path": "covers/4690.jpg"
+  },
+  "ULES00554": {
+    "igdb_id": 5899,
+    "path": "covers/5899.jpg"
+  },
+  "ULES00557": {
+    "igdb_id": 1312,
+    "path": "covers/1312.jpg"
+  },
+  "ULES00558": {
+    "igdb_id": 1312,
+    "path": "covers/1312.jpg"
+  },
+  "ULES00559": {
+    "igdb_id": 1312,
+    "path": "covers/1312.jpg"
+  },
+  "ULES00560": {
+    "igdb_id": 1312,
+    "path": "covers/1312.jpg"
+  },
+  "ULES00561": {
+    "igdb_id": 1312,
+    "path": "covers/1312.jpg"
+  },
+  "ULES00562": {
+    "igdb_id": 1312,
+    "path": "covers/1312.jpg"
+  },
+  "ULES00567": {
+    "igdb_id": 2846,
+    "path": "covers/2846.jpg"
+  },
+  "ULES00569": {
+    "igdb_id": 9270,
+    "path": "covers/9270.jpg"
+  },
+  "ULES00570": {
+    "igdb_id": 93388,
+    "path": "covers/93388.jpg"
+  },
+  "ULES00571": {
+    "igdb_id": 8087,
+    "path": "covers/8087.jpg"
+  },
+  "ULES00573": {
+    "igdb_id": 8087,
+    "path": "covers/8087.jpg"
+  },
+  "ULES00574": {
+    "igdb_id": 24196,
+    "path": "covers/24196.jpg"
+  },
+  "ULES00576": {
+    "igdb_id": 11639,
+    "path": "covers/11639.jpg"
+  },
+  "ULES00577": {
+    "igdb_id": 11639,
+    "path": "covers/11639.jpg"
+  },
+  "ULES00581": {
+    "igdb_id": 5935,
+    "path": "covers/5935.jpg"
+  },
+  "ULES00582": {
+    "igdb_id": 4801,
+    "path": "covers/4801.jpg"
+  },
+  "ULES00588": {
+    "igdb_id": 327743,
+    "path": "covers/327743.jpg"
+  },
+  "ULES00590": {
+    "igdb_id": 45294,
+    "path": "covers/45294.jpg"
+  },
+  "ULES00592": {
+    "igdb_id": 23084,
+    "path": "covers/23084.jpg"
+  },
+  "ULES00594": {
+    "igdb_id": 23087,
+    "path": "covers/23087.jpg"
+  },
+  "ULES00595": {
+    "igdb_id": 286683,
+    "path": "covers/286683.jpg"
+  },
+  "ULES00596": {
+    "igdb_id": 286683,
+    "path": "covers/286683.jpg"
+  },
+  "ULES00599": {
+    "igdb_id": 23116,
+    "path": "covers/23116.jpg"
+  },
+  "ULES00600": {
+    "igdb_id": 78167,
+    "path": "covers/78167.jpg"
+  },
+  "ULES00601": {
+    "igdb_id": 2846,
+    "path": "covers/2846.jpg"
+  },
+  "ULES00603": {
+    "igdb_id": 73266,
+    "path": "covers/73266.jpg"
+  },
+  "ULES00604": {
+    "igdb_id": 42886,
+    "path": "covers/42886.jpg"
+  },
+  "ULES00605": {
+    "igdb_id": 42886,
+    "path": "covers/42886.jpg"
+  },
+  "ULES00606": {
+    "igdb_id": 42886,
+    "path": "covers/42886.jpg"
+  },
+  "ULES00608": {
+    "igdb_id": 23117,
+    "path": "covers/23117.jpg"
+  },
+  "ULES00609": {
+    "igdb_id": 248573,
+    "path": "covers/248573.jpg"
+  },
+  "ULES00611": {
+    "igdb_id": 78838,
+    "path": "covers/78838.jpg"
+  },
+  "ULES00612": {
+    "igdb_id": 74717,
+    "path": "covers/74717.jpg"
+  },
+  "ULES00613": {
+    "igdb_id": 42849,
+    "path": "covers/42849.jpg"
+  },
+  "ULES00616": {
+    "igdb_id": 23102,
+    "path": "covers/23102.jpg"
+  },
+  "ULES00619": {
+    "igdb_id": 44500,
+    "path": "covers/44500.jpg"
+  },
+  "ULES00620": {
+    "igdb_id": 28961,
+    "path": "covers/28961.jpg"
+  },
+  "ULES00621": {
+    "igdb_id": 137875,
+    "path": "covers/137875.jpg"
+  },
+  "ULES00622": {
+    "igdb_id": 19260,
+    "path": "covers/19260.jpg"
+  },
+  "ULES00623": {
+    "igdb_id": 20610,
+    "path": "covers/20610.jpg"
+  },
+  "ULES00625": {
+    "igdb_id": 6204,
+    "path": "covers/6204.jpg"
+  },
+  "ULES00626": {
+    "igdb_id": 6204,
+    "path": "covers/6204.jpg"
+  },
+  "ULES00627": {
+    "igdb_id": 9614,
+    "path": "covers/9614.jpg"
+  },
+  "ULES00629": {
+    "igdb_id": 23111,
+    "path": "covers/23111.jpg"
+  },
+  "ULES00630": {
+    "igdb_id": 6420,
+    "path": "covers/6420.jpg"
+  },
+  "ULES00631": {
+    "igdb_id": 7252,
+    "path": "covers/7252.jpg"
+  },
+  "ULES00634": {
+    "igdb_id": 43342,
+    "path": "covers/43342.jpg"
+  },
+  "ULES00636": {
+    "igdb_id": 14887,
+    "path": "covers/14887.jpg"
+  },
+  "ULES00637": {
+    "igdb_id": 201348,
+    "path": "covers/201348.jpg"
+  },
+  "ULES00638": {
+    "igdb_id": 21386,
+    "path": "covers/21386.jpg"
+  },
+  "ULES00639": {
+    "igdb_id": 5198,
+    "path": "covers/5198.jpg"
+  },
+  "ULES00640": {
+    "igdb_id": 23110,
+    "path": "covers/23110.jpg"
+  },
+  "ULES00641": {
+    "igdb_id": 8266,
+    "path": "covers/8266.jpg"
+  },
+  "ULES00642": {
+    "igdb_id": 23096,
+    "path": "covers/23096.jpg"
+  },
+  "ULES00643": {
+    "igdb_id": 3120,
+    "path": "covers/3120.jpg"
+  },
+  "ULES00644": {
+    "igdb_id": 3120,
+    "path": "covers/3120.jpg"
+  },
+  "ULES00645": {
+    "igdb_id": 381,
+    "path": "covers/381.jpg"
+  },
+  "ULES00646": {
+    "igdb_id": 2852,
+    "path": "covers/2852.jpg"
+  },
+  "ULES00647": {
+    "igdb_id": 44503,
+    "path": "covers/44503.jpg"
+  },
+  "ULES00648": {
+    "igdb_id": 127045,
+    "path": "covers/127045.jpg"
+  },
+  "ULES00657": {
+    "igdb_id": 20073,
+    "path": "covers/20073.jpg"
+  },
+  "ULES00658": {
+    "igdb_id": 42852,
+    "path": "covers/42852.jpg"
+  },
+  "ULES00661": {
+    "igdb_id": 43297,
+    "path": "covers/43297.jpg"
+  },
+  "ULES00670": {
+    "igdb_id": 23112,
+    "path": "covers/23112.jpg"
+  },
+  "ULES00681": {
+    "igdb_id": 21954,
+    "path": "covers/21954.jpg"
+  },
+  "ULES00683": {
+    "igdb_id": 21955,
+    "path": "covers/21955.jpg"
+  },
+  "ULES00688": {
+    "igdb_id": 210479,
+    "path": "covers/210479.jpg"
+  },
+  "ULES00692": {
+    "igdb_id": 21430,
+    "path": "covers/21430.jpg"
+  },
+  "ULES00695": {
+    "igdb_id": 4967,
+    "path": "covers/4967.jpg"
+  },
+  "ULES00699": {
+    "igdb_id": 7225,
+    "path": "covers/7225.jpg"
+  },
+  "ULES00703": {
+    "igdb_id": 6203,
+    "path": "covers/6203.jpg"
+  },
+  "ULES00704": {
+    "igdb_id": 4873,
+    "path": "covers/4873.jpg"
+  },
+  "ULES00706": {
+    "igdb_id": 7225,
+    "path": "covers/7225.jpg"
+  },
+  "ULES00707": {
+    "igdb_id": 7225,
+    "path": "covers/7225.jpg"
+  },
+  "ULES00708": {
+    "igdb_id": 7225,
+    "path": "covers/7225.jpg"
+  },
+  "ULES00709": {
+    "igdb_id": 7225,
+    "path": "covers/7225.jpg"
+  },
+  "ULES00711": {
+    "igdb_id": 5742,
+    "path": "covers/5742.jpg"
+  },
+  "ULES00718": {
+    "igdb_id": 21939,
+    "path": "covers/21939.jpg"
+  },
+  "ULES00719": {
+    "igdb_id": 243030,
+    "path": "covers/243030.jpg"
+  },
+  "ULES00720": {
+    "igdb_id": 2370,
+    "path": "covers/2370.jpg"
+  },
+  "ULES00721": {
+    "igdb_id": 23051,
+    "path": "covers/23051.jpg"
+  },
+  "ULES00722": {
+    "igdb_id": 81499,
+    "path": "covers/81499.jpg"
+  },
+  "ULES00724": {
+    "igdb_id": 22756,
+    "path": "covers/22756.jpg"
+  },
+  "ULES00739": {
+    "igdb_id": 20691,
+    "path": "covers/20691.jpg"
+  },
+  "ULES00740": {
+    "igdb_id": 22018,
+    "path": "covers/22018.jpg"
+  },
+  "ULES00750": {
+    "igdb_id": 6203,
+    "path": "covers/6203.jpg"
+  },
+  "ULES00753": {
+    "igdb_id": 23085,
+    "path": "covers/23085.jpg"
+  },
+  "ULES00755": {
+    "igdb_id": 6377,
+    "path": "covers/6377.jpg"
+  },
+  "ULES00756": {
+    "igdb_id": 1972,
+    "path": "covers/1972.jpg"
+  },
+  "ULES00757": {
+    "igdb_id": 39702,
+    "path": "covers/39702.jpg"
+  },
+  "ULES00759": {
+    "igdb_id": 248513,
+    "path": "covers/248513.jpg"
+  },
+  "ULES00760": {
+    "igdb_id": 4910,
+    "path": "covers/4910.jpg"
+  },
+  "ULES00763": {
+    "igdb_id": 7235,
+    "path": "covers/7235.jpg"
+  },
+  "ULES00765": {
+    "igdb_id": 6753,
+    "path": "covers/6753.jpg"
+  },
+  "ULES00766": {
+    "igdb_id": 23086,
+    "path": "covers/23086.jpg"
+  },
+  "ULES00770": {
+    "igdb_id": 1301,
+    "path": "covers/1301.jpg"
+  },
+  "ULES00772": {
+    "igdb_id": 4667,
+    "path": "covers/4667.jpg"
+  },
+  "ULES00773": {
+    "igdb_id": 4794,
+    "path": "covers/4794.jpg"
+  },
+  "ULES00776": {
+    "igdb_id": 42727,
+    "path": "covers/42727.jpg"
+  },
+  "ULES00785": {
+    "igdb_id": 23085,
+    "path": "covers/23085.jpg"
+  },
+  "ULES00792": {
+    "igdb_id": 44504,
+    "path": "covers/44504.jpg"
+  },
+  "ULES00798": {
+    "igdb_id": 143345,
+    "path": "covers/143345.jpg"
+  },
+  "ULES00800": {
+    "igdb_id": 21421,
+    "path": "covers/21421.jpg"
+  },
+  "ULES00808": {
+    "igdb_id": 15718,
+    "path": "covers/15718.jpg"
+  },
+  "ULES00811": {
+    "igdb_id": 1809,
+    "path": "covers/1809.jpg"
+  },
+  "ULES00814": {
+    "igdb_id": 70025,
+    "path": "covers/70025.jpg"
+  },
+  "ULES00816": {
+    "igdb_id": 248517,
+    "path": "covers/248517.jpg"
+  },
+  "ULES00817": {
+    "igdb_id": 248517,
+    "path": "covers/248517.jpg"
+  },
+  "ULES00818": {
+    "igdb_id": 6559,
+    "path": "covers/6559.jpg"
+  },
+  "ULES00819": {
+    "igdb_id": 18314,
+    "path": "covers/18314.jpg"
+  },
+  "ULES00820": {
+    "igdb_id": 24274,
+    "path": "covers/24274.jpg"
+  },
+  "ULES00821": {
+    "igdb_id": 45995,
+    "path": "covers/45995.jpg"
+  },
+  "ULES00823": {
+    "igdb_id": 200810,
+    "path": "covers/200810.jpg"
+  },
+  "ULES00824": {
+    "igdb_id": 200810,
+    "path": "covers/200810.jpg"
+  },
+  "ULES00825": {
+    "igdb_id": 200810,
+    "path": "covers/200810.jpg"
+  },
+  "ULES00827": {
+    "igdb_id": 7007,
+    "path": "covers/7007.jpg"
+  },
+  "ULES00828": {
+    "igdb_id": 44482,
+    "path": "covers/44482.jpg"
+  },
+  "ULES00829": {
+    "igdb_id": 3011,
+    "path": "covers/3011.jpg"
+  },
+  "ULES00830": {
+    "igdb_id": 3011,
+    "path": "covers/3011.jpg"
+  },
+  "ULES00831": {
+    "igdb_id": 3011,
+    "path": "covers/3011.jpg"
+  },
+  "ULES00834": {
+    "igdb_id": 44483,
+    "path": "covers/44483.jpg"
+  },
+  "ULES00835": {
+    "igdb_id": 63325,
+    "path": "covers/63325.jpg"
+  },
+  "ULES00836": {
+    "igdb_id": 61341,
+    "path": "covers/61341.jpg"
+  },
+  "ULES00837": {
+    "igdb_id": 19159,
+    "path": "covers/19159.jpg"
+  },
+  "ULES00840": {
+    "igdb_id": 290170,
+    "path": "covers/290170.jpg"
+  },
+  "ULES00841": {
+    "igdb_id": 21888,
+    "path": "covers/21888.jpg"
+  },
+  "ULES00845": {
+    "igdb_id": 5221,
+    "path": "covers/5221.jpg"
+  },
+  "ULES00846": {
+    "igdb_id": 5221,
+    "path": "covers/5221.jpg"
+  },
+  "ULES00847": {
+    "igdb_id": 74314,
+    "path": "covers/74314.jpg"
+  },
+  "ULES00848": {
+    "igdb_id": 4731,
+    "path": "covers/4731.jpg"
+  },
+  "ULES00850": {
+    "igdb_id": 394,
+    "path": "covers/394.jpg"
+  },
+  "ULES00851": {
+    "igdb_id": 23066,
+    "path": "covers/23066.jpg"
+  },
+  "ULES00858": {
+    "igdb_id": 42880,
+    "path": "covers/42880.jpg"
+  },
+  "ULES00861": {
+    "igdb_id": 23063,
+    "path": "covers/23063.jpg"
+  },
+  "ULES00865": {
+    "igdb_id": 24281,
+    "path": "covers/24281.jpg"
+  },
+  "ULES00867": {
+    "igdb_id": 243014,
+    "path": "covers/243014.jpg"
+  },
+  "ULES00869": {
+    "igdb_id": 484,
+    "path": "covers/484.jpg"
+  },
+  "ULES00873": {
+    "igdb_id": 18310,
+    "path": "covers/18310.jpg"
+  },
+  "ULES00887": {
+    "igdb_id": 209,
+    "path": "covers/209.jpg"
+  },
+  "ULES00888": {
+    "igdb_id": 209,
+    "path": "covers/209.jpg"
+  },
+  "ULES00889": {
+    "igdb_id": 209,
+    "path": "covers/209.jpg"
+  },
+  "ULES00897": {
+    "igdb_id": 2805,
+    "path": "covers/2805.jpg"
+  },
+  "ULES00899": {
+    "igdb_id": 249163,
+    "path": "covers/249163.jpg"
+  },
+  "ULES00900": {
+    "igdb_id": 249163,
+    "path": "covers/249163.jpg"
+  },
+  "ULES00902": {
+    "igdb_id": 21047,
+    "path": "covers/21047.jpg"
+  },
+  "ULES00903": {
+    "igdb_id": 21047,
+    "path": "covers/21047.jpg"
+  },
+  "ULES00905": {
+    "igdb_id": 2799,
+    "path": "covers/2799.jpg"
+  },
+  "ULES00906": {
+    "igdb_id": 2799,
+    "path": "covers/2799.jpg"
+  },
+  "ULES00909": {
+    "igdb_id": 2370,
+    "path": "covers/2370.jpg"
+  },
+  "ULES00914": {
+    "igdb_id": 4958,
+    "path": "covers/4958.jpg"
+  },
+  "ULES00915": {
+    "igdb_id": 1190,
+    "path": "covers/1190.jpg"
+  },
+  "ULES00916": {
+    "igdb_id": 1190,
+    "path": "covers/1190.jpg"
+  },
+  "ULES00917": {
+    "igdb_id": 1190,
+    "path": "covers/1190.jpg"
+  },
+  "ULES00918": {
+    "igdb_id": 1190,
+    "path": "covers/1190.jpg"
+  },
+  "ULES00920": {
+    "igdb_id": 248774,
+    "path": "covers/248774.jpg"
+  },
+  "ULES00921": {
+    "igdb_id": 248774,
+    "path": "covers/248774.jpg"
+  },
+  "ULES00924": {
+    "igdb_id": 42839,
+    "path": "covers/42839.jpg"
+  },
+  "ULES00925": {
+    "igdb_id": 21945,
+    "path": "covers/21945.jpg"
+  },
+  "ULES00927": {
+    "igdb_id": 319,
+    "path": "covers/319.jpg"
+  },
+  "ULES00928": {
+    "igdb_id": 380445,
+    "path": "covers/380445.jpg"
+  },
+  "ULES00931": {
+    "igdb_id": 5298,
+    "path": "covers/5298.jpg"
+  },
+  "ULES00932": {
+    "igdb_id": 5298,
+    "path": "covers/5298.jpg"
+  },
+  "ULES00934": {
+    "igdb_id": 269428,
+    "path": "covers/269428.jpg"
+  },
+  "ULES00938": {
+    "igdb_id": 218140,
+    "path": "covers/218140.jpg"
+  },
+  "ULES00939": {
+    "igdb_id": 4932,
+    "path": "covers/4932.jpg"
+  },
+  "ULES00940": {
+    "igdb_id": 19262,
+    "path": "covers/19262.jpg"
+  },
+  "ULES00945": {
+    "igdb_id": 192907,
+    "path": "covers/192907.jpg"
+  },
+  "ULES00950": {
+    "igdb_id": 4892,
+    "path": "covers/4892.jpg"
+  },
+  "ULES00955": {
+    "igdb_id": 1315,
+    "path": "covers/1315.jpg"
+  },
+  "ULES00956": {
+    "igdb_id": 1315,
+    "path": "covers/1315.jpg"
+  },
+  "ULES00957": {
+    "igdb_id": 42725,
+    "path": "covers/42725.jpg"
+  },
+  "ULES00968": {
+    "igdb_id": 22774,
+    "path": "covers/22774.jpg"
+  },
+  "ULES00969": {
+    "igdb_id": 22774,
+    "path": "covers/22774.jpg"
+  },
+  "ULES00972": {
+    "igdb_id": 21675,
+    "path": "covers/21675.jpg"
+  },
+  "ULES00973": {
+    "igdb_id": 21383,
+    "path": "covers/21383.jpg"
+  },
+  "ULES00974": {
+    "igdb_id": 9391,
+    "path": "covers/9391.jpg"
+  },
+  "ULES00975": {
+    "igdb_id": 259331,
+    "path": "covers/259331.jpg"
+  },
+  "ULES00981": {
+    "igdb_id": 399295,
+    "path": "covers/399295.jpg"
+  },
+  "ULES00982": {
+    "igdb_id": 399295,
+    "path": "covers/399295.jpg"
+  },
+  "ULES00983": {
+    "igdb_id": 43213,
+    "path": "covers/43213.jpg"
+  },
+  "ULES00986": {
+    "igdb_id": 397,
+    "path": "covers/397.jpg"
+  },
+  "ULES00987": {
+    "igdb_id": 121717,
+    "path": "covers/121717.jpg"
+  },
+  "ULES00988": {
+    "igdb_id": 1315,
+    "path": "covers/1315.jpg"
+  },
+  "ULES00991": {
+    "igdb_id": 5289,
+    "path": "covers/5289.jpg"
+  },
+  "ULES00992": {
+    "igdb_id": 6912,
+    "path": "covers/6912.jpg"
+  },
+  "ULES00993": {
+    "igdb_id": 248555,
+    "path": "covers/248555.jpg"
+  },
+  "ULES00999": {
+    "igdb_id": 22528,
+    "path": "covers/22528.jpg"
+  },
+  "ULES01003": {
+    "igdb_id": 21617,
+    "path": "covers/21617.jpg"
+  },
+  "ULES01004": {
+    "igdb_id": 24279,
+    "path": "covers/24279.jpg"
+  },
+  "ULES01013": {
+    "igdb_id": 20777,
+    "path": "covers/20777.jpg"
+  },
+  "ULES01016": {
+    "igdb_id": 42718,
+    "path": "covers/42718.jpg"
+  },
+  "ULES01017": {
+    "igdb_id": 20553,
+    "path": "covers/20553.jpg"
+  },
+  "ULES01019": {
+    "igdb_id": 210431,
+    "path": "covers/210431.jpg"
+  },
+  "ULES01020": {
+    "igdb_id": 210431,
+    "path": "covers/210431.jpg"
+  },
+  "ULES01023": {
+    "igdb_id": 18383,
+    "path": "covers/18383.jpg"
+  },
+  "ULES01024": {
+    "igdb_id": 4765,
+    "path": "covers/4765.jpg"
+  },
+  "ULES01027": {
+    "igdb_id": 42881,
+    "path": "covers/42881.jpg"
+  },
+  "ULES01028": {
+    "igdb_id": 42879,
+    "path": "covers/42879.jpg"
+  },
+  "ULES01029": {
+    "igdb_id": 10704,
+    "path": "covers/10704.jpg"
+  },
+  "ULES01037": {
+    "igdb_id": 4629,
+    "path": "covers/4629.jpg"
+  },
+  "ULES01044": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "ULES01045": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "ULES01046": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "ULES01047": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "ULES01048": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "ULES01054": {
+    "igdb_id": 7242,
+    "path": "covers/7242.jpg"
+  },
+  "ULES01055": {
+    "igdb_id": 7242,
+    "path": "covers/7242.jpg"
+  },
+  "ULES01056": {
+    "igdb_id": 7242,
+    "path": "covers/7242.jpg"
+  },
+  "ULES01063": {
+    "igdb_id": 7178,
+    "path": "covers/7178.jpg"
+  },
+  "ULES01066": {
+    "igdb_id": 47726,
+    "path": "covers/47726.jpg"
+  },
+  "ULES01068": {
+    "igdb_id": 7468,
+    "path": "covers/7468.jpg"
+  },
+  "ULES01070": {
+    "igdb_id": 257214,
+    "path": "covers/257214.jpg"
+  },
+  "ULES01071": {
+    "igdb_id": 257214,
+    "path": "covers/257214.jpg"
+  },
+  "ULES01078": {
+    "igdb_id": 8198,
+    "path": "covers/8198.jpg"
+  },
+  "ULES01085": {
+    "igdb_id": 1683,
+    "path": "covers/1683.jpg"
+  },
+  "ULES01086": {
+    "igdb_id": 189,
+    "path": "covers/189.jpg"
+  },
+  "ULES01088": {
+    "igdb_id": 19660,
+    "path": "covers/19660.jpg"
+  },
+  "ULES01090": {
+    "igdb_id": 20321,
+    "path": "covers/20321.jpg"
+  },
+  "ULES01091": {
+    "igdb_id": 44475,
+    "path": "covers/44475.jpg"
+  },
+  "ULES01093": {
+    "igdb_id": 243242,
+    "path": "covers/243242.jpg"
+  },
+  "ULES01094": {
+    "igdb_id": 21682,
+    "path": "covers/21682.jpg"
+  },
+  "ULES01095": {
+    "igdb_id": 4768,
+    "path": "covers/4768.jpg"
+  },
+  "ULES01098": {
+    "igdb_id": 19202,
+    "path": "covers/19202.jpg"
+  },
+  "ULES01105": {
+    "igdb_id": 5162,
+    "path": "covers/5162.jpg"
+  },
+  "ULES01120": {
+    "igdb_id": 5222,
+    "path": "covers/5222.jpg"
+  },
+  "ULES01144": {
+    "igdb_id": 42857,
+    "path": "covers/42857.jpg"
+  },
+  "ULES01145": {
+    "igdb_id": 248138,
+    "path": "covers/248138.jpg"
+  },
+  "ULES01147": {
+    "igdb_id": 248777,
+    "path": "covers/248777.jpg"
+  },
+  "ULES01148": {
+    "igdb_id": 248777,
+    "path": "covers/248777.jpg"
+  },
+  "ULES01149": {
+    "igdb_id": 248777,
+    "path": "covers/248777.jpg"
+  },
+  "ULES01152": {
+    "igdb_id": 38447,
+    "path": "covers/38447.jpg"
+  },
+  "ULES01154": {
+    "igdb_id": 24299,
+    "path": "covers/24299.jpg"
+  },
+  "ULES01161": {
+    "igdb_id": 7919,
+    "path": "covers/7919.jpg"
+  },
+  "ULES01164": {
+    "igdb_id": 66820,
+    "path": "covers/66820.jpg"
+  },
+  "ULES01165": {
+    "igdb_id": 5299,
+    "path": "covers/5299.jpg"
+  },
+  "ULES01166": {
+    "igdb_id": 5299,
+    "path": "covers/5299.jpg"
+  },
+  "ULES01169": {
+    "igdb_id": 5017,
+    "path": "covers/5017.jpg"
+  },
+  "ULES01170": {
+    "igdb_id": 1191,
+    "path": "covers/1191.jpg"
+  },
+  "ULES01171": {
+    "igdb_id": 1191,
+    "path": "covers/1191.jpg"
+  },
+  "ULES01172": {
+    "igdb_id": 1191,
+    "path": "covers/1191.jpg"
+  },
+  "ULES01174": {
+    "igdb_id": 208778,
+    "path": "covers/208778.jpg"
+  },
+  "ULES01175": {
+    "igdb_id": 47726,
+    "path": "covers/47726.jpg"
+  },
+  "ULES01179": {
+    "igdb_id": 22999,
+    "path": "covers/22999.jpg"
+  },
+  "ULES01180": {
+    "igdb_id": 166354,
+    "path": "covers/166354.jpg"
+  },
+  "ULES01183": {
+    "igdb_id": 44494,
+    "path": "covers/44494.jpg"
+  },
+  "ULES01185": {
+    "igdb_id": 5152,
+    "path": "covers/5152.jpg"
+  },
+  "ULES01187": {
+    "igdb_id": 80504,
+    "path": "covers/80504.jpg"
+  },
+  "ULES01189": {
+    "igdb_id": 2801,
+    "path": "covers/2801.jpg"
+  },
+  "ULES01191": {
+    "igdb_id": 21711,
+    "path": "covers/21711.jpg"
+  },
+  "ULES01211": {
+    "igdb_id": 50648,
+    "path": "covers/50648.jpg"
+  },
+  "ULES01213": {
+    "igdb_id": 20427,
+    "path": "covers/20427.jpg"
+  },
+  "ULES01214": {
+    "igdb_id": 476,
+    "path": "covers/476.jpg"
+  },
+  "ULES01215": {
+    "igdb_id": 24307,
+    "path": "covers/24307.jpg"
+  },
+  "ULES01218": {
+    "igdb_id": 21873,
+    "path": "covers/21873.jpg"
+  },
+  "ULES01219": {
+    "igdb_id": 69130,
+    "path": "covers/69130.jpg"
+  },
+  "ULES01221": {
+    "igdb_id": 6983,
+    "path": "covers/6983.jpg"
+  },
+  "ULES01226": {
+    "igdb_id": 209931,
+    "path": "covers/209931.jpg"
+  },
+  "ULES01230": {
+    "igdb_id": 5649,
+    "path": "covers/5649.jpg"
+  },
+  "ULES01237": {
+    "igdb_id": 5216,
+    "path": "covers/5216.jpg"
+  },
+  "ULES01242": {
+    "igdb_id": 21665,
+    "path": "covers/21665.jpg"
+  },
+  "ULES01243": {
+    "igdb_id": 2721,
+    "path": "covers/2721.jpg"
+  },
+  "ULES01247": {
+    "igdb_id": 7179,
+    "path": "covers/7179.jpg"
+  },
+  "ULES01248": {
+    "igdb_id": 43212,
+    "path": "covers/43212.jpg"
+  },
+  "ULES01260": {
+    "igdb_id": 5223,
+    "path": "covers/5223.jpg"
+  },
+  "ULES01261": {
+    "igdb_id": 7243,
+    "path": "covers/7243.jpg"
+  },
+  "ULES01262": {
+    "igdb_id": 7243,
+    "path": "covers/7243.jpg"
+  },
+  "ULES01265": {
+    "igdb_id": 20071,
+    "path": "covers/20071.jpg"
+  },
+  "ULES01267": {
+    "igdb_id": 47895,
+    "path": "covers/47895.jpg"
+  },
+  "ULES01270": {
+    "igdb_id": 391,
+    "path": "covers/391.jpg"
+  },
+  "ULES01273": {
+    "igdb_id": 7919,
+    "path": "covers/7919.jpg"
+  },
+  "ULES01275": {
+    "igdb_id": 248136,
+    "path": "covers/248136.jpg"
+  },
+  "ULES01277": {
+    "igdb_id": 4877,
+    "path": "covers/4877.jpg"
+  },
+  "ULES01278": {
+    "igdb_id": 19101,
+    "path": "covers/19101.jpg"
+  },
+  "ULES01283": {
+    "igdb_id": 77134,
+    "path": "covers/77134.jpg"
+  },
+  "ULES01284": {
+    "igdb_id": 210,
+    "path": "covers/210.jpg"
+  },
+  "ULES01285": {
+    "igdb_id": 210,
+    "path": "covers/210.jpg"
+  },
+  "ULES01286": {
+    "igdb_id": 7471,
+    "path": "covers/7471.jpg"
+  },
+  "ULES01287": {
+    "igdb_id": 7471,
+    "path": "covers/7471.jpg"
+  },
+  "ULES01298": {
+    "igdb_id": 1568,
+    "path": "covers/1568.jpg"
+  },
+  "ULES01299": {
+    "igdb_id": 68302,
+    "path": "covers/68302.jpg"
+  },
+  "ULES01301": {
+    "igdb_id": 237839,
+    "path": "covers/237839.jpg"
+  },
+  "ULES01302": {
+    "igdb_id": 42688,
+    "path": "covers/42688.jpg"
+  },
+  "ULES01303": {
+    "igdb_id": 44487,
+    "path": "covers/44487.jpg"
+  },
+  "ULES01304": {
+    "igdb_id": 44487,
+    "path": "covers/44487.jpg"
+  },
+  "ULES01305": {
+    "igdb_id": 5229,
+    "path": "covers/5229.jpg"
+  },
+  "ULES01306": {
+    "igdb_id": 19658,
+    "path": "covers/19658.jpg"
+  },
+  "ULES01308": {
+    "igdb_id": 7107,
+    "path": "covers/7107.jpg"
+  },
+  "ULES01309": {
+    "igdb_id": 7107,
+    "path": "covers/7107.jpg"
+  },
+  "ULES01310": {
+    "igdb_id": 7107,
+    "path": "covers/7107.jpg"
+  },
+  "ULES01316": {
+    "igdb_id": 7016,
+    "path": "covers/7016.jpg"
+  },
+  "ULES01318": {
+    "igdb_id": 4767,
+    "path": "covers/4767.jpg"
+  },
+  "ULES01319": {
+    "igdb_id": 4767,
+    "path": "covers/4767.jpg"
+  },
+  "ULES01338": {
+    "igdb_id": 52218,
+    "path": "covers/52218.jpg"
+  },
+  "ULES01339": {
+    "igdb_id": 5300,
+    "path": "covers/5300.jpg"
+  },
+  "ULES01340": {
+    "igdb_id": 5080,
+    "path": "covers/5080.jpg"
+  },
+  "ULES01342": {
+    "igdb_id": 5054,
+    "path": "covers/5054.jpg"
+  },
+  "ULES01343": {
+    "igdb_id": 568,
+    "path": "covers/568.jpg"
+  },
+  "ULES01345": {
+    "igdb_id": 4682,
+    "path": "covers/4682.jpg"
+  },
+  "ULES01347": {
+    "igdb_id": 3270,
+    "path": "covers/3270.jpg"
+  },
+  "ULES01350": {
+    "igdb_id": 1302,
+    "path": "covers/1302.jpg"
+  },
+  "ULES01351": {
+    "igdb_id": 237596,
+    "path": "covers/237596.jpg"
+  },
+  "ULES01352": {
+    "igdb_id": 486,
+    "path": "covers/486.jpg"
+  },
+  "ULES01355": {
+    "igdb_id": 4837,
+    "path": "covers/4837.jpg"
+  },
+  "ULES01356": {
+    "igdb_id": 10732,
+    "path": "covers/10732.jpg"
+  },
+  "ULES01357": {
+    "igdb_id": 4211,
+    "path": "covers/4211.jpg"
+  },
+  "ULES01358": {
+    "igdb_id": 2802,
+    "path": "covers/2802.jpg"
+  },
+  "ULES01359": {
+    "igdb_id": 21943,
+    "path": "covers/21943.jpg"
+  },
+  "ULES01362": {
+    "igdb_id": 42790,
+    "path": "covers/42790.jpg"
+  },
+  "ULES01363": {
+    "igdb_id": 2821,
+    "path": "covers/2821.jpg"
+  },
+  "ULES01366": {
+    "igdb_id": 86072,
+    "path": "covers/86072.jpg"
+  },
+  "ULES01367": {
+    "igdb_id": 10661,
+    "path": "covers/10661.jpg"
+  },
+  "ULES01368": {
+    "igdb_id": 4997,
+    "path": "covers/4997.jpg"
+  },
+  "ULES01372": {
+    "igdb_id": 382,
+    "path": "covers/382.jpg"
+  },
+  "ULES01375": {
+    "igdb_id": 248571,
+    "path": "covers/248571.jpg"
+  },
+  "ULES01381": {
+    "igdb_id": 997,
+    "path": "covers/997.jpg"
+  },
+  "ULES01383": {
+    "igdb_id": 46016,
+    "path": "covers/46016.jpg"
+  },
+  "ULES01384": {
+    "igdb_id": 6958,
+    "path": "covers/6958.jpg"
+  },
+  "ULES01385": {
+    "igdb_id": 6958,
+    "path": "covers/6958.jpg"
+  },
+  "ULES01386": {
+    "igdb_id": 6958,
+    "path": "covers/6958.jpg"
+  },
+  "ULES01387": {
+    "igdb_id": 6958,
+    "path": "covers/6958.jpg"
+  },
+  "ULES01388": {
+    "igdb_id": 6958,
+    "path": "covers/6958.jpg"
+  },
+  "ULES01390": {
+    "igdb_id": 23358,
+    "path": "covers/23358.jpg"
+  },
+  "ULES01392": {
+    "igdb_id": 21851,
+    "path": "covers/21851.jpg"
+  },
+  "ULES01394": {
+    "igdb_id": 5642,
+    "path": "covers/5642.jpg"
+  },
+  "ULES01395": {
+    "igdb_id": 339594,
+    "path": "covers/339594.jpg"
+  },
+  "ULES01397": {
+    "igdb_id": 83207,
+    "path": "covers/83207.jpg"
+  },
+  "ULES01405": {
+    "igdb_id": 287629,
+    "path": "covers/287629.jpg"
+  },
+  "ULES01406": {
+    "igdb_id": 287629,
+    "path": "covers/287629.jpg"
+  },
+  "ULES01407": {
+    "igdb_id": 42855,
+    "path": "covers/42855.jpg"
+  },
+  "ULES01408": {
+    "igdb_id": 14757,
+    "path": "covers/14757.jpg"
+  },
+  "ULES01409": {
+    "igdb_id": 142710,
+    "path": "covers/142710.jpg"
+  },
+  "ULES01410": {
+    "igdb_id": 7228,
+    "path": "covers/7228.jpg"
+  },
+  "ULES01412": {
+    "igdb_id": 240362,
+    "path": "covers/240362.jpg"
+  },
+  "ULES01413": {
+    "igdb_id": 240362,
+    "path": "covers/240362.jpg"
+  },
+  "ULES01414": {
+    "igdb_id": 240362,
+    "path": "covers/240362.jpg"
+  },
+  "ULES01416": {
+    "igdb_id": 1395,
+    "path": "covers/1395.jpg"
+  },
+  "ULES01418": {
+    "igdb_id": 22968,
+    "path": "covers/22968.jpg"
+  },
+  "ULES01429": {
+    "igdb_id": 21760,
+    "path": "covers/21760.jpg"
+  },
+  "ULES01431": {
+    "igdb_id": 1395,
+    "path": "covers/1395.jpg"
+  },
+  "ULES01432": {
+    "igdb_id": 25172,
+    "path": "covers/25172.jpg"
+  },
+  "ULES01433": {
+    "igdb_id": 25172,
+    "path": "covers/25172.jpg"
+  },
+  "ULES01439": {
+    "igdb_id": 19256,
+    "path": "covers/19256.jpg"
+  },
+  "ULES01440": {
+    "igdb_id": 269501,
+    "path": "covers/269501.jpg"
+  },
+  "ULES01441": {
+    "igdb_id": 1224,
+    "path": "covers/1224.jpg"
+  },
+  "ULES01446": {
+    "igdb_id": 250156,
+    "path": "covers/250156.jpg"
+  },
+  "ULES01455": {
+    "igdb_id": 42726,
+    "path": "covers/42726.jpg"
+  },
+  "ULES01456": {
+    "igdb_id": 2572,
+    "path": "covers/2572.jpg"
+  },
+  "ULES01466": {
+    "igdb_id": 6909,
+    "path": "covers/6909.jpg"
+  },
+  "ULES01471": {
+    "igdb_id": 2807,
+    "path": "covers/2807.jpg"
+  },
+  "ULES01472": {
+    "igdb_id": 2265,
+    "path": "covers/2265.jpg"
+  },
+  "ULES01474": {
+    "igdb_id": 42854,
+    "path": "covers/42854.jpg"
+  },
+  "ULES01488": {
+    "igdb_id": 5056,
+    "path": "covers/5056.jpg"
+  },
+  "ULES01489": {
+    "igdb_id": 42887,
+    "path": "covers/42887.jpg"
+  },
+  "ULES01493": {
+    "igdb_id": 269500,
+    "path": "covers/269500.jpg"
+  },
+  "ULES01500": {
+    "igdb_id": 132992,
+    "path": "covers/132992.jpg"
+  },
+  "ULES01507": {
+    "igdb_id": 21736,
+    "path": "covers/21736.jpg"
+  },
+  "ULES01509": {
+    "igdb_id": 269501,
+    "path": "covers/269501.jpg"
+  },
+  "ULES01510": {
+    "igdb_id": 5296,
+    "path": "covers/5296.jpg"
+  },
+  "ULES01512": {
+    "igdb_id": 5006,
+    "path": "covers/5006.jpg"
+  },
+  "ULES01513": {
+    "igdb_id": 7359,
+    "path": "covers/7359.jpg"
+  },
+  "ULES01515": {
+    "igdb_id": 41028,
+    "path": "covers/41028.jpg"
+  },
+  "ULES01516": {
+    "igdb_id": 24310,
+    "path": "covers/24310.jpg"
+  },
+  "ULES01519": {
+    "igdb_id": 11852,
+    "path": "covers/11852.jpg"
+  },
+  "ULES01521": {
+    "igdb_id": 21779,
+    "path": "covers/21779.jpg"
+  },
+  "ULES01526": {
+    "igdb_id": 11611,
+    "path": "covers/11611.jpg"
+  },
+  "ULES01528": {
+    "igdb_id": 284142,
+    "path": "covers/284142.jpg"
+  },
+  "ULES01532": {
+    "igdb_id": 3150,
+    "path": "covers/3150.jpg"
+  },
+  "ULES01537": {
+    "igdb_id": 19649,
+    "path": "covers/19649.jpg"
+  },
+  "ULES01543": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULES01544": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULES01545": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULES01546": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULES01547": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULES01548": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULES01549": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULES01550": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULES01551": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULES01554": {
+    "igdb_id": 256895,
+    "path": "covers/256895.jpg"
+  },
+  "ULES01555": {
+    "igdb_id": 269429,
+    "path": "covers/269429.jpg"
+  },
+  "ULES01556": {
+    "igdb_id": 8986,
+    "path": "covers/8986.jpg"
+  },
+  "ULES01557": {
+    "igdb_id": 250931,
+    "path": "covers/250931.jpg"
+  },
+  "ULES01558": {
+    "igdb_id": 3150,
+    "path": "covers/3150.jpg"
+  },
+  "ULES01561": {
+    "igdb_id": 12382,
+    "path": "covers/12382.jpg"
+  },
+  "ULES01562": {
+    "igdb_id": 39193,
+    "path": "covers/39193.jpg"
+  },
+  "ULES01576": {
+    "igdb_id": 240466,
+    "path": "covers/240466.jpg"
+  },
+  "ULES01578": {
+    "igdb_id": 5058,
+    "path": "covers/5058.jpg"
+  },
+  "ULES01582": {
+    "igdb_id": 42867,
+    "path": "covers/42867.jpg"
+  },
+  "ULES01586": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULES01587": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULES01588": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULES01589": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULES01590": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULES01591": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULES01592": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULES01593": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULES01594": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULES01595": {
+    "igdb_id": 240467,
+    "path": "covers/240467.jpg"
+  },
+  "ULES01596": {
+    "igdb_id": 240467,
+    "path": "covers/240467.jpg"
+  },
+  "ULES01597": {
+    "igdb_id": 240467,
+    "path": "covers/240467.jpg"
+  },
+  "ULES01598": {
+    "igdb_id": 240467,
+    "path": "covers/240467.jpg"
+  },
+  "ULES01599": {
+    "igdb_id": 21033,
+    "path": "covers/21033.jpg"
+  },
+  "ULET00122": {
+    "igdb_id": 44470,
+    "path": "covers/44470.jpg"
+  },
+  "ULET00148": {
+    "igdb_id": 22564,
+    "path": "covers/22564.jpg"
+  },
+  "ULET00317": {
+    "igdb_id": 18313,
+    "path": "covers/18313.jpg"
+  },
+  "ULET00391": {
+    "igdb_id": 18262,
+    "path": "covers/18262.jpg"
+  },
+  "ULET00696": {
+    "igdb_id": 210479,
+    "path": "covers/210479.jpg"
+  },
+  "ULET01077": {
+    "igdb_id": 8198,
+    "path": "covers/8198.jpg"
+  },
+  "ULET01349": {
+    "igdb_id": 3270,
+    "path": "covers/3270.jpg"
+  },
+  "ULJM05002": {
+    "igdb_id": 79689,
+    "path": "covers/79689.jpg"
+  },
+  "ULJM05004": {
+    "igdb_id": 80797,
+    "path": "covers/80797.jpg"
+  },
+  "ULJM05008": {
+    "igdb_id": 22509,
+    "path": "covers/22509.jpg"
+  },
+  "ULJM05011": {
+    "igdb_id": 42774,
+    "path": "covers/42774.jpg"
+  },
+  "ULJM05020": {
+    "igdb_id": 64179,
+    "path": "covers/64179.jpg"
+  },
+  "ULJM05021": {
+    "igdb_id": 66831,
+    "path": "covers/66831.jpg"
+  },
+  "ULJM05023": {
+    "igdb_id": 162409,
+    "path": "covers/162409.jpg"
+  },
+  "ULJM05024": {
+    "igdb_id": 21619,
+    "path": "covers/21619.jpg"
+  },
+  "ULJM05026": {
+    "igdb_id": 295667,
+    "path": "covers/295667.jpg"
+  },
+  "ULJM05029": {
+    "igdb_id": 207256,
+    "path": "covers/207256.jpg"
+  },
+  "ULJM05030": {
+    "igdb_id": 44060,
+    "path": "covers/44060.jpg"
+  },
+  "ULJM05039": {
+    "igdb_id": 38455,
+    "path": "covers/38455.jpg"
+  },
+  "ULJM05040": {
+    "igdb_id": 45463,
+    "path": "covers/45463.jpg"
+  },
+  "ULJM05049": {
+    "igdb_id": 10916,
+    "path": "covers/10916.jpg"
+  },
+  "ULJM05050": {
+    "igdb_id": 269443,
+    "path": "covers/269443.jpg"
+  },
+  "ULJM05053": {
+    "igdb_id": 357453,
+    "path": "covers/357453.jpg"
+  },
+  "ULJM05055": {
+    "igdb_id": 24185,
+    "path": "covers/24185.jpg"
+  },
+  "ULJM05058": {
+    "igdb_id": 69551,
+    "path": "covers/69551.jpg"
+  },
+  "ULJM05059": {
+    "igdb_id": 248474,
+    "path": "covers/248474.jpg"
+  },
+  "ULJM05060": {
+    "igdb_id": 142,
+    "path": "covers/142.jpg"
+  },
+  "ULJM05062": {
+    "igdb_id": 85653,
+    "path": "covers/85653.jpg"
+  },
+  "ULJM05073": {
+    "igdb_id": 121504,
+    "path": "covers/121504.jpg"
+  },
+  "ULJM05084": {
+    "igdb_id": 146558,
+    "path": "covers/146558.jpg"
+  },
+  "ULJM05093": {
+    "igdb_id": 45992,
+    "path": "covers/45992.jpg"
+  },
+  "ULJM05099": {
+    "igdb_id": 269521,
+    "path": "covers/269521.jpg"
+  },
+  "ULJM05101": {
+    "igdb_id": 22756,
+    "path": "covers/22756.jpg"
+  },
+  "ULJM05108": {
+    "igdb_id": 58277,
+    "path": "covers/58277.jpg"
+  },
+  "ULJM05111": {
+    "igdb_id": 279746,
+    "path": "covers/279746.jpg"
+  },
+  "ULJM05114": {
+    "igdb_id": 119183,
+    "path": "covers/119183.jpg"
+  },
+  "ULJM05125": {
+    "igdb_id": 61438,
+    "path": "covers/61438.jpg"
+  },
+  "ULJM05126": {
+    "igdb_id": 269444,
+    "path": "covers/269444.jpg"
+  },
+  "ULJM05127": {
+    "igdb_id": 69176,
+    "path": "covers/69176.jpg"
+  },
+  "ULJM05130": {
+    "igdb_id": 42813,
+    "path": "covers/42813.jpg"
+  },
+  "ULJM05138": {
+    "igdb_id": 66189,
+    "path": "covers/66189.jpg"
+  },
+  "ULJM05146": {
+    "igdb_id": 321000,
+    "path": "covers/321000.jpg"
+  },
+  "ULJM05162": {
+    "igdb_id": 39702,
+    "path": "covers/39702.jpg"
+  },
+  "ULJM05163": {
+    "igdb_id": 76144,
+    "path": "covers/76144.jpg"
+  },
+  "ULJM05168": {
+    "igdb_id": 269440,
+    "path": "covers/269440.jpg"
+  },
+  "ULJM05174": {
+    "igdb_id": 269441,
+    "path": "covers/269441.jpg"
+  },
+  "ULJM05182": {
+    "igdb_id": 242986,
+    "path": "covers/242986.jpg"
+  },
+  "ULJM05183": {
+    "igdb_id": 121504,
+    "path": "covers/121504.jpg"
+  },
+  "ULJM05193": {
+    "igdb_id": 381,
+    "path": "covers/381.jpg"
+  },
+  "ULJM05201": {
+    "igdb_id": 56749,
+    "path": "covers/56749.jpg"
+  },
+  "ULJM05203": {
+    "igdb_id": 290878,
+    "path": "covers/290878.jpg"
+  },
+  "ULJM05205": {
+    "igdb_id": 56397,
+    "path": "covers/56397.jpg"
+  },
+  "ULJM05207": {
+    "igdb_id": 269512,
+    "path": "covers/269512.jpg"
+  },
+  "ULJM05213": {
+    "igdb_id": 1312,
+    "path": "covers/1312.jpg"
+  },
+  "ULJM05215": {
+    "igdb_id": 44060,
+    "path": "covers/44060.jpg"
+  },
+  "ULJM05219": {
+    "igdb_id": 42869,
+    "path": "covers/42869.jpg"
+  },
+  "ULJM05220": {
+    "igdb_id": 42792,
+    "path": "covers/42792.jpg"
+  },
+  "ULJM05221": {
+    "igdb_id": 42767,
+    "path": "covers/42767.jpg"
+  },
+  "ULJM05228": {
+    "igdb_id": 10916,
+    "path": "covers/10916.jpg"
+  },
+  "ULJM05232": {
+    "igdb_id": 4690,
+    "path": "covers/4690.jpg"
+  },
+  "ULJM05235": {
+    "igdb_id": 295667,
+    "path": "covers/295667.jpg"
+  },
+  "ULJM05236": {
+    "igdb_id": 45463,
+    "path": "covers/45463.jpg"
+  },
+  "ULJM05245": {
+    "igdb_id": 380633,
+    "path": "covers/380633.jpg"
+  },
+  "ULJM05249": {
+    "igdb_id": 204389,
+    "path": "covers/204389.jpg"
+  },
+  "ULJM05255": {
+    "igdb_id": 3263,
+    "path": "covers/3263.jpg"
+  },
+  "ULJM05261": {
+    "igdb_id": 21617,
+    "path": "covers/21617.jpg"
+  },
+  "ULJM05262": {
+    "igdb_id": 391,
+    "path": "covers/391.jpg"
+  },
+  "ULJM05263": {
+    "igdb_id": 269528,
+    "path": "covers/269528.jpg"
+  },
+  "ULJM05264": {
+    "igdb_id": 269511,
+    "path": "covers/269511.jpg"
+  },
+  "ULJM05265": {
+    "igdb_id": 63644,
+    "path": "covers/63644.jpg"
+  },
+  "ULJM05271": {
+    "igdb_id": 85653,
+    "path": "covers/85653.jpg"
+  },
+  "ULJM05275": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "ULJM05276": {
+    "igdb_id": 56775,
+    "path": "covers/56775.jpg"
+  },
+  "ULJM05279": {
+    "igdb_id": 59396,
+    "path": "covers/59396.jpg"
+  },
+  "ULJM05284": {
+    "igdb_id": 21617,
+    "path": "covers/21617.jpg"
+  },
+  "ULJM05285": {
+    "igdb_id": 381,
+    "path": "covers/381.jpg"
+  },
+  "ULJM05289": {
+    "igdb_id": 248774,
+    "path": "covers/248774.jpg"
+  },
+  "ULJM05290": {
+    "igdb_id": 24299,
+    "path": "covers/24299.jpg"
+  },
+  "ULJM05292": {
+    "igdb_id": 62140,
+    "path": "covers/62140.jpg"
+  },
+  "ULJM05297": {
+    "igdb_id": 3262,
+    "path": "covers/3262.jpg"
+  },
+  "ULJM05308": {
+    "igdb_id": 210431,
+    "path": "covers/210431.jpg"
+  },
+  "ULJM05309": {
+    "igdb_id": 21873,
+    "path": "covers/21873.jpg"
+  },
+  "ULJM05315": {
+    "igdb_id": 8198,
+    "path": "covers/8198.jpg"
+  },
+  "ULJM05318": {
+    "igdb_id": 1312,
+    "path": "covers/1312.jpg"
+  },
+  "ULJM05320": {
+    "igdb_id": 22756,
+    "path": "covers/22756.jpg"
+  },
+  "ULJM05321": {
+    "igdb_id": 69176,
+    "path": "covers/69176.jpg"
+  },
+  "ULJM05325": {
+    "igdb_id": 80504,
+    "path": "covers/80504.jpg"
+  },
+  "ULJM05333": {
+    "igdb_id": 76144,
+    "path": "covers/76144.jpg"
+  },
+  "ULJM05334": {
+    "igdb_id": 382966,
+    "path": "covers/382966.jpg"
+  },
+  "ULJM05335": {
+    "igdb_id": 78209,
+    "path": "covers/78209.jpg"
+  },
+  "ULJM05341": {
+    "igdb_id": 269509,
+    "path": "covers/269509.jpg"
+  },
+  "ULJM05344": {
+    "igdb_id": 204391,
+    "path": "covers/204391.jpg"
+  },
+  "ULJM05347": {
+    "igdb_id": 269529,
+    "path": "covers/269529.jpg"
+  },
+  "ULJM05351": {
+    "igdb_id": 59396,
+    "path": "covers/59396.jpg"
+  },
+  "ULJM05355": {
+    "igdb_id": 5642,
+    "path": "covers/5642.jpg"
+  },
+  "ULJM05359": {
+    "igdb_id": 3263,
+    "path": "covers/3263.jpg"
+  },
+  "ULJM05366": {
+    "igdb_id": 63644,
+    "path": "covers/63644.jpg"
+  },
+  "ULJM05371": {
+    "igdb_id": 6203,
+    "path": "covers/6203.jpg"
+  },
+  "ULJM05372": {
+    "igdb_id": 269511,
+    "path": "covers/269511.jpg"
+  },
+  "ULJM05374": {
+    "igdb_id": 221225,
+    "path": "covers/221225.jpg"
+  },
+  "ULJM05386": {
+    "igdb_id": 248777,
+    "path": "covers/248777.jpg"
+  },
+  "ULJM05394": {
+    "igdb_id": 64801,
+    "path": "covers/64801.jpg"
+  },
+  "ULJM05397": {
+    "igdb_id": 24196,
+    "path": "covers/24196.jpg"
+  },
+  "ULJM05399": {
+    "igdb_id": 214655,
+    "path": "covers/214655.jpg"
+  },
+  "ULJM05405": {
+    "igdb_id": 391,
+    "path": "covers/391.jpg"
+  },
+  "ULJM05410": {
+    "igdb_id": 94824,
+    "path": "covers/94824.jpg"
+  },
+  "ULJM05411": {
+    "igdb_id": 134567,
+    "path": "covers/134567.jpg"
+  },
+  "ULJM05413": {
+    "igdb_id": 197613,
+    "path": "covers/197613.jpg"
+  },
+  "ULJM05415": {
+    "igdb_id": 203996,
+    "path": "covers/203996.jpg"
+  },
+  "ULJM05416": {
+    "igdb_id": 203996,
+    "path": "covers/203996.jpg"
+  },
+  "ULJM05418": {
+    "igdb_id": 44497,
+    "path": "covers/44497.jpg"
+  },
+  "ULJM05426": {
+    "igdb_id": 257853,
+    "path": "covers/257853.jpg"
+  },
+  "ULJM05430": {
+    "igdb_id": 1315,
+    "path": "covers/1315.jpg"
+  },
+  "ULJM05436": {
+    "igdb_id": 72563,
+    "path": "covers/72563.jpg"
+  },
+  "ULJM05443": {
+    "igdb_id": 210431,
+    "path": "covers/210431.jpg"
+  },
+  "ULJM05450": {
+    "igdb_id": 42841,
+    "path": "covers/42841.jpg"
+  },
+  "ULJM05451": {
+    "igdb_id": 42863,
+    "path": "covers/42863.jpg"
+  },
+  "ULJM05472": {
+    "igdb_id": 11754,
+    "path": "covers/11754.jpg"
+  },
+  "ULJM05475": {
+    "igdb_id": 10948,
+    "path": "covers/10948.jpg"
+  },
+  "ULJM05479": {
+    "igdb_id": 42790,
+    "path": "covers/42790.jpg"
+  },
+  "ULJM05488": {
+    "igdb_id": 21027,
+    "path": "covers/21027.jpg"
+  },
+  "ULJM05489": {
+    "igdb_id": 11416,
+    "path": "covers/11416.jpg"
+  },
+  "ULJM05490": {
+    "igdb_id": 39193,
+    "path": "covers/39193.jpg"
+  },
+  "ULJM05492": {
+    "igdb_id": 38453,
+    "path": "covers/38453.jpg"
+  },
+  "ULJM05493": {
+    "igdb_id": 19256,
+    "path": "covers/19256.jpg"
+  },
+  "ULJM05494": {
+    "igdb_id": 248136,
+    "path": "covers/248136.jpg"
+  },
+  "ULJM05501": {
+    "igdb_id": 42884,
+    "path": "covers/42884.jpg"
+  },
+  "ULJM05508": {
+    "igdb_id": 221322,
+    "path": "covers/221322.jpg"
+  },
+  "ULJM05515": {
+    "igdb_id": 380633,
+    "path": "covers/380633.jpg"
+  },
+  "ULJM05517": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "ULJM05527": {
+    "igdb_id": 64798,
+    "path": "covers/64798.jpg"
+  },
+  "ULJM05536": {
+    "igdb_id": 7107,
+    "path": "covers/7107.jpg"
+  },
+  "ULJM05538": {
+    "igdb_id": 66641,
+    "path": "covers/66641.jpg"
+  },
+  "ULJM05539": {
+    "igdb_id": 50727,
+    "path": "covers/50727.jpg"
+  },
+  "ULJM05541": {
+    "igdb_id": 67379,
+    "path": "covers/67379.jpg"
+  },
+  "ULJM05542": {
+    "igdb_id": 44496,
+    "path": "covers/44496.jpg"
+  },
+  "ULJM05552": {
+    "igdb_id": 21757,
+    "path": "covers/21757.jpg"
+  },
+  "ULJM05556": {
+    "igdb_id": 66919,
+    "path": "covers/66919.jpg"
+  },
+  "ULJM05558": {
+    "igdb_id": 18193,
+    "path": "covers/18193.jpg"
+  },
+  "ULJM05564": {
+    "igdb_id": 486,
+    "path": "covers/486.jpg"
+  },
+  "ULJM05571": {
+    "igdb_id": 10661,
+    "path": "covers/10661.jpg"
+  },
+  "ULJM05573": {
+    "igdb_id": 381,
+    "path": "covers/381.jpg"
+  },
+  "ULJM05588": {
+    "igdb_id": 67000,
+    "path": "covers/67000.jpg"
+  },
+  "ULJM05591": {
+    "igdb_id": 80504,
+    "path": "covers/80504.jpg"
+  },
+  "ULJM05594": {
+    "igdb_id": 64806,
+    "path": "covers/64806.jpg"
+  },
+  "ULJM05600": {
+    "igdb_id": 1224,
+    "path": "covers/1224.jpg"
+  },
+  "ULJM05604": {
+    "igdb_id": 3270,
+    "path": "covers/3270.jpg"
+  },
+  "ULJM05605": {
+    "igdb_id": 67314,
+    "path": "covers/67314.jpg"
+  },
+  "ULJM05608": {
+    "igdb_id": 44480,
+    "path": "covers/44480.jpg"
+  },
+  "ULJM05611": {
+    "igdb_id": 38480,
+    "path": "covers/38480.jpg"
+  },
+  "ULJM05613": {
+    "igdb_id": 46018,
+    "path": "covers/46018.jpg"
+  },
+  "ULJM05630": {
+    "igdb_id": 382,
+    "path": "covers/382.jpg"
+  },
+  "ULJM05631": {
+    "igdb_id": 44705,
+    "path": "covers/44705.jpg"
+  },
+  "ULJM05637": {
+    "igdb_id": 66894,
+    "path": "covers/66894.jpg"
+  },
+  "ULJM05640": {
+    "igdb_id": 1395,
+    "path": "covers/1395.jpg"
+  },
+  "ULJM05648": {
+    "igdb_id": 220958,
+    "path": "covers/220958.jpg"
+  },
+  "ULJM05664": {
+    "igdb_id": 63412,
+    "path": "covers/63412.jpg"
+  },
+  "ULJM05676": {
+    "igdb_id": 38461,
+    "path": "covers/38461.jpg"
+  },
+  "ULJM05679": {
+    "igdb_id": 42772,
+    "path": "covers/42772.jpg"
+  },
+  "ULJM05682": {
+    "igdb_id": 11754,
+    "path": "covers/11754.jpg"
+  },
+  "ULJM05683": {
+    "igdb_id": 201202,
+    "path": "covers/201202.jpg"
+  },
+  "ULJM05689": {
+    "igdb_id": 218958,
+    "path": "covers/218958.jpg"
+  },
+  "ULJM05690": {
+    "igdb_id": 221833,
+    "path": "covers/221833.jpg"
+  },
+  "ULJM05698": {
+    "igdb_id": 46589,
+    "path": "covers/46589.jpg"
+  },
+  "ULJM05701": {
+    "igdb_id": 234529,
+    "path": "covers/234529.jpg"
+  },
+  "ULJM05709": {
+    "igdb_id": 38485,
+    "path": "covers/38485.jpg"
+  },
+  "ULJM05713": {
+    "igdb_id": 66611,
+    "path": "covers/66611.jpg"
+  },
+  "ULJM05731": {
+    "igdb_id": 65197,
+    "path": "covers/65197.jpg"
+  },
+  "ULJM05732": {
+    "igdb_id": 79771,
+    "path": "covers/79771.jpg"
+  },
+  "ULJM05734": {
+    "igdb_id": 42854,
+    "path": "covers/42854.jpg"
+  },
+  "ULJM05735": {
+    "igdb_id": 44582,
+    "path": "covers/44582.jpg"
+  },
+  "ULJM05737": {
+    "igdb_id": 7107,
+    "path": "covers/7107.jpg"
+  },
+  "ULJM05739": {
+    "igdb_id": 194007,
+    "path": "covers/194007.jpg"
+  },
+  "ULJM05740": {
+    "igdb_id": 202821,
+    "path": "covers/202821.jpg"
+  },
+  "ULJM05751": {
+    "igdb_id": 61444,
+    "path": "covers/61444.jpg"
+  },
+  "ULJM05758": {
+    "igdb_id": 269524,
+    "path": "covers/269524.jpg"
+  },
+  "ULJM05767": {
+    "igdb_id": 21736,
+    "path": "covers/21736.jpg"
+  },
+  "ULJM05772": {
+    "igdb_id": 92232,
+    "path": "covers/92232.jpg"
+  },
+  "ULJM05775": {
+    "igdb_id": 42856,
+    "path": "covers/42856.jpg"
+  },
+  "ULJM05778": {
+    "igdb_id": 5056,
+    "path": "covers/5056.jpg"
+  },
+  "ULJM05780": {
+    "igdb_id": 66402,
+    "path": "covers/66402.jpg"
+  },
+  "ULJM05785": {
+    "igdb_id": 56298,
+    "path": "covers/56298.jpg"
+  },
+  "ULJM05798": {
+    "igdb_id": 7359,
+    "path": "covers/7359.jpg"
+  },
+  "ULJM05800": {
+    "igdb_id": 42759,
+    "path": "covers/42759.jpg"
+  },
+  "ULJM05802": {
+    "igdb_id": 56522,
+    "path": "covers/56522.jpg"
+  },
+  "ULJM05804": {
+    "igdb_id": 3270,
+    "path": "covers/3270.jpg"
+  },
+  "ULJM05809": {
+    "igdb_id": 203170,
+    "path": "covers/203170.jpg"
+  },
+  "ULJM05817": {
+    "igdb_id": 56299,
+    "path": "covers/56299.jpg"
+  },
+  "ULJM05824": {
+    "igdb_id": 221966,
+    "path": "covers/221966.jpg"
+  },
+  "ULJM05828": {
+    "igdb_id": 486,
+    "path": "covers/486.jpg"
+  },
+  "ULJM05829": {
+    "igdb_id": 220576,
+    "path": "covers/220576.jpg"
+  },
+  "ULJM05834": {
+    "igdb_id": 219129,
+    "path": "covers/219129.jpg"
+  },
+  "ULJM05839": {
+    "igdb_id": 59419,
+    "path": "covers/59419.jpg"
+  },
+  "ULJM05843": {
+    "igdb_id": 60503,
+    "path": "covers/60503.jpg"
+  },
+  "ULJM05844": {
+    "igdb_id": 56498,
+    "path": "covers/56498.jpg"
+  },
+  "ULJM05848": {
+    "igdb_id": 63417,
+    "path": "covers/63417.jpg"
+  },
+  "ULJM05850": {
+    "igdb_id": 11611,
+    "path": "covers/11611.jpg"
+  },
+  "ULJM05859": {
+    "igdb_id": 11831,
+    "path": "covers/11831.jpg"
+  },
+  "ULJM05860": {
+    "igdb_id": 66261,
+    "path": "covers/66261.jpg"
+  },
+  "ULJM05861": {
+    "igdb_id": 203789,
+    "path": "covers/203789.jpg"
+  },
+  "ULJM05866": {
+    "igdb_id": 203049,
+    "path": "covers/203049.jpg"
+  },
+  "ULJM05868": {
+    "igdb_id": 44279,
+    "path": "covers/44279.jpg"
+  },
+  "ULJM05870": {
+    "igdb_id": 56524,
+    "path": "covers/56524.jpg"
+  },
+  "ULJM05876": {
+    "igdb_id": 56796,
+    "path": "covers/56796.jpg"
+  },
+  "ULJM05883": {
+    "igdb_id": 38468,
+    "path": "covers/38468.jpg"
+  },
+  "ULJM05884": {
+    "igdb_id": 3262,
+    "path": "covers/3262.jpg"
+  },
+  "ULJM05885": {
+    "igdb_id": 3263,
+    "path": "covers/3263.jpg"
+  },
+  "ULJM05887": {
+    "igdb_id": 7194,
+    "path": "covers/7194.jpg"
+  },
+  "ULJM05903": {
+    "igdb_id": 65896,
+    "path": "covers/65896.jpg"
+  },
+  "ULJM05904": {
+    "igdb_id": 42857,
+    "path": "covers/42857.jpg"
+  },
+  "ULJM05905": {
+    "igdb_id": 56300,
+    "path": "covers/56300.jpg"
+  },
+  "ULJM05923": {
+    "igdb_id": 11823,
+    "path": "covers/11823.jpg"
+  },
+  "ULJM05926": {
+    "igdb_id": 269513,
+    "path": "covers/269513.jpg"
+  },
+  "ULJM05930": {
+    "igdb_id": 8637,
+    "path": "covers/8637.jpg"
+  },
+  "ULJM05931": {
+    "igdb_id": 8637,
+    "path": "covers/8637.jpg"
+  },
+  "ULJM05933": {
+    "igdb_id": 11767,
+    "path": "covers/11767.jpg"
+  },
+  "ULJM05934": {
+    "igdb_id": 65953,
+    "path": "covers/65953.jpg"
+  },
+  "ULJM05940": {
+    "igdb_id": 42789,
+    "path": "covers/42789.jpg"
+  },
+  "ULJM05943": {
+    "igdb_id": 212736,
+    "path": "covers/212736.jpg"
+  },
+  "ULJM05944": {
+    "igdb_id": 202591,
+    "path": "covers/202591.jpg"
+  },
+  "ULJM05945": {
+    "igdb_id": 202591,
+    "path": "covers/202591.jpg"
+  },
+  "ULJM05950": {
+    "igdb_id": 218963,
+    "path": "covers/218963.jpg"
+  },
+  "ULJM05959": {
+    "igdb_id": 64472,
+    "path": "covers/64472.jpg"
+  },
+  "ULJM05966": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULJM05977": {
+    "igdb_id": 56324,
+    "path": "covers/56324.jpg"
+  },
+  "ULJM05982": {
+    "igdb_id": 92600,
+    "path": "covers/92600.jpg"
+  },
+  "ULJM05985": {
+    "igdb_id": 56515,
+    "path": "covers/56515.jpg"
+  },
+  "ULJM05989": {
+    "igdb_id": 121831,
+    "path": "covers/121831.jpg"
+  },
+  "ULJM05990": {
+    "igdb_id": 146768,
+    "path": "covers/146768.jpg"
+  },
+  "ULJM06008": {
+    "igdb_id": 7359,
+    "path": "covers/7359.jpg"
+  },
+  "ULJM06012": {
+    "igdb_id": 44575,
+    "path": "covers/44575.jpg"
+  },
+  "ULJM06014": {
+    "igdb_id": 56766,
+    "path": "covers/56766.jpg"
+  },
+  "ULJM06020": {
+    "igdb_id": 65348,
+    "path": "covers/65348.jpg"
+  },
+  "ULJM06023": {
+    "igdb_id": 56552,
+    "path": "covers/56552.jpg"
+  },
+  "ULJM06032": {
+    "igdb_id": 64668,
+    "path": "covers/64668.jpg"
+  },
+  "ULJM06038": {
+    "igdb_id": 65335,
+    "path": "covers/65335.jpg"
+  },
+  "ULJM06043": {
+    "igdb_id": 62753,
+    "path": "covers/62753.jpg"
+  },
+  "ULJM06046": {
+    "igdb_id": 58057,
+    "path": "covers/58057.jpg"
+  },
+  "ULJM06047": {
+    "igdb_id": 222560,
+    "path": "covers/222560.jpg"
+  },
+  "ULJM06065": {
+    "igdb_id": 45990,
+    "path": "covers/45990.jpg"
+  },
+  "ULJM06066": {
+    "igdb_id": 45990,
+    "path": "covers/45990.jpg"
+  },
+  "ULJM06067": {
+    "igdb_id": 214655,
+    "path": "covers/214655.jpg"
+  },
+  "ULJM06079": {
+    "igdb_id": 218276,
+    "path": "covers/218276.jpg"
+  },
+  "ULJM06085": {
+    "igdb_id": 6903,
+    "path": "covers/6903.jpg"
+  },
+  "ULJM06093": {
+    "igdb_id": 38467,
+    "path": "covers/38467.jpg"
+  },
+  "ULJM06096": {
+    "igdb_id": 80087,
+    "path": "covers/80087.jpg"
+  },
+  "ULJM06097": {
+    "igdb_id": 407843,
+    "path": "covers/407843.jpg"
+  },
+  "ULJM06113": {
+    "igdb_id": 284431,
+    "path": "covers/284431.jpg"
+  },
+  "ULJM06133": {
+    "igdb_id": 231017,
+    "path": "covers/231017.jpg"
+  },
+  "ULJM06142": {
+    "igdb_id": 64872,
+    "path": "covers/64872.jpg"
+  },
+  "ULJM06143": {
+    "igdb_id": 64872,
+    "path": "covers/64872.jpg"
+  },
+  "ULJM06144": {
+    "igdb_id": 59157,
+    "path": "covers/59157.jpg"
+  },
+  "ULJM06158": {
+    "igdb_id": 172698,
+    "path": "covers/172698.jpg"
+  },
+  "ULJM06162": {
+    "igdb_id": 85952,
+    "path": "covers/85952.jpg"
+  },
+  "ULJM06163": {
+    "igdb_id": 85952,
+    "path": "covers/85952.jpg"
+  },
+  "ULJM06172": {
+    "igdb_id": 221954,
+    "path": "covers/221954.jpg"
+  },
+  "ULJM06185": {
+    "igdb_id": 56321,
+    "path": "covers/56321.jpg"
+  },
+  "ULJM06204": {
+    "igdb_id": 222554,
+    "path": "covers/222554.jpg"
+  },
+  "ULJM06207": {
+    "igdb_id": 201833,
+    "path": "covers/201833.jpg"
+  },
+  "ULJM06208": {
+    "igdb_id": 202825,
+    "path": "covers/202825.jpg"
+  },
+  "ULJM06209": {
+    "igdb_id": 203174,
+    "path": "covers/203174.jpg"
+  },
+  "ULJM06213": {
+    "igdb_id": 42856,
+    "path": "covers/42856.jpg"
+  },
+  "ULJM06219": {
+    "igdb_id": 62372,
+    "path": "covers/62372.jpg"
+  },
+  "ULJM06223": {
+    "igdb_id": 64460,
+    "path": "covers/64460.jpg"
+  },
+  "ULJM06225": {
+    "igdb_id": 42872,
+    "path": "covers/42872.jpg"
+  },
+  "ULJM06229": {
+    "igdb_id": 11826,
+    "path": "covers/11826.jpg"
+  },
+  "ULJM06231": {
+    "igdb_id": 64161,
+    "path": "covers/64161.jpg"
+  },
+  "ULJM06240": {
+    "igdb_id": 63903,
+    "path": "covers/63903.jpg"
+  },
+  "ULJM06265": {
+    "igdb_id": 62754,
+    "path": "covers/62754.jpg"
+  },
+  "ULJM06272": {
+    "igdb_id": 56549,
+    "path": "covers/56549.jpg"
+  },
+  "ULJM06283": {
+    "igdb_id": 218786,
+    "path": "covers/218786.jpg"
+  },
+  "ULJM06289": {
+    "igdb_id": 222121,
+    "path": "covers/222121.jpg"
+  },
+  "ULJM06292": {
+    "igdb_id": 56320,
+    "path": "covers/56320.jpg"
+  },
+  "ULJM06305": {
+    "igdb_id": 62719,
+    "path": "covers/62719.jpg"
+  },
+  "ULJM06309": {
+    "igdb_id": 62935,
+    "path": "covers/62935.jpg"
+  },
+  "ULJM06310": {
+    "igdb_id": 63453,
+    "path": "covers/63453.jpg"
+  },
+  "ULJM06311": {
+    "igdb_id": 63453,
+    "path": "covers/63453.jpg"
+  },
+  "ULJM06315": {
+    "igdb_id": 45991,
+    "path": "covers/45991.jpg"
+  },
+  "ULJM06325": {
+    "igdb_id": 63407,
+    "path": "covers/63407.jpg"
+  },
+  "ULJM06327": {
+    "igdb_id": 77419,
+    "path": "covers/77419.jpg"
+  },
+  "ULJM06348": {
+    "igdb_id": 79483,
+    "path": "covers/79483.jpg"
+  },
+  "ULJM06354": {
+    "igdb_id": 256317,
+    "path": "covers/256317.jpg"
+  },
+  "ULJM06358": {
+    "igdb_id": 59155,
+    "path": "covers/59155.jpg"
+  },
+  "ULJM06362": {
+    "igdb_id": 218951,
+    "path": "covers/218951.jpg"
+  },
+  "ULJM06369": {
+    "igdb_id": 220962,
+    "path": "covers/220962.jpg"
+  },
+  "ULJM06374": {
+    "igdb_id": 213890,
+    "path": "covers/213890.jpg"
+  },
+  "ULJM06376": {
+    "igdb_id": 8657,
+    "path": "covers/8657.jpg"
+  },
+  "ULJM06379": {
+    "igdb_id": 220574,
+    "path": "covers/220574.jpg"
+  },
+  "ULJM06381": {
+    "igdb_id": 56323,
+    "path": "covers/56323.jpg"
+  },
+  "ULJM06393": {
+    "igdb_id": 287637,
+    "path": "covers/287637.jpg"
+  },
+  "ULJM08003": {
+    "igdb_id": 22509,
+    "path": "covers/22509.jpg"
+  },
+  "ULJM08005": {
+    "igdb_id": 79689,
+    "path": "covers/79689.jpg"
+  },
+  "ULJM08013": {
+    "igdb_id": 45992,
+    "path": "covers/45992.jpg"
+  },
+  "ULJM08016": {
+    "igdb_id": 381,
+    "path": "covers/381.jpg"
+  },
+  "ULJM08023": {
+    "igdb_id": 21873,
+    "path": "covers/21873.jpg"
+  },
+  "ULJM08030": {
+    "igdb_id": 19256,
+    "path": "covers/19256.jpg"
+  },
+  "ULJM08031": {
+    "igdb_id": 72563,
+    "path": "covers/72563.jpg"
+  },
+  "ULJM08038": {
+    "igdb_id": 382,
+    "path": "covers/382.jpg"
+  },
+  "ULJM08040": {
+    "igdb_id": 45992,
+    "path": "covers/45992.jpg"
+  },
+  "ULJM08044": {
+    "igdb_id": 11416,
+    "path": "covers/11416.jpg"
+  },
+  "ULJM08047": {
+    "igdb_id": 66611,
+    "path": "covers/66611.jpg"
+  },
+  "ULJM08048": {
+    "igdb_id": 38485,
+    "path": "covers/38485.jpg"
+  },
+  "ULJM08049": {
+    "igdb_id": 66402,
+    "path": "covers/66402.jpg"
+  },
+  "ULJM08050": {
+    "igdb_id": 44480,
+    "path": "covers/44480.jpg"
+  },
+  "ULJM08058": {
+    "igdb_id": 42759,
+    "path": "covers/42759.jpg"
+  },
+  "ULJM91014": {
+    "igdb_id": 21873,
+    "path": "covers/21873.jpg"
+  },
+  "ULJM91018": {
+    "igdb_id": 19256,
+    "path": "covers/19256.jpg"
+  },
+  "ULJM91020": {
+    "igdb_id": 66894,
+    "path": "covers/66894.jpg"
+  },
+  "ULJM91022": {
+    "igdb_id": 79771,
+    "path": "covers/79771.jpg"
+  },
+  "ULJM95001": {
+    "igdb_id": 45992,
+    "path": "covers/45992.jpg"
+  },
+  "ULJM95004": {
+    "igdb_id": 19159,
+    "path": "covers/19159.jpg"
+  },
+  "ULJS00002": {
+    "igdb_id": 68082,
+    "path": "covers/68082.jpg"
+  },
+  "ULJS00003": {
+    "igdb_id": 22594,
+    "path": "covers/22594.jpg"
+  },
+  "ULJS00005": {
+    "igdb_id": 4689,
+    "path": "covers/4689.jpg"
+  },
+  "ULJS00007": {
+    "igdb_id": 56534,
+    "path": "covers/56534.jpg"
+  },
+  "ULJS00011": {
+    "igdb_id": 56531,
+    "path": "covers/56531.jpg"
+  },
+  "ULJS00015": {
+    "igdb_id": 329316,
+    "path": "covers/329316.jpg"
+  },
+  "ULJS00020": {
+    "igdb_id": 60365,
+    "path": "covers/60365.jpg"
+  },
+  "ULJS00021": {
+    "igdb_id": 38471,
+    "path": "covers/38471.jpg"
+  },
+  "ULJS00025": {
+    "igdb_id": 42717,
+    "path": "covers/42717.jpg"
+  },
+  "ULJS00027": {
+    "igdb_id": 59388,
+    "path": "covers/59388.jpg"
+  },
+  "ULJS00041": {
+    "igdb_id": 38460,
+    "path": "covers/38460.jpg"
+  },
+  "ULJS00042": {
+    "igdb_id": 196741,
+    "path": "covers/196741.jpg"
+  },
+  "ULJS00048": {
+    "igdb_id": 24181,
+    "path": "covers/24181.jpg"
+  },
+  "ULJS00049": {
+    "igdb_id": 2567,
+    "path": "covers/2567.jpg"
+  },
+  "ULJS00052": {
+    "igdb_id": 269490,
+    "path": "covers/269490.jpg"
+  },
+  "ULJS00053": {
+    "igdb_id": 133488,
+    "path": "covers/133488.jpg"
+  },
+  "ULJS00054": {
+    "igdb_id": 23106,
+    "path": "covers/23106.jpg"
+  },
+  "ULJS00056": {
+    "igdb_id": 66866,
+    "path": "covers/66866.jpg"
+  },
+  "ULJS00075": {
+    "igdb_id": 20073,
+    "path": "covers/20073.jpg"
+  },
+  "ULJS00079": {
+    "igdb_id": 152164,
+    "path": "covers/152164.jpg"
+  },
+  "ULJS00081": {
+    "igdb_id": 60363,
+    "path": "covers/60363.jpg"
+  },
+  "ULJS00083": {
+    "igdb_id": 72879,
+    "path": "covers/72879.jpg"
+  },
+  "ULJS00086": {
+    "igdb_id": 14755,
+    "path": "covers/14755.jpg"
+  },
+  "ULJS00091": {
+    "igdb_id": 59369,
+    "path": "covers/59369.jpg"
+  },
+  "ULJS00093": {
+    "igdb_id": 19159,
+    "path": "covers/19159.jpg"
+  },
+  "ULJS00110": {
+    "igdb_id": 79329,
+    "path": "covers/79329.jpg"
+  },
+  "ULJS00122": {
+    "igdb_id": 66596,
+    "path": "covers/66596.jpg"
+  },
+  "ULJS00123": {
+    "igdb_id": 72862,
+    "path": "covers/72862.jpg"
+  },
+  "ULJS00124": {
+    "igdb_id": 72862,
+    "path": "covers/72862.jpg"
+  },
+  "ULJS00132": {
+    "igdb_id": 1205,
+    "path": "covers/1205.jpg"
+  },
+  "ULJS00137": {
+    "igdb_id": 42847,
+    "path": "covers/42847.jpg"
+  },
+  "ULJS00138": {
+    "igdb_id": 20071,
+    "path": "covers/20071.jpg"
+  },
+  "ULJS00143": {
+    "igdb_id": 79841,
+    "path": "covers/79841.jpg"
+  },
+  "ULJS00144": {
+    "igdb_id": 56825,
+    "path": "covers/56825.jpg"
+  },
+  "ULJS00145": {
+    "igdb_id": 72752,
+    "path": "covers/72752.jpg"
+  },
+  "ULJS00149": {
+    "igdb_id": 257764,
+    "path": "covers/257764.jpg"
+  },
+  "ULJS00158": {
+    "igdb_id": 44486,
+    "path": "covers/44486.jpg"
+  },
+  "ULJS00165": {
+    "igdb_id": 269497,
+    "path": "covers/269497.jpg"
+  },
+  "ULJS00167": {
+    "igdb_id": 38441,
+    "path": "covers/38441.jpg"
+  },
+  "ULJS00168": {
+    "igdb_id": 38439,
+    "path": "covers/38439.jpg"
+  },
+  "ULJS00169": {
+    "igdb_id": 38440,
+    "path": "covers/38440.jpg"
+  },
+  "ULJS00175": {
+    "igdb_id": 42794,
+    "path": "covers/42794.jpg"
+  },
+  "ULJS00176": {
+    "igdb_id": 44527,
+    "path": "covers/44527.jpg"
+  },
+  "ULJS00180": {
+    "igdb_id": 42857,
+    "path": "covers/42857.jpg"
+  },
+  "ULJS00181": {
+    "igdb_id": 56744,
+    "path": "covers/56744.jpg"
+  },
+  "ULJS00186": {
+    "igdb_id": 42752,
+    "path": "covers/42752.jpg"
+  },
+  "ULJS00190": {
+    "igdb_id": 38458,
+    "path": "covers/38458.jpg"
+  },
+  "ULJS00191": {
+    "igdb_id": 11697,
+    "path": "covers/11697.jpg"
+  },
+  "ULJS00193": {
+    "igdb_id": 5162,
+    "path": "covers/5162.jpg"
+  },
+  "ULJS00196": {
+    "igdb_id": 142322,
+    "path": "covers/142322.jpg"
+  },
+  "ULJS00200": {
+    "igdb_id": 4990,
+    "path": "covers/4990.jpg"
+  },
+  "ULJS00201": {
+    "igdb_id": 67657,
+    "path": "covers/67657.jpg"
+  },
+  "ULJS00202": {
+    "igdb_id": 1568,
+    "path": "covers/1568.jpg"
+  },
+  "ULJS00208": {
+    "igdb_id": 257764,
+    "path": "covers/257764.jpg"
+  },
+  "ULJS00209": {
+    "igdb_id": 42723,
+    "path": "covers/42723.jpg"
+  },
+  "ULJS00213": {
+    "igdb_id": 269495,
+    "path": "covers/269495.jpg"
+  },
+  "ULJS00216": {
+    "igdb_id": 196205,
+    "path": "covers/196205.jpg"
+  },
+  "ULJS00223": {
+    "igdb_id": 68013,
+    "path": "covers/68013.jpg"
+  },
+  "ULJS00231": {
+    "igdb_id": 68013,
+    "path": "covers/68013.jpg"
+  },
+  "ULJS00237": {
+    "igdb_id": 11844,
+    "path": "covers/11844.jpg"
+  },
+  "ULJS00238": {
+    "igdb_id": 56516,
+    "path": "covers/56516.jpg"
+  },
+  "ULJS00239": {
+    "igdb_id": 80618,
+    "path": "covers/80618.jpg"
+  },
+  "ULJS00243": {
+    "igdb_id": 42741,
+    "path": "covers/42741.jpg"
+  },
+  "ULJS00253": {
+    "igdb_id": 12382,
+    "path": "covers/12382.jpg"
+  },
+  "ULJS00254": {
+    "igdb_id": 12382,
+    "path": "covers/12382.jpg"
+  },
+  "ULJS00255": {
+    "igdb_id": 56704,
+    "path": "covers/56704.jpg"
+  },
+  "ULJS00272": {
+    "igdb_id": 269499,
+    "path": "covers/269499.jpg"
+  },
+  "ULJS00277": {
+    "igdb_id": 98666,
+    "path": "covers/98666.jpg"
+  },
+  "ULJS00281": {
+    "igdb_id": 67126,
+    "path": "covers/67126.jpg"
+  },
+  "ULJS00284": {
+    "igdb_id": 59328,
+    "path": "covers/59328.jpg"
+  },
+  "ULJS00293": {
+    "igdb_id": 42864,
+    "path": "covers/42864.jpg"
+  },
+  "ULJS00294": {
+    "igdb_id": 42793,
+    "path": "covers/42793.jpg"
+  },
+  "ULJS00299": {
+    "igdb_id": 76133,
+    "path": "covers/76133.jpg"
+  },
+  "ULJS00300": {
+    "igdb_id": 76133,
+    "path": "covers/76133.jpg"
+  },
+  "ULJS00303": {
+    "igdb_id": 13108,
+    "path": "covers/13108.jpg"
+  },
+  "ULJS00308": {
+    "igdb_id": 294615,
+    "path": "covers/294615.jpg"
+  },
+  "ULJS00309": {
+    "igdb_id": 269491,
+    "path": "covers/269491.jpg"
+  },
+  "ULJS00321": {
+    "igdb_id": 66240,
+    "path": "covers/66240.jpg"
+  },
+  "ULJS00322": {
+    "igdb_id": 66344,
+    "path": "covers/66344.jpg"
+  },
+  "ULJS00323": {
+    "igdb_id": 11750,
+    "path": "covers/11750.jpg"
+  },
+  "ULJS00326": {
+    "igdb_id": 269530,
+    "path": "covers/269530.jpg"
+  },
+  "ULJS00328": {
+    "igdb_id": 11864,
+    "path": "covers/11864.jpg"
+  },
+  "ULJS00331": {
+    "igdb_id": 64240,
+    "path": "covers/64240.jpg"
+  },
+  "ULJS00346": {
+    "igdb_id": 98667,
+    "path": "covers/98667.jpg"
+  },
+  "ULJS00348": {
+    "igdb_id": 66373,
+    "path": "covers/66373.jpg"
+  },
+  "ULJS00352": {
+    "igdb_id": 80686,
+    "path": "covers/80686.jpg"
+  },
+  "ULJS00353": {
+    "igdb_id": 12380,
+    "path": "covers/12380.jpg"
+  },
+  "ULJS00355": {
+    "igdb_id": 58051,
+    "path": "covers/58051.jpg"
+  },
+  "ULJS00356": {
+    "igdb_id": 66192,
+    "path": "covers/66192.jpg"
+  },
+  "ULJS00358": {
+    "igdb_id": 66192,
+    "path": "covers/66192.jpg"
+  },
+  "ULJS00360": {
+    "igdb_id": 42838,
+    "path": "covers/42838.jpg"
+  },
+  "ULJS00368": {
+    "igdb_id": 269504,
+    "path": "covers/269504.jpg"
+  },
+  "ULJS00369": {
+    "igdb_id": 66240,
+    "path": "covers/66240.jpg"
+  },
+  "ULJS00371": {
+    "igdb_id": 66321,
+    "path": "covers/66321.jpg"
+  },
+  "ULJS00375": {
+    "igdb_id": 13109,
+    "path": "covers/13109.jpg"
+  },
+  "ULJS00376": {
+    "igdb_id": 66176,
+    "path": "covers/66176.jpg"
+  },
+  "ULJS00377": {
+    "igdb_id": 66176,
+    "path": "covers/66176.jpg"
+  },
+  "ULJS00379": {
+    "igdb_id": 80686,
+    "path": "covers/80686.jpg"
+  },
+  "ULJS00383": {
+    "igdb_id": 78348,
+    "path": "covers/78348.jpg"
+  },
+  "ULJS00389": {
+    "igdb_id": 66080,
+    "path": "covers/66080.jpg"
+  },
+  "ULJS00393": {
+    "igdb_id": 80467,
+    "path": "covers/80467.jpg"
+  },
+  "ULJS00394": {
+    "igdb_id": 42808,
+    "path": "covers/42808.jpg"
+  },
+  "ULJS00399": {
+    "igdb_id": 269424,
+    "path": "covers/269424.jpg"
+  },
+  "ULJS00403": {
+    "igdb_id": 117265,
+    "path": "covers/117265.jpg"
+  },
+  "ULJS00420": {
+    "igdb_id": 269506,
+    "path": "covers/269506.jpg"
+  },
+  "ULJS00421": {
+    "igdb_id": 86166,
+    "path": "covers/86166.jpg"
+  },
+  "ULJS00423": {
+    "igdb_id": 65128,
+    "path": "covers/65128.jpg"
+  },
+  "ULJS00424": {
+    "igdb_id": 65128,
+    "path": "covers/65128.jpg"
+  },
+  "ULJS00431": {
+    "igdb_id": 42760,
+    "path": "covers/42760.jpg"
+  },
+  "ULJS00432": {
+    "igdb_id": 42760,
+    "path": "covers/42760.jpg"
+  },
+  "ULJS00440": {
+    "igdb_id": 44485,
+    "path": "covers/44485.jpg"
+  },
+  "ULJS00441": {
+    "igdb_id": 44485,
+    "path": "covers/44485.jpg"
+  },
+  "ULJS00450": {
+    "igdb_id": 12504,
+    "path": "covers/12504.jpg"
+  },
+  "ULJS00456": {
+    "igdb_id": 65495,
+    "path": "covers/65495.jpg"
+  },
+  "ULJS00458": {
+    "igdb_id": 196944,
+    "path": "covers/196944.jpg"
+  },
+  "ULJS00460": {
+    "igdb_id": 80145,
+    "path": "covers/80145.jpg"
+  },
+  "ULJS00468": {
+    "igdb_id": 269423,
+    "path": "covers/269423.jpg"
+  },
+  "ULJS00480": {
+    "igdb_id": 66373,
+    "path": "covers/66373.jpg"
+  },
+  "ULJS00483": {
+    "igdb_id": 64167,
+    "path": "covers/64167.jpg"
+  },
+  "ULJS00496": {
+    "igdb_id": 11391,
+    "path": "covers/11391.jpg"
+  },
+  "ULJS00498": {
+    "igdb_id": 64861,
+    "path": "covers/64861.jpg"
+  },
+  "ULJS00507": {
+    "igdb_id": 42800,
+    "path": "covers/42800.jpg"
+  },
+  "ULJS00508": {
+    "igdb_id": 42800,
+    "path": "covers/42800.jpg"
+  },
+  "ULJS00518": {
+    "igdb_id": 64575,
+    "path": "covers/64575.jpg"
+  },
+  "ULJS00534": {
+    "igdb_id": 112296,
+    "path": "covers/112296.jpg"
+  },
+  "ULJS00541": {
+    "igdb_id": 64699,
+    "path": "covers/64699.jpg"
+  },
+  "ULJS00544": {
+    "igdb_id": 42796,
+    "path": "covers/42796.jpg"
+  },
+  "ULJS00545": {
+    "igdb_id": 42795,
+    "path": "covers/42795.jpg"
+  },
+  "ULJS00546": {
+    "igdb_id": 42797,
+    "path": "covers/42797.jpg"
+  },
+  "ULJS00547": {
+    "igdb_id": 103507,
+    "path": "covers/103507.jpg"
+  },
+  "ULJS00549": {
+    "igdb_id": 62705,
+    "path": "covers/62705.jpg"
+  },
+  "ULJS00553": {
+    "igdb_id": 13110,
+    "path": "covers/13110.jpg"
+  },
+  "ULJS00556": {
+    "igdb_id": 11862,
+    "path": "covers/11862.jpg"
+  },
+  "ULJS00557": {
+    "igdb_id": 11841,
+    "path": "covers/11841.jpg"
+  },
+  "ULJS00558": {
+    "igdb_id": 11841,
+    "path": "covers/11841.jpg"
+  },
+  "ULJS00559": {
+    "igdb_id": 51461,
+    "path": "covers/51461.jpg"
+  },
+  "ULJS00564": {
+    "igdb_id": 59362,
+    "path": "covers/59362.jpg"
+  },
+  "ULJS00566": {
+    "igdb_id": 139742,
+    "path": "covers/139742.jpg"
+  },
+  "ULJS00567": {
+    "igdb_id": 139742,
+    "path": "covers/139742.jpg"
+  },
+  "ULJS00568": {
+    "igdb_id": 63842,
+    "path": "covers/63842.jpg"
+  },
+  "ULJS00569": {
+    "igdb_id": 63842,
+    "path": "covers/63842.jpg"
+  },
+  "ULJS00592": {
+    "igdb_id": 59360,
+    "path": "covers/59360.jpg"
+  },
+  "ULJS00597": {
+    "igdb_id": 11853,
+    "path": "covers/11853.jpg"
+  },
+  "ULJS00598": {
+    "igdb_id": 8661,
+    "path": "covers/8661.jpg"
+  },
+  "ULJS00609": {
+    "igdb_id": 42746,
+    "path": "covers/42746.jpg"
+  },
+  "ULJS19003": {
+    "igdb_id": 68082,
+    "path": "covers/68082.jpg"
+  },
+  "ULJS19004": {
+    "igdb_id": 329316,
+    "path": "covers/329316.jpg"
+  },
+  "ULJS19005": {
+    "igdb_id": 4689,
+    "path": "covers/4689.jpg"
+  },
+  "ULJS19012": {
+    "igdb_id": 196741,
+    "path": "covers/196741.jpg"
+  },
+  "ULJS19015": {
+    "igdb_id": 72879,
+    "path": "covers/72879.jpg"
+  },
+  "ULJS19016": {
+    "igdb_id": 152164,
+    "path": "covers/152164.jpg"
+  },
+  "ULJS19018": {
+    "igdb_id": 14755,
+    "path": "covers/14755.jpg"
+  },
+  "ULJS19019": {
+    "igdb_id": 19159,
+    "path": "covers/19159.jpg"
+  },
+  "ULJS19023": {
+    "igdb_id": 72862,
+    "path": "covers/72862.jpg"
+  },
+  "ULJS19033": {
+    "igdb_id": 1205,
+    "path": "covers/1205.jpg"
+  },
+  "ULJS19036": {
+    "igdb_id": 38441,
+    "path": "covers/38441.jpg"
+  },
+  "ULJS19044": {
+    "igdb_id": 42794,
+    "path": "covers/42794.jpg"
+  },
+  "ULJS19050": {
+    "igdb_id": 11697,
+    "path": "covers/11697.jpg"
+  },
+  "ULKS46002": {
+    "igdb_id": 42774,
+    "path": "covers/42774.jpg"
+  },
+  "ULKS46003": {
+    "igdb_id": 22594,
+    "path": "covers/22594.jpg"
+  },
+  "ULKS46004": {
+    "igdb_id": 22509,
+    "path": "covers/22509.jpg"
+  },
+  "ULKS46006": {
+    "igdb_id": 71443,
+    "path": "covers/71443.jpg"
+  },
+  "ULKS46008": {
+    "igdb_id": 269439,
+    "path": "covers/269439.jpg"
+  },
+  "ULKS46015": {
+    "igdb_id": 22508,
+    "path": "covers/22508.jpg"
+  },
+  "ULKS46017": {
+    "igdb_id": 23063,
+    "path": "covers/23063.jpg"
+  },
+  "ULKS46018": {
+    "igdb_id": 269510,
+    "path": "covers/269510.jpg"
+  },
+  "ULKS46021": {
+    "igdb_id": 23001,
+    "path": "covers/23001.jpg"
+  },
+  "ULKS46023": {
+    "igdb_id": 22312,
+    "path": "covers/22312.jpg"
+  },
+  "ULKS46027": {
+    "igdb_id": 10916,
+    "path": "covers/10916.jpg"
+  },
+  "ULKS46032": {
+    "igdb_id": 242986,
+    "path": "covers/242986.jpg"
+  },
+  "ULKS46034": {
+    "igdb_id": 11639,
+    "path": "covers/11639.jpg"
+  },
+  "ULKS46038": {
+    "igdb_id": 4177,
+    "path": "covers/4177.jpg"
+  },
+  "ULKS46042": {
+    "igdb_id": 60087,
+    "path": "covers/60087.jpg"
+  },
+  "ULKS46054": {
+    "igdb_id": 85653,
+    "path": "covers/85653.jpg"
+  },
+  "ULKS46057": {
+    "igdb_id": 18323,
+    "path": "covers/18323.jpg"
+  },
+  "ULKS46069": {
+    "igdb_id": 23006,
+    "path": "covers/23006.jpg"
+  },
+  "ULKS46071": {
+    "igdb_id": 42813,
+    "path": "covers/42813.jpg"
+  },
+  "ULKS46100": {
+    "igdb_id": 19692,
+    "path": "covers/19692.jpg"
+  },
+  "ULKS46115": {
+    "igdb_id": 209,
+    "path": "covers/209.jpg"
+  },
+  "ULKS46117": {
+    "igdb_id": 286683,
+    "path": "covers/286683.jpg"
+  },
+  "ULKS46119": {
+    "igdb_id": 381,
+    "path": "covers/381.jpg"
+  },
+  "ULKS46122": {
+    "igdb_id": 56520,
+    "path": "covers/56520.jpg"
+  },
+  "ULKS46125": {
+    "igdb_id": 7252,
+    "path": "covers/7252.jpg"
+  },
+  "ULKS46133": {
+    "igdb_id": 20073,
+    "path": "covers/20073.jpg"
+  },
+  "ULKS46136": {
+    "igdb_id": 6203,
+    "path": "covers/6203.jpg"
+  },
+  "ULKS46146": {
+    "igdb_id": 60091,
+    "path": "covers/60091.jpg"
+  },
+  "ULKS46151": {
+    "igdb_id": 18314,
+    "path": "covers/18314.jpg"
+  },
+  "ULKS46155": {
+    "igdb_id": 21888,
+    "path": "covers/21888.jpg"
+  },
+  "ULKS46157": {
+    "igdb_id": 3263,
+    "path": "covers/3263.jpg"
+  },
+  "ULKS46158": {
+    "igdb_id": 66596,
+    "path": "covers/66596.jpg"
+  },
+  "ULKS46179": {
+    "igdb_id": 5162,
+    "path": "covers/5162.jpg"
+  },
+  "ULKS46195": {
+    "igdb_id": 5299,
+    "path": "covers/5299.jpg"
+  },
+  "ULKS46204": {
+    "igdb_id": 56744,
+    "path": "covers/56744.jpg"
+  },
+  "ULKS46207": {
+    "igdb_id": 7471,
+    "path": "covers/7471.jpg"
+  },
+  "ULKS46231": {
+    "igdb_id": 10661,
+    "path": "covers/10661.jpg"
+  },
+  "ULKS46239": {
+    "igdb_id": 382,
+    "path": "covers/382.jpg"
+  },
+  "ULKS46248": {
+    "igdb_id": 6958,
+    "path": "covers/6958.jpg"
+  },
+  "ULKS46259": {
+    "igdb_id": 65896,
+    "path": "covers/65896.jpg"
+  },
+  "ULKS46260": {
+    "igdb_id": 2265,
+    "path": "covers/2265.jpg"
+  },
+  "ULKS46264": {
+    "igdb_id": 42759,
+    "path": "covers/42759.jpg"
+  },
+  "ULKS46268": {
+    "igdb_id": 12481,
+    "path": "covers/12481.jpg"
+  },
+  "ULKS46273": {
+    "igdb_id": 78348,
+    "path": "covers/78348.jpg"
+  },
+  "ULKS46284": {
+    "igdb_id": 42760,
+    "path": "covers/42760.jpg"
+  },
+  "ULUS10001": {
+    "igdb_id": 18787,
+    "path": "covers/18787.jpg"
+  },
+  "ULUS10003": {
+    "igdb_id": 22508,
+    "path": "covers/22508.jpg"
+  },
+  "ULUS10004": {
+    "igdb_id": 100279,
+    "path": "covers/100279.jpg"
+  },
+  "ULUS10005": {
+    "igdb_id": 20011,
+    "path": "covers/20011.jpg"
+  },
+  "ULUS10007": {
+    "igdb_id": 22509,
+    "path": "covers/22509.jpg"
+  },
+  "ULUS10008": {
+    "igdb_id": 243016,
+    "path": "covers/243016.jpg"
+  },
+  "ULUS10009": {
+    "igdb_id": 248495,
+    "path": "covers/248495.jpg"
+  },
+  "ULUS10010": {
+    "igdb_id": 38479,
+    "path": "covers/38479.jpg"
+  },
+  "ULUS10012": {
+    "igdb_id": 71443,
+    "path": "covers/71443.jpg"
+  },
+  "ULUS10013": {
+    "igdb_id": 38473,
+    "path": "covers/38473.jpg"
+  },
+  "ULUS10014": {
+    "igdb_id": 22311,
+    "path": "covers/22311.jpg"
+  },
+  "ULUS10015": {
+    "igdb_id": 218127,
+    "path": "covers/218127.jpg"
+  },
+  "ULUS10016": {
+    "igdb_id": 72930,
+    "path": "covers/72930.jpg"
+  },
+  "ULUS10017": {
+    "igdb_id": 22293,
+    "path": "covers/22293.jpg"
+  },
+  "ULUS10018": {
+    "igdb_id": 23140,
+    "path": "covers/23140.jpg"
+  },
+  "ULUS10019": {
+    "igdb_id": 21619,
+    "path": "covers/21619.jpg"
+  },
+  "ULUS10020": {
+    "igdb_id": 114138,
+    "path": "covers/114138.jpg"
+  },
+  "ULUS10021": {
+    "igdb_id": 5928,
+    "path": "covers/5928.jpg"
+  },
+  "ULUS10022": {
+    "igdb_id": 10943,
+    "path": "covers/10943.jpg"
+  },
+  "ULUS10023": {
+    "igdb_id": 3010,
+    "path": "covers/3010.jpg"
+  },
+  "ULUS10024": {
+    "igdb_id": 243006,
+    "path": "covers/243006.jpg"
+  },
+  "ULUS10025": {
+    "igdb_id": 10916,
+    "path": "covers/10916.jpg"
+  },
+  "ULUS10026": {
+    "igdb_id": 11481,
+    "path": "covers/11481.jpg"
+  },
+  "ULUS10027": {
+    "igdb_id": 45988,
+    "path": "covers/45988.jpg"
+  },
+  "ULUS10028": {
+    "igdb_id": 248474,
+    "path": "covers/248474.jpg"
+  },
+  "ULUS10029": {
+    "igdb_id": 240358,
+    "path": "covers/240358.jpg"
+  },
+  "ULUS10030": {
+    "igdb_id": 242986,
+    "path": "covers/242986.jpg"
+  },
+  "ULUS10031": {
+    "igdb_id": 210460,
+    "path": "covers/210460.jpg"
+  },
+  "ULUS10032": {
+    "igdb_id": 248544,
+    "path": "covers/248544.jpg"
+  },
+  "ULUS10033": {
+    "igdb_id": 3992,
+    "path": "covers/3992.jpg"
+  },
+  "ULUS10034": {
+    "igdb_id": 46022,
+    "path": "covers/46022.jpg"
+  },
+  "ULUS10035": {
+    "igdb_id": 46000,
+    "path": "covers/46000.jpg"
+  },
+  "ULUS10036": {
+    "igdb_id": 121504,
+    "path": "covers/121504.jpg"
+  },
+  "ULUS10037": {
+    "igdb_id": 22312,
+    "path": "covers/22312.jpg"
+  },
+  "ULUS10038": {
+    "igdb_id": 22458,
+    "path": "covers/22458.jpg"
+  },
+  "ULUS10039": {
+    "igdb_id": 22563,
+    "path": "covers/22563.jpg"
+  },
+  "ULUS10040": {
+    "igdb_id": 21810,
+    "path": "covers/21810.jpg"
+  },
+  "ULUS10041": {
+    "igdb_id": 3263,
+    "path": "covers/3263.jpg"
+  },
+  "ULUS10042": {
+    "igdb_id": 4177,
+    "path": "covers/4177.jpg"
+  },
+  "ULUS10043": {
+    "igdb_id": 22574,
+    "path": "covers/22574.jpg"
+  },
+  "ULUS10044": {
+    "igdb_id": 248550,
+    "path": "covers/248550.jpg"
+  },
+  "ULUS10045": {
+    "igdb_id": 245310,
+    "path": "covers/245310.jpg"
+  },
+  "ULUS10046": {
+    "igdb_id": 46019,
+    "path": "covers/46019.jpg"
+  },
+  "ULUS10047": {
+    "igdb_id": 4235,
+    "path": "covers/4235.jpg"
+  },
+  "ULUS10048": {
+    "igdb_id": 73266,
+    "path": "covers/73266.jpg"
+  },
+  "ULUS10050": {
+    "igdb_id": 18323,
+    "path": "covers/18323.jpg"
+  },
+  "ULUS10052": {
+    "igdb_id": 4067,
+    "path": "covers/4067.jpg"
+  },
+  "ULUS10053": {
+    "igdb_id": 142,
+    "path": "covers/142.jpg"
+  },
+  "ULUS10054": {
+    "igdb_id": 44524,
+    "path": "covers/44524.jpg"
+  },
+  "ULUS10055": {
+    "igdb_id": 243197,
+    "path": "covers/243197.jpg"
+  },
+  "ULUS10057": {
+    "igdb_id": 84162,
+    "path": "covers/84162.jpg"
+  },
+  "ULUS10059": {
+    "igdb_id": 71407,
+    "path": "covers/71407.jpg"
+  },
+  "ULUS10061": {
+    "igdb_id": 19692,
+    "path": "covers/19692.jpg"
+  },
+  "ULUS10062": {
+    "igdb_id": 42876,
+    "path": "covers/42876.jpg"
+  },
+  "ULUS10063": {
+    "igdb_id": 22565,
+    "path": "covers/22565.jpg"
+  },
+  "ULUS10064": {
+    "igdb_id": 2054,
+    "path": "covers/2054.jpg"
+  },
+  "ULUS10065": {
+    "igdb_id": 18313,
+    "path": "covers/18313.jpg"
+  },
+  "ULUS10066": {
+    "igdb_id": 5836,
+    "path": "covers/5836.jpg"
+  },
+  "ULUS10067": {
+    "igdb_id": 240365,
+    "path": "covers/240365.jpg"
+  },
+  "ULUS10068": {
+    "igdb_id": 24275,
+    "path": "covers/24275.jpg"
+  },
+  "ULUS10069": {
+    "igdb_id": 38456,
+    "path": "covers/38456.jpg"
+  },
+  "ULUS10070": {
+    "igdb_id": 22632,
+    "path": "covers/22632.jpg"
+  },
+  "ULUS10071": {
+    "igdb_id": 18267,
+    "path": "covers/18267.jpg"
+  },
+  "ULUS10072": {
+    "igdb_id": 248542,
+    "path": "covers/248542.jpg"
+  },
+  "ULUS10074": {
+    "igdb_id": 85653,
+    "path": "covers/85653.jpg"
+  },
+  "ULUS10075": {
+    "igdb_id": 24274,
+    "path": "covers/24274.jpg"
+  },
+  "ULUS10076": {
+    "igdb_id": 44519,
+    "path": "covers/44519.jpg"
+  },
+  "ULUS10078": {
+    "igdb_id": 72721,
+    "path": "covers/72721.jpg"
+  },
+  "ULUS10079": {
+    "igdb_id": 23148,
+    "path": "covers/23148.jpg"
+  },
+  "ULUS10081": {
+    "igdb_id": 2567,
+    "path": "covers/2567.jpg"
+  },
+  "ULUS10083": {
+    "igdb_id": 23001,
+    "path": "covers/23001.jpg"
+  },
+  "ULUS10084": {
+    "igdb_id": 2269,
+    "path": "covers/2269.jpg"
+  },
+  "ULUS10085": {
+    "igdb_id": 22564,
+    "path": "covers/22564.jpg"
+  },
+  "ULUS10086": {
+    "igdb_id": 23006,
+    "path": "covers/23006.jpg"
+  },
+  "ULUS10087": {
+    "igdb_id": 4231,
+    "path": "covers/4231.jpg"
+  },
+  "ULUS10088": {
+    "igdb_id": 42873,
+    "path": "covers/42873.jpg"
+  },
+  "ULUS10089": {
+    "igdb_id": 12299,
+    "path": "covers/12299.jpg"
+  },
+  "ULUS10090": {
+    "igdb_id": 18262,
+    "path": "covers/18262.jpg"
+  },
+  "ULUS10091": {
+    "igdb_id": 12937,
+    "path": "covers/12937.jpg"
+  },
+  "ULUS10093": {
+    "igdb_id": 119183,
+    "path": "covers/119183.jpg"
+  },
+  "ULUS10094": {
+    "igdb_id": 6455,
+    "path": "covers/6455.jpg"
+  },
+  "ULUS10095": {
+    "igdb_id": 38464,
+    "path": "covers/38464.jpg"
+  },
+  "ULUS10096": {
+    "igdb_id": 93991,
+    "path": "covers/93991.jpg"
+  },
+  "ULUS10097": {
+    "igdb_id": 23005,
+    "path": "covers/23005.jpg"
+  },
+  "ULUS10098": {
+    "igdb_id": 42748,
+    "path": "covers/42748.jpg"
+  },
+  "ULUS10099": {
+    "igdb_id": 248539,
+    "path": "covers/248539.jpg"
+  },
+  "ULUS10100": {
+    "igdb_id": 23123,
+    "path": "covers/23123.jpg"
+  },
+  "ULUS10101": {
+    "igdb_id": 6157,
+    "path": "covers/6157.jpg"
+  },
+  "ULUS10102": {
+    "igdb_id": 1615,
+    "path": "covers/1615.jpg"
+  },
+  "ULUS10103": {
+    "igdb_id": 18192,
+    "path": "covers/18192.jpg"
+  },
+  "ULUS10104": {
+    "igdb_id": 24196,
+    "path": "covers/24196.jpg"
+  },
+  "ULUS10105": {
+    "igdb_id": 12481,
+    "path": "covers/12481.jpg"
+  },
+  "ULUS10106": {
+    "igdb_id": 80845,
+    "path": "covers/80845.jpg"
+  },
+  "ULUS10107": {
+    "igdb_id": 22756,
+    "path": "covers/22756.jpg"
+  },
+  "ULUS10108": {
+    "igdb_id": 77232,
+    "path": "covers/77232.jpg"
+  },
+  "ULUS10109": {
+    "igdb_id": 23818,
+    "path": "covers/23818.jpg"
+  },
+  "ULUS10111": {
+    "igdb_id": 20542,
+    "path": "covers/20542.jpg"
+  },
+  "ULUS10112": {
+    "igdb_id": 240289,
+    "path": "covers/240289.jpg"
+  },
+  "ULUS10113": {
+    "igdb_id": 248771,
+    "path": "covers/248771.jpg"
+  },
+  "ULUS10114": {
+    "igdb_id": 11639,
+    "path": "covers/11639.jpg"
+  },
+  "ULUS10115": {
+    "igdb_id": 5220,
+    "path": "covers/5220.jpg"
+  },
+  "ULUS10116": {
+    "igdb_id": 5953,
+    "path": "covers/5953.jpg"
+  },
+  "ULUS10117": {
+    "igdb_id": 243010,
+    "path": "covers/243010.jpg"
+  },
+  "ULUS10118": {
+    "igdb_id": 131154,
+    "path": "covers/131154.jpg"
+  },
+  "ULUS10120": {
+    "igdb_id": 5112,
+    "path": "covers/5112.jpg"
+  },
+  "ULUS10121": {
+    "igdb_id": 129853,
+    "path": "covers/129853.jpg"
+  },
+  "ULUS10123": {
+    "igdb_id": 28882,
+    "path": "covers/28882.jpg"
+  },
+  "ULUS10125": {
+    "igdb_id": 10942,
+    "path": "covers/10942.jpg"
+  },
+  "ULUS10126": {
+    "igdb_id": 21886,
+    "path": "covers/21886.jpg"
+  },
+  "ULUS10127": {
+    "igdb_id": 24185,
+    "path": "covers/24185.jpg"
+  },
+  "ULUS10128": {
+    "igdb_id": 23122,
+    "path": "covers/23122.jpg"
+  },
+  "ULUS10129": {
+    "igdb_id": 8512,
+    "path": "covers/8512.jpg"
+  },
+  "ULUS10130": {
+    "igdb_id": 286683,
+    "path": "covers/286683.jpg"
+  },
+  "ULUS10131": {
+    "igdb_id": 5964,
+    "path": "covers/5964.jpg"
+  },
+  "ULUS10132": {
+    "igdb_id": 248530,
+    "path": "covers/248530.jpg"
+  },
+  "ULUS10133": {
+    "igdb_id": 23125,
+    "path": "covers/23125.jpg"
+  },
+  "ULUS10134": {
+    "igdb_id": 23099,
+    "path": "covers/23099.jpg"
+  },
+  "ULUS10135": {
+    "igdb_id": 8266,
+    "path": "covers/8266.jpg"
+  },
+  "ULUS10136": {
+    "igdb_id": 78167,
+    "path": "covers/78167.jpg"
+  },
+  "ULUS10137": {
+    "igdb_id": 42806,
+    "path": "covers/42806.jpg"
+  },
+  "ULUS10138": {
+    "igdb_id": 5935,
+    "path": "covers/5935.jpg"
+  },
+  "ULUS10139": {
+    "igdb_id": 24181,
+    "path": "covers/24181.jpg"
+  },
+  "ULUS10140": {
+    "igdb_id": 23084,
+    "path": "covers/23084.jpg"
+  },
+  "ULUS10141": {
+    "igdb_id": 1312,
+    "path": "covers/1312.jpg"
+  },
+  "ULUS10142": {
+    "igdb_id": 42889,
+    "path": "covers/42889.jpg"
+  },
+  "ULUS10143": {
+    "igdb_id": 38483,
+    "path": "covers/38483.jpg"
+  },
+  "ULUS10144": {
+    "igdb_id": 10944,
+    "path": "covers/10944.jpg"
+  },
+  "ULUS10145": {
+    "igdb_id": 21954,
+    "path": "covers/21954.jpg"
+  },
+  "ULUS10146": {
+    "igdb_id": 5821,
+    "path": "covers/5821.jpg"
+  },
+  "ULUS10147": {
+    "igdb_id": 23106,
+    "path": "covers/23106.jpg"
+  },
+  "ULUS10148": {
+    "igdb_id": 5140,
+    "path": "covers/5140.jpg"
+  },
+  "ULUS10150": {
+    "igdb_id": 20610,
+    "path": "covers/20610.jpg"
+  },
+  "ULUS10151": {
+    "igdb_id": 21618,
+    "path": "covers/21618.jpg"
+  },
+  "ULUS10152": {
+    "igdb_id": 248524,
+    "path": "covers/248524.jpg"
+  },
+  "ULUS10153": {
+    "igdb_id": 131087,
+    "path": "covers/131087.jpg"
+  },
+  "ULUS10154": {
+    "igdb_id": 5004,
+    "path": "covers/5004.jpg"
+  },
+  "ULUS10155": {
+    "igdb_id": 248528,
+    "path": "covers/248528.jpg"
+  },
+  "ULUS10156": {
+    "igdb_id": 94821,
+    "path": "covers/94821.jpg"
+  },
+  "ULUS10157": {
+    "igdb_id": 4801,
+    "path": "covers/4801.jpg"
+  },
+  "ULUS10158": {
+    "igdb_id": 248546,
+    "path": "covers/248546.jpg"
+  },
+  "ULUS10159": {
+    "igdb_id": 327790,
+    "path": "covers/327790.jpg"
+  },
+  "ULUS10160": {
+    "igdb_id": 3262,
+    "path": "covers/3262.jpg"
+  },
+  "ULUS10161": {
+    "igdb_id": 38471,
+    "path": "covers/38471.jpg"
+  },
+  "ULUS10163": {
+    "igdb_id": 203188,
+    "path": "covers/203188.jpg"
+  },
+  "ULUS10164": {
+    "igdb_id": 5742,
+    "path": "covers/5742.jpg"
+  },
+  "ULUS10166": {
+    "igdb_id": 74717,
+    "path": "covers/74717.jpg"
+  },
+  "ULUS10167": {
+    "igdb_id": 288948,
+    "path": "covers/288948.jpg"
+  },
+  "ULUS10168": {
+    "igdb_id": 8087,
+    "path": "covers/8087.jpg"
+  },
+  "ULUS10169": {
+    "igdb_id": 220951,
+    "path": "covers/220951.jpg"
+  },
+  "ULUS10170": {
+    "igdb_id": 42886,
+    "path": "covers/42886.jpg"
+  },
+  "ULUS10171": {
+    "igdb_id": 13107,
+    "path": "covers/13107.jpg"
+  },
+  "ULUS10172": {
+    "igdb_id": 42853,
+    "path": "covers/42853.jpg"
+  },
+  "ULUS10175": {
+    "igdb_id": 6931,
+    "path": "covers/6931.jpg"
+  },
+  "ULUS10176": {
+    "igdb_id": 14755,
+    "path": "covers/14755.jpg"
+  },
+  "ULUS10177": {
+    "igdb_id": 9270,
+    "path": "covers/9270.jpg"
+  },
+  "ULUS10179": {
+    "igdb_id": 93388,
+    "path": "covers/93388.jpg"
+  },
+  "ULUS10181": {
+    "igdb_id": 21386,
+    "path": "covers/21386.jpg"
+  },
+  "ULUS10182": {
+    "igdb_id": 127045,
+    "path": "covers/127045.jpg"
+  },
+  "ULUS10183": {
+    "igdb_id": 4690,
+    "path": "covers/4690.jpg"
+  },
+  "ULUS10184": {
+    "igdb_id": 21939,
+    "path": "covers/21939.jpg"
+  },
+  "ULUS10185": {
+    "igdb_id": 2846,
+    "path": "covers/2846.jpg"
+  },
+  "ULUS10186": {
+    "igdb_id": 23110,
+    "path": "covers/23110.jpg"
+  },
+  "ULUS10188": {
+    "igdb_id": 23116,
+    "path": "covers/23116.jpg"
+  },
+  "ULUS10189": {
+    "igdb_id": 2756,
+    "path": "covers/2756.jpg"
+  },
+  "ULUS10190": {
+    "igdb_id": 46021,
+    "path": "covers/46021.jpg"
+  },
+  "ULUS10191": {
+    "igdb_id": 2852,
+    "path": "covers/2852.jpg"
+  },
+  "ULUS10192": {
+    "igdb_id": 20621,
+    "path": "covers/20621.jpg"
+  },
+  "ULUS10193": {
+    "igdb_id": 23117,
+    "path": "covers/23117.jpg"
+  },
+  "ULUS10195": {
+    "igdb_id": 19260,
+    "path": "covers/19260.jpg"
+  },
+  "ULUS10196": {
+    "igdb_id": 21955,
+    "path": "covers/21955.jpg"
+  },
+  "ULUS10197": {
+    "igdb_id": 6204,
+    "path": "covers/6204.jpg"
+  },
+  "ULUS10198": {
+    "igdb_id": 21383,
+    "path": "covers/21383.jpg"
+  },
+  "ULUS10199": {
+    "igdb_id": 7252,
+    "path": "covers/7252.jpg"
+  },
+  "ULUS10200": {
+    "igdb_id": 42749,
+    "path": "covers/42749.jpg"
+  },
+  "ULUS10201": {
+    "igdb_id": 42766,
+    "path": "covers/42766.jpg"
+  },
+  "ULUS10202": {
+    "igdb_id": 381,
+    "path": "covers/381.jpg"
+  },
+  "ULUS10203": {
+    "igdb_id": 10704,
+    "path": "covers/10704.jpg"
+  },
+  "ULUS10204": {
+    "igdb_id": 4794,
+    "path": "covers/4794.jpg"
+  },
+  "ULUS10205": {
+    "igdb_id": 23087,
+    "path": "covers/23087.jpg"
+  },
+  "ULUS10207": {
+    "igdb_id": 42813,
+    "path": "covers/42813.jpg"
+  },
+  "ULUS10208": {
+    "igdb_id": 23098,
+    "path": "covers/23098.jpg"
+  },
+  "ULUS10209": {
+    "igdb_id": 20572,
+    "path": "covers/20572.jpg"
+  },
+  "ULUS10210": {
+    "igdb_id": 6420,
+    "path": "covers/6420.jpg"
+  },
+  "ULUS10211": {
+    "igdb_id": 42890,
+    "path": "covers/42890.jpg"
+  },
+  "ULUS10212": {
+    "igdb_id": 78838,
+    "path": "covers/78838.jpg"
+  },
+  "ULUS10213": {
+    "igdb_id": 6030,
+    "path": "covers/6030.jpg"
+  },
+  "ULUS10214": {
+    "igdb_id": 248573,
+    "path": "covers/248573.jpg"
+  },
+  "ULUS10215": {
+    "igdb_id": 20691,
+    "path": "covers/20691.jpg"
+  },
+  "ULUS10216": {
+    "igdb_id": 23111,
+    "path": "covers/23111.jpg"
+  },
+  "ULUS10217": {
+    "igdb_id": 44503,
+    "path": "covers/44503.jpg"
+  },
+  "ULUS10218": {
+    "igdb_id": 3120,
+    "path": "covers/3120.jpg"
+  },
+  "ULUS10219": {
+    "igdb_id": 42852,
+    "path": "covers/42852.jpg"
+  },
+  "ULUS10221": {
+    "igdb_id": 7225,
+    "path": "covers/7225.jpg"
+  },
+  "ULUS10223": {
+    "igdb_id": 81499,
+    "path": "covers/81499.jpg"
+  },
+  "ULUS10224": {
+    "igdb_id": 210479,
+    "path": "covers/210479.jpg"
+  },
+  "ULUS10225": {
+    "igdb_id": 2370,
+    "path": "covers/2370.jpg"
+  },
+  "ULUS10226": {
+    "igdb_id": 43428,
+    "path": "covers/43428.jpg"
+  },
+  "ULUS10227": {
+    "igdb_id": 4629,
+    "path": "covers/4629.jpg"
+  },
+  "ULUS10228": {
+    "igdb_id": 9614,
+    "path": "covers/9614.jpg"
+  },
+  "ULUS10229": {
+    "igdb_id": 7063,
+    "path": "covers/7063.jpg"
+  },
+  "ULUS10230": {
+    "igdb_id": 20073,
+    "path": "covers/20073.jpg"
+  },
+  "ULUS10231": {
+    "igdb_id": 21437,
+    "path": "covers/21437.jpg"
+  },
+  "ULUS10232": {
+    "igdb_id": 23051,
+    "path": "covers/23051.jpg"
+  },
+  "ULUS10233": {
+    "igdb_id": 23112,
+    "path": "covers/23112.jpg"
+  },
+  "ULUS10234": {
+    "igdb_id": 2568,
+    "path": "covers/2568.jpg"
+  },
+  "ULUS10235": {
+    "igdb_id": 22018,
+    "path": "covers/22018.jpg"
+  },
+  "ULUS10236": {
+    "igdb_id": 6203,
+    "path": "covers/6203.jpg"
+  },
+  "ULUS10237": {
+    "igdb_id": 1301,
+    "path": "covers/1301.jpg"
+  },
+  "ULUS10238": {
+    "igdb_id": 6753,
+    "path": "covers/6753.jpg"
+  },
+  "ULUS10239": {
+    "igdb_id": 44482,
+    "path": "covers/44482.jpg"
+  },
+  "ULUS10241": {
+    "igdb_id": 23086,
+    "path": "covers/23086.jpg"
+  },
+  "ULUS10242": {
+    "igdb_id": 44523,
+    "path": "covers/44523.jpg"
+  },
+  "ULUS10243": {
+    "igdb_id": 248513,
+    "path": "covers/248513.jpg"
+  },
+  "ULUS10244": {
+    "igdb_id": 23085,
+    "path": "covers/23085.jpg"
+  },
+  "ULUS10245": {
+    "igdb_id": 4667,
+    "path": "covers/4667.jpg"
+  },
+  "ULUS10246": {
+    "igdb_id": 7235,
+    "path": "covers/7235.jpg"
+  },
+  "ULUS10249": {
+    "igdb_id": 201348,
+    "path": "covers/201348.jpg"
+  },
+  "ULUS10250": {
+    "igdb_id": 4967,
+    "path": "covers/4967.jpg"
+  },
+  "ULUS10251": {
+    "igdb_id": 397,
+    "path": "covers/397.jpg"
+  },
+  "ULUS10254": {
+    "igdb_id": 20553,
+    "path": "covers/20553.jpg"
+  },
+  "ULUS10255": {
+    "igdb_id": 69188,
+    "path": "covers/69188.jpg"
+  },
+  "ULUS10257": {
+    "igdb_id": 19255,
+    "path": "covers/19255.jpg"
+  },
+  "ULUS10258": {
+    "igdb_id": 44506,
+    "path": "covers/44506.jpg"
+  },
+  "ULUS10259": {
+    "igdb_id": 4910,
+    "path": "covers/4910.jpg"
+  },
+  "ULUS10260": {
+    "igdb_id": 18314,
+    "path": "covers/18314.jpg"
+  },
+  "ULUS10261": {
+    "igdb_id": 3011,
+    "path": "covers/3011.jpg"
+  },
+  "ULUS10262": {
+    "igdb_id": 248517,
+    "path": "covers/248517.jpg"
+  },
+  "ULUS10263": {
+    "igdb_id": 121717,
+    "path": "covers/121717.jpg"
+  },
+  "ULUS10264": {
+    "igdb_id": 21418,
+    "path": "covers/21418.jpg"
+  },
+  "ULUS10265": {
+    "igdb_id": 5099,
+    "path": "covers/5099.jpg"
+  },
+  "ULUS10266": {
+    "igdb_id": 23066,
+    "path": "covers/23066.jpg"
+  },
+  "ULUS10267": {
+    "igdb_id": 21452,
+    "path": "covers/21452.jpg"
+  },
+  "ULUS10268": {
+    "igdb_id": 44483,
+    "path": "covers/44483.jpg"
+  },
+  "ULUS10269": {
+    "igdb_id": 7188,
+    "path": "covers/7188.jpg"
+  },
+  "ULUS10271": {
+    "igdb_id": 19159,
+    "path": "covers/19159.jpg"
+  },
+  "ULUS10272": {
+    "igdb_id": 71039,
+    "path": "covers/71039.jpg"
+  },
+  "ULUS10273": {
+    "igdb_id": 1809,
+    "path": "covers/1809.jpg"
+  },
+  "ULUS10274": {
+    "igdb_id": 200810,
+    "path": "covers/200810.jpg"
+  },
+  "ULUS10275": {
+    "igdb_id": 243014,
+    "path": "covers/243014.jpg"
+  },
+  "ULUS10276": {
+    "igdb_id": 5221,
+    "path": "covers/5221.jpg"
+  },
+  "ULUS10277": {
+    "igdb_id": 21888,
+    "path": "covers/21888.jpg"
+  },
+  "ULUS10278": {
+    "igdb_id": 18270,
+    "path": "covers/18270.jpg"
+  },
+  "ULUS10279": {
+    "igdb_id": 14607,
+    "path": "covers/14607.jpg"
+  },
+  "ULUS10280": {
+    "igdb_id": 1972,
+    "path": "covers/1972.jpg"
+  },
+  "ULUS10281": {
+    "igdb_id": 5298,
+    "path": "covers/5298.jpg"
+  },
+  "ULUS10282": {
+    "igdb_id": 24284,
+    "path": "covers/24284.jpg"
+  },
+  "ULUS10283": {
+    "igdb_id": 4731,
+    "path": "covers/4731.jpg"
+  },
+  "ULUS10284": {
+    "igdb_id": 4715,
+    "path": "covers/4715.jpg"
+  },
+  "ULUS10285": {
+    "igdb_id": 484,
+    "path": "covers/484.jpg"
+  },
+  "ULUS10286": {
+    "igdb_id": 6559,
+    "path": "covers/6559.jpg"
+  },
+  "ULUS10287": {
+    "igdb_id": 42881,
+    "path": "covers/42881.jpg"
+  },
+  "ULUS10288": {
+    "igdb_id": 21047,
+    "path": "covers/21047.jpg"
+  },
+  "ULUS10289": {
+    "igdb_id": 42865,
+    "path": "covers/42865.jpg"
+  },
+  "ULUS10290": {
+    "igdb_id": 21617,
+    "path": "covers/21617.jpg"
+  },
+  "ULUS10291": {
+    "igdb_id": 24279,
+    "path": "covers/24279.jpg"
+  },
+  "ULUS10292": {
+    "igdb_id": 23063,
+    "path": "covers/23063.jpg"
+  },
+  "ULUS10293": {
+    "igdb_id": 240319,
+    "path": "covers/240319.jpg"
+  },
+  "ULUS10294": {
+    "igdb_id": 248774,
+    "path": "covers/248774.jpg"
+  },
+  "ULUS10295": {
+    "igdb_id": 259331,
+    "path": "covers/259331.jpg"
+  },
+  "ULUS10296": {
+    "igdb_id": 192907,
+    "path": "covers/192907.jpg"
+  },
+  "ULUS10297": {
+    "igdb_id": 394,
+    "path": "covers/394.jpg"
+  },
+  "ULUS10298": {
+    "igdb_id": 23096,
+    "path": "covers/23096.jpg"
+  },
+  "ULUS10299": {
+    "igdb_id": 24281,
+    "path": "covers/24281.jpg"
+  },
+  "ULUS10301": {
+    "igdb_id": 7007,
+    "path": "covers/7007.jpg"
+  },
+  "ULUS10302": {
+    "igdb_id": 21945,
+    "path": "covers/21945.jpg"
+  },
+  "ULUS10303": {
+    "igdb_id": 2805,
+    "path": "covers/2805.jpg"
+  },
+  "ULUS10304": {
+    "igdb_id": 1190,
+    "path": "covers/1190.jpg"
+  },
+  "ULUS10305": {
+    "igdb_id": 2824,
+    "path": "covers/2824.jpg"
+  },
+  "ULUS10306": {
+    "igdb_id": 209,
+    "path": "covers/209.jpg"
+  },
+  "ULUS10307": {
+    "igdb_id": 2799,
+    "path": "covers/2799.jpg"
+  },
+  "ULUS10308": {
+    "igdb_id": 22528,
+    "path": "covers/22528.jpg"
+  },
+  "ULUS10309": {
+    "igdb_id": 42839,
+    "path": "covers/42839.jpg"
+  },
+  "ULUS10310": {
+    "igdb_id": 1315,
+    "path": "covers/1315.jpg"
+  },
+  "ULUS10311": {
+    "igdb_id": 1574,
+    "path": "covers/1574.jpg"
+  },
+  "ULUS10312": {
+    "igdb_id": 380445,
+    "path": "covers/380445.jpg"
+  },
+  "ULUS10313": {
+    "igdb_id": 18310,
+    "path": "covers/18310.jpg"
+  },
+  "ULUS10314": {
+    "igdb_id": 319,
+    "path": "covers/319.jpg"
+  },
+  "ULUS10315": {
+    "igdb_id": 4892,
+    "path": "covers/4892.jpg"
+  },
+  "ULUS10316": {
+    "igdb_id": 4932,
+    "path": "covers/4932.jpg"
+  },
+  "ULUS10317": {
+    "igdb_id": 218140,
+    "path": "covers/218140.jpg"
+  },
+  "ULUS10318": {
+    "igdb_id": 249163,
+    "path": "covers/249163.jpg"
+  },
+  "ULUS10321": {
+    "igdb_id": 5289,
+    "path": "covers/5289.jpg"
+  },
+  "ULUS10323": {
+    "igdb_id": 19262,
+    "path": "covers/19262.jpg"
+  },
+  "ULUS10324": {
+    "igdb_id": 4907,
+    "path": "covers/4907.jpg"
+  },
+  "ULUS10325": {
+    "igdb_id": 46023,
+    "path": "covers/46023.jpg"
+  },
+  "ULUS10326": {
+    "igdb_id": 4868,
+    "path": "covers/4868.jpg"
+  },
+  "ULUS10327": {
+    "igdb_id": 21675,
+    "path": "covers/21675.jpg"
+  },
+  "ULUS10328": {
+    "igdb_id": 22774,
+    "path": "covers/22774.jpg"
+  },
+  "ULUS10329": {
+    "igdb_id": 6912,
+    "path": "covers/6912.jpg"
+  },
+  "ULUS10330": {
+    "igdb_id": 248555,
+    "path": "covers/248555.jpg"
+  },
+  "ULUS10331": {
+    "igdb_id": 210431,
+    "path": "covers/210431.jpg"
+  },
+  "ULUS10332": {
+    "igdb_id": 42718,
+    "path": "covers/42718.jpg"
+  },
+  "ULUS10333": {
+    "igdb_id": 42879,
+    "path": "covers/42879.jpg"
+  },
+  "ULUS10334": {
+    "igdb_id": 78105,
+    "path": "covers/78105.jpg"
+  },
+  "ULUS10335": {
+    "igdb_id": 20777,
+    "path": "covers/20777.jpg"
+  },
+  "ULUS10336": {
+    "igdb_id": 2407,
+    "path": "covers/2407.jpg"
+  },
+  "ULUS10338": {
+    "igdb_id": 5162,
+    "path": "covers/5162.jpg"
+  },
+  "ULUS10339": {
+    "igdb_id": 1683,
+    "path": "covers/1683.jpg"
+  },
+  "ULUS10341": {
+    "igdb_id": 7242,
+    "path": "covers/7242.jpg"
+  },
+  "ULUS10342": {
+    "igdb_id": 4989,
+    "path": "covers/4989.jpg"
+  },
+  "ULUS10343": {
+    "igdb_id": 24293,
+    "path": "covers/24293.jpg"
+  },
+  "ULUS10344": {
+    "igdb_id": 42880,
+    "path": "covers/42880.jpg"
+  },
+  "ULUS10345": {
+    "igdb_id": 399295,
+    "path": "covers/399295.jpg"
+  },
+  "ULUS10346": {
+    "igdb_id": 8198,
+    "path": "covers/8198.jpg"
+  },
+  "ULUS10347": {
+    "igdb_id": 257214,
+    "path": "covers/257214.jpg"
+  },
+  "ULUS10349": {
+    "igdb_id": 19660,
+    "path": "covers/19660.jpg"
+  },
+  "ULUS10351": {
+    "igdb_id": 4768,
+    "path": "covers/4768.jpg"
+  },
+  "ULUS10352": {
+    "igdb_id": 243242,
+    "path": "covers/243242.jpg"
+  },
+  "ULUS10355": {
+    "igdb_id": 5065,
+    "path": "covers/5065.jpg"
+  },
+  "ULUS10356": {
+    "igdb_id": 4765,
+    "path": "covers/4765.jpg"
+  },
+  "ULUS10358": {
+    "igdb_id": 7468,
+    "path": "covers/7468.jpg"
+  },
+  "ULUS10359": {
+    "igdb_id": 21682,
+    "path": "covers/21682.jpg"
+  },
+  "ULUS10360": {
+    "igdb_id": 21711,
+    "path": "covers/21711.jpg"
+  },
+  "ULUS10363": {
+    "igdb_id": 20565,
+    "path": "covers/20565.jpg"
+  },
+  "ULUS10365": {
+    "igdb_id": 189,
+    "path": "covers/189.jpg"
+  },
+  "ULUS10366": {
+    "igdb_id": 20071,
+    "path": "covers/20071.jpg"
+  },
+  "ULUS10367": {
+    "igdb_id": 5222,
+    "path": "covers/5222.jpg"
+  },
+  "ULUS10369": {
+    "igdb_id": 240328,
+    "path": "covers/240328.jpg"
+  },
+  "ULUS10370": {
+    "igdb_id": 248777,
+    "path": "covers/248777.jpg"
+  },
+  "ULUS10374": {
+    "igdb_id": 24299,
+    "path": "covers/24299.jpg"
+  },
+  "ULUS10375": {
+    "igdb_id": 80504,
+    "path": "covers/80504.jpg"
+  },
+  "ULUS10376": {
+    "igdb_id": 248138,
+    "path": "covers/248138.jpg"
+  },
+  "ULUS10377": {
+    "igdb_id": 1191,
+    "path": "covers/1191.jpg"
+  },
+  "ULUS10378": {
+    "igdb_id": 72912,
+    "path": "covers/72912.jpg"
+  },
+  "ULUS10379": {
+    "igdb_id": 5017,
+    "path": "covers/5017.jpg"
+  },
+  "ULUS10381": {
+    "igdb_id": 166354,
+    "path": "covers/166354.jpg"
+  },
+  "ULUS10382": {
+    "igdb_id": 42773,
+    "path": "covers/42773.jpg"
+  },
+  "ULUS10383": {
+    "igdb_id": 42857,
+    "path": "covers/42857.jpg"
+  },
+  "ULUS10384": {
+    "igdb_id": 5299,
+    "path": "covers/5299.jpg"
+  },
+  "ULUS10385": {
+    "igdb_id": 51037,
+    "path": "covers/51037.jpg"
+  },
+  "ULUS10387": {
+    "igdb_id": 2801,
+    "path": "covers/2801.jpg"
+  },
+  "ULUS10389": {
+    "igdb_id": 208778,
+    "path": "covers/208778.jpg"
+  },
+  "ULUS10390": {
+    "igdb_id": 476,
+    "path": "covers/476.jpg"
+  },
+  "ULUS10391": {
+    "igdb_id": 20427,
+    "path": "covers/20427.jpg"
+  },
+  "ULUS10392": {
+    "igdb_id": 42842,
+    "path": "covers/42842.jpg"
+  },
+  "ULUS10393": {
+    "igdb_id": 42765,
+    "path": "covers/42765.jpg"
+  },
+  "ULUS10394": {
+    "igdb_id": 240328,
+    "path": "covers/240328.jpg"
+  },
+  "ULUS10396": {
+    "igdb_id": 20998,
+    "path": "covers/20998.jpg"
+  },
+  "ULUS10398": {
+    "igdb_id": 19202,
+    "path": "covers/19202.jpg"
+  },
+  "ULUS10399": {
+    "igdb_id": 5152,
+    "path": "covers/5152.jpg"
+  },
+  "ULUS10400": {
+    "igdb_id": 19640,
+    "path": "covers/19640.jpg"
+  },
+  "ULUS10401": {
+    "igdb_id": 50648,
+    "path": "covers/50648.jpg"
+  },
+  "ULUS10402": {
+    "igdb_id": 66407,
+    "path": "covers/66407.jpg"
+  },
+  "ULUS10404": {
+    "igdb_id": 3829,
+    "path": "covers/3829.jpg"
+  },
+  "ULUS10405": {
+    "igdb_id": 18383,
+    "path": "covers/18383.jpg"
+  },
+  "ULUS10406": {
+    "igdb_id": 42750,
+    "path": "covers/42750.jpg"
+  },
+  "ULUS10407": {
+    "igdb_id": 19101,
+    "path": "covers/19101.jpg"
+  },
+  "ULUS10408": {
+    "igdb_id": 24307,
+    "path": "covers/24307.jpg"
+  },
+  "ULUS10409": {
+    "igdb_id": 5642,
+    "path": "covers/5642.jpg"
+  },
+  "ULUS10410": {
+    "igdb_id": 21873,
+    "path": "covers/21873.jpg"
+  },
+  "ULUS10411": {
+    "igdb_id": 209931,
+    "path": "covers/209931.jpg"
+  },
+  "ULUS10412": {
+    "igdb_id": 71376,
+    "path": "covers/71376.jpg"
+  },
+  "ULUS10413": {
+    "igdb_id": 4990,
+    "path": "covers/4990.jpg"
+  },
+  "ULUS10416": {
+    "igdb_id": 6983,
+    "path": "covers/6983.jpg"
+  },
+  "ULUS10417": {
+    "igdb_id": 46016,
+    "path": "covers/46016.jpg"
+  },
+  "ULUS10418": {
+    "igdb_id": 2721,
+    "path": "covers/2721.jpg"
+  },
+  "ULUS10419": {
+    "igdb_id": 5216,
+    "path": "covers/5216.jpg"
+  },
+  "ULUS10420": {
+    "igdb_id": 5223,
+    "path": "covers/5223.jpg"
+  },
+  "ULUS10421": {
+    "igdb_id": 568,
+    "path": "covers/568.jpg"
+  },
+  "ULUS10423": {
+    "igdb_id": 7243,
+    "path": "covers/7243.jpg"
+  },
+  "ULUS10429": {
+    "igdb_id": 248571,
+    "path": "covers/248571.jpg"
+  },
+  "ULUS10431": {
+    "igdb_id": 44487,
+    "path": "covers/44487.jpg"
+  },
+  "ULUS10432": {
+    "igdb_id": 21842,
+    "path": "covers/21842.jpg"
+  },
+  "ULUS10433": {
+    "igdb_id": 7471,
+    "path": "covers/7471.jpg"
+  },
+  "ULUS10435": {
+    "igdb_id": 4877,
+    "path": "covers/4877.jpg"
+  },
+  "ULUS10436": {
+    "igdb_id": 5229,
+    "path": "covers/5229.jpg"
+  },
+  "ULUS10437": {
+    "igdb_id": 391,
+    "path": "covers/391.jpg"
+  },
+  "ULUS10438": {
+    "igdb_id": 42809,
+    "path": "covers/42809.jpg"
+  },
+  "ULUS10440": {
+    "igdb_id": 7111,
+    "path": "covers/7111.jpg"
+  },
+  "ULUS10441": {
+    "igdb_id": 229204,
+    "path": "covers/229204.jpg"
+  },
+  "ULUS10442": {
+    "igdb_id": 21891,
+    "path": "covers/21891.jpg"
+  },
+  "ULUS10443": {
+    "igdb_id": 2821,
+    "path": "covers/2821.jpg"
+  },
+  "ULUS10444": {
+    "igdb_id": 4767,
+    "path": "covers/4767.jpg"
+  },
+  "ULUS10445": {
+    "igdb_id": 1302,
+    "path": "covers/1302.jpg"
+  },
+  "ULUS10446": {
+    "igdb_id": 210000,
+    "path": "covers/210000.jpg"
+  },
+  "ULUS10447": {
+    "igdb_id": 19658,
+    "path": "covers/19658.jpg"
+  },
+  "ULUS10448": {
+    "igdb_id": 4716,
+    "path": "covers/4716.jpg"
+  },
+  "ULUS10449": {
+    "igdb_id": 4837,
+    "path": "covers/4837.jpg"
+  },
+  "ULUS10450": {
+    "igdb_id": 486,
+    "path": "covers/486.jpg"
+  },
+  "ULUS10451": {
+    "igdb_id": 4211,
+    "path": "covers/4211.jpg"
+  },
+  "ULUS10452": {
+    "igdb_id": 5300,
+    "path": "covers/5300.jpg"
+  },
+  "ULUS10453": {
+    "igdb_id": 23358,
+    "path": "covers/23358.jpg"
+  },
+  "ULUS10454": {
+    "igdb_id": 4682,
+    "path": "covers/4682.jpg"
+  },
+  "ULUS10455": {
+    "igdb_id": 10661,
+    "path": "covers/10661.jpg"
+  },
+  "ULUS10457": {
+    "igdb_id": 1568,
+    "path": "covers/1568.jpg"
+  },
+  "ULUS10458": {
+    "igdb_id": 42887,
+    "path": "covers/42887.jpg"
+  },
+  "ULUS10459": {
+    "igdb_id": 208716,
+    "path": "covers/208716.jpg"
+  },
+  "ULUS10461": {
+    "igdb_id": 21851,
+    "path": "covers/21851.jpg"
+  },
+  "ULUS10462": {
+    "igdb_id": 248136,
+    "path": "covers/248136.jpg"
+  },
+  "ULUS10463": {
+    "igdb_id": 42888,
+    "path": "covers/42888.jpg"
+  },
+  "ULUS10464": {
+    "igdb_id": 240335,
+    "path": "covers/240335.jpg"
+  },
+  "ULUS10465": {
+    "igdb_id": 7107,
+    "path": "covers/7107.jpg"
+  },
+  "ULUS10468": {
+    "igdb_id": 10732,
+    "path": "covers/10732.jpg"
+  },
+  "ULUS10469": {
+    "igdb_id": 6958,
+    "path": "covers/6958.jpg"
+  },
+  "ULUS10470": {
+    "igdb_id": 42891,
+    "path": "covers/42891.jpg"
+  },
+  "ULUS10472": {
+    "igdb_id": 997,
+    "path": "covers/997.jpg"
+  },
+  "ULUS10473": {
+    "igdb_id": 240335,
+    "path": "covers/240335.jpg"
+  },
+  "ULUS10474": {
+    "igdb_id": 5054,
+    "path": "covers/5054.jpg"
+  },
+  "ULUS10475": {
+    "igdb_id": 339594,
+    "path": "covers/339594.jpg"
+  },
+  "ULUS10476": {
+    "igdb_id": 7016,
+    "path": "covers/7016.jpg"
+  },
+  "ULUS10477": {
+    "igdb_id": 210,
+    "path": "covers/210.jpg"
+  },
+  "ULUS10479": {
+    "igdb_id": 21736,
+    "path": "covers/21736.jpg"
+  },
+  "ULUS10480": {
+    "igdb_id": 142710,
+    "path": "covers/142710.jpg"
+  },
+  "ULUS10481": {
+    "igdb_id": 42790,
+    "path": "covers/42790.jpg"
+  },
+  "ULUS10482": {
+    "igdb_id": 13909,
+    "path": "covers/13909.jpg"
+  },
+  "ULUS10484": {
+    "igdb_id": 5080,
+    "path": "covers/5080.jpg"
+  },
+  "ULUS10485": {
+    "igdb_id": 4997,
+    "path": "covers/4997.jpg"
+  },
+  "ULUS10486": {
+    "igdb_id": 210296,
+    "path": "covers/210296.jpg"
+  },
+  "ULUS10488": {
+    "igdb_id": 2802,
+    "path": "covers/2802.jpg"
+  },
+  "ULUS10490": {
+    "igdb_id": 3270,
+    "path": "covers/3270.jpg"
+  },
+  "ULUS10491": {
+    "igdb_id": 21943,
+    "path": "covers/21943.jpg"
+  },
+  "ULUS10492": {
+    "igdb_id": 80165,
+    "path": "covers/80165.jpg"
+  },
+  "ULUS10494": {
+    "igdb_id": 22968,
+    "path": "covers/22968.jpg"
+  },
+  "ULUS10495": {
+    "igdb_id": 21760,
+    "path": "covers/21760.jpg"
+  },
+  "ULUS10497": {
+    "igdb_id": 257217,
+    "path": "covers/257217.jpg"
+  },
+  "ULUS10499": {
+    "igdb_id": 43270,
+    "path": "covers/43270.jpg"
+  },
+  "ULUS10500": {
+    "igdb_id": 237596,
+    "path": "covers/237596.jpg"
+  },
+  "ULUS10503": {
+    "igdb_id": 4991,
+    "path": "covers/4991.jpg"
+  },
+  "ULUS10504": {
+    "igdb_id": 240362,
+    "path": "covers/240362.jpg"
+  },
+  "ULUS10505": {
+    "igdb_id": 1224,
+    "path": "covers/1224.jpg"
+  },
+  "ULUS10506": {
+    "igdb_id": 42884,
+    "path": "covers/42884.jpg"
+  },
+  "ULUS10507": {
+    "igdb_id": 287629,
+    "path": "covers/287629.jpg"
+  },
+  "ULUS10508": {
+    "igdb_id": 7228,
+    "path": "covers/7228.jpg"
+  },
+  "ULUS10509": {
+    "igdb_id": 382,
+    "path": "covers/382.jpg"
+  },
+  "ULUS10511": {
+    "igdb_id": 14757,
+    "path": "covers/14757.jpg"
+  },
+  "ULUS10513": {
+    "igdb_id": 2150,
+    "path": "covers/2150.jpg"
+  },
+  "ULUS10516": {
+    "igdb_id": 5649,
+    "path": "covers/5649.jpg"
+  },
+  "ULUS10517": {
+    "igdb_id": 240362,
+    "path": "covers/240362.jpg"
+  },
+  "ULUS10518": {
+    "igdb_id": 42855,
+    "path": "covers/42855.jpg"
+  },
+  "ULUS10521": {
+    "igdb_id": 1395,
+    "path": "covers/1395.jpg"
+  },
+  "ULUS10522": {
+    "igdb_id": 21742,
+    "path": "covers/21742.jpg"
+  },
+  "ULUS10527": {
+    "igdb_id": 39193,
+    "path": "covers/39193.jpg"
+  },
+  "ULUS10528": {
+    "igdb_id": 41028,
+    "path": "covers/41028.jpg"
+  },
+  "ULUS10529": {
+    "igdb_id": 19256,
+    "path": "covers/19256.jpg"
+  },
+  "ULUS10530": {
+    "igdb_id": 5016,
+    "path": "covers/5016.jpg"
+  },
+  "ULUS10531": {
+    "igdb_id": 250156,
+    "path": "covers/250156.jpg"
+  },
+  "ULUS10532": {
+    "igdb_id": 21740,
+    "path": "covers/21740.jpg"
+  },
+  "ULUS10533": {
+    "igdb_id": 7809,
+    "path": "covers/7809.jpg"
+  },
+  "ULUS10534": {
+    "igdb_id": 19652,
+    "path": "covers/19652.jpg"
+  },
+  "ULUS10536": {
+    "igdb_id": 6909,
+    "path": "covers/6909.jpg"
+  },
+  "ULUS10537": {
+    "igdb_id": 2572,
+    "path": "covers/2572.jpg"
+  },
+  "ULUS10539": {
+    "igdb_id": 20690,
+    "path": "covers/20690.jpg"
+  },
+  "ULUS10540": {
+    "igdb_id": 8986,
+    "path": "covers/8986.jpg"
+  },
+  "ULUS10541": {
+    "igdb_id": 243246,
+    "path": "covers/243246.jpg"
+  },
+  "ULUS10542": {
+    "igdb_id": 2807,
+    "path": "covers/2807.jpg"
+  },
+  "ULUS10543": {
+    "igdb_id": 2265,
+    "path": "covers/2265.jpg"
+  },
+  "ULUS10544": {
+    "igdb_id": 5296,
+    "path": "covers/5296.jpg"
+  },
+  "ULUS10545": {
+    "igdb_id": 240384,
+    "path": "covers/240384.jpg"
+  },
+  "ULUS10547": {
+    "igdb_id": 21020,
+    "path": "covers/21020.jpg"
+  },
+  "ULUS10550": {
+    "igdb_id": 240384,
+    "path": "covers/240384.jpg"
+  },
+  "ULUS10551": {
+    "igdb_id": 10948,
+    "path": "covers/10948.jpg"
+  },
+  "ULUS10552": {
+    "igdb_id": 5056,
+    "path": "covers/5056.jpg"
+  },
+  "ULUS10555": {
+    "igdb_id": 42854,
+    "path": "covers/42854.jpg"
+  },
+  "ULUS10558": {
+    "igdb_id": 15455,
+    "path": "covers/15455.jpg"
+  },
+  "ULUS10559": {
+    "igdb_id": 19816,
+    "path": "covers/19816.jpg"
+  },
+  "ULUS10560": {
+    "igdb_id": 21779,
+    "path": "covers/21779.jpg"
+  },
+  "ULUS10561": {
+    "igdb_id": 21769,
+    "path": "covers/21769.jpg"
+  },
+  "ULUS10562": {
+    "igdb_id": 17268,
+    "path": "covers/17268.jpg"
+  },
+  "ULUS10563": {
+    "igdb_id": 11852,
+    "path": "covers/11852.jpg"
+  },
+  "ULUS10564": {
+    "igdb_id": 5006,
+    "path": "covers/5006.jpg"
+  },
+  "ULUS10565": {
+    "igdb_id": 132992,
+    "path": "covers/132992.jpg"
+  },
+  "ULUS10567": {
+    "igdb_id": 7359,
+    "path": "covers/7359.jpg"
+  },
+  "ULUS10568": {
+    "igdb_id": 138010,
+    "path": "covers/138010.jpg"
+  },
+  "ULUS10571": {
+    "igdb_id": 24310,
+    "path": "covers/24310.jpg"
+  },
+  "ULUS10572": {
+    "igdb_id": 24286,
+    "path": "covers/24286.jpg"
+  },
+  "ULUS10573": {
+    "igdb_id": 4992,
+    "path": "covers/4992.jpg"
+  },
+  "ULUS10575": {
+    "igdb_id": 284142,
+    "path": "covers/284142.jpg"
+  },
+  "ULUS10576": {
+    "igdb_id": 12382,
+    "path": "covers/12382.jpg"
+  },
+  "ULUS10577": {
+    "igdb_id": 17272,
+    "path": "covers/17272.jpg"
+  },
+  "ULUS10579": {
+    "igdb_id": 11611,
+    "path": "covers/11611.jpg"
+  },
+  "ULUS10580": {
+    "igdb_id": 3150,
+    "path": "covers/3150.jpg"
+  },
+  "ULUS10581": {
+    "igdb_id": 243252,
+    "path": "covers/243252.jpg"
+  },
+  "ULUS10582": {
+    "igdb_id": 19649,
+    "path": "covers/19649.jpg"
+  },
+  "ULUS10583": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULUS10584": {
+    "igdb_id": 250931,
+    "path": "covers/250931.jpg"
+  },
+  "ULUS10585": {
+    "igdb_id": 256895,
+    "path": "covers/256895.jpg"
+  },
+  "ULUS10587": {
+    "igdb_id": 240392,
+    "path": "covers/240392.jpg"
+  },
+  "ULUS10591": {
+    "igdb_id": 4993,
+    "path": "covers/4993.jpg"
+  },
+  "ULUS10592": {
+    "igdb_id": 42882,
+    "path": "covers/42882.jpg"
+  },
+  "ULUS10594": {
+    "igdb_id": 21702,
+    "path": "covers/21702.jpg"
+  },
+  "ULUS10595": {
+    "igdb_id": 240400,
+    "path": "covers/240400.jpg"
+  },
+  "ULUS10596": {
+    "igdb_id": 240400,
+    "path": "covers/240400.jpg"
+  },
+  "ULUS10598": {
+    "igdb_id": 5058,
+    "path": "covers/5058.jpg"
+  },
+  "ULUS10651": {
+    "igdb_id": 44525,
+    "path": "covers/44525.jpg"
+  },
+  "ULUS10652": {
+    "igdb_id": 20103,
+    "path": "covers/20103.jpg"
+  },
+  "ULUS10653": {
+    "igdb_id": 20999,
+    "path": "covers/20999.jpg"
+  },
+  "ULUS10654": {
+    "igdb_id": 240467,
+    "path": "covers/240467.jpg"
+  },
+  "ULUS10655": {
+    "igdb_id": 240419,
+    "path": "covers/240419.jpg"
+  },
+  "ULUS10656": {
+    "igdb_id": 13110,
+    "path": "covers/13110.jpg"
+  },
+  "ULUS17008": {
+    "igdb_id": 20427,
+    "path": "covers/20427.jpg"
+  },
+  "ULUS80017": {
+    "igdb_id": 42890,
+    "path": "covers/42890.jpg"
+  },
+  "ULUS80018": {
+    "igdb_id": 2370,
+    "path": "covers/2370.jpg"
+  },
+  "ULUS90001": {
+    "igdb_id": 2370,
+    "path": "covers/2370.jpg"
+  },
+  "ULUS90002": {
+    "igdb_id": 21047,
+    "path": "covers/21047.jpg"
+  },
+  "ULUS90003": {
+    "igdb_id": 20427,
+    "path": "covers/20427.jpg"
+  },
+  "ULUS98741": {
+    "igdb_id": 4841,
+    "path": "covers/4841.jpg"
+  },
+  "ULUX80153": {
+    "igdb_id": 42873,
+    "path": "covers/42873.jpg"
+  },
+  "ULUX80215": {
+    "igdb_id": 23125,
+    "path": "covers/23125.jpg"
+  },
+  "UTST99100": {
+    "igdb_id": 1542,
+    "path": "covers/1542.jpg"
+  }
+}
