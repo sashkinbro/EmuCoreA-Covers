@@ -1,0 +1,8644 @@
+{
+  "unresolved_serials": [
+    {
+      "serial": "ESGM0002",
+      "title": "Kaleido-Eve",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "GOEC0001",
+      "title": "Ragnarok: Hikari to Yami no Koujo",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "HONEY002",
+      "title": "Starry Sky: In Summer Portable",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "HONEY004",
+      "title": "Starry Sky: In Winter Portable",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "HONEY006",
+      "title": "Starry Sky: After Summer Portable",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "HONEY007",
+      "title": "Starry Sky: After Autumn Portable",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "HSN0019",
+      "title": "Phantasy Star Portable 2 Infinity",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "HSN0021",
+      "title": "7th Dragon 2020",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "KTGSP0230",
+      "title": "Kin'iro no Corda 3: Full Voice Special",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "NW1010763",
+      "title": "Ys Seven",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "NW1010774",
+      "title": "Ys vs. Sora no Kiseki: Alternative Saga",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "PP0004",
+      "title": "Solomon's Ring: Chi no Shou",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ROSE00006",
+      "title": "Mother Goose no Himitsu no Yakata: Nursery Rhymes for you",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "TCM30002",
+      "title": "Dead or Alive: Paradise",
+      "reason": "non_disc_product_code",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAM80002",
+      "title": "Network Utility Disc: Chinese Ver. 1.00C",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40017",
+      "title": "Baku-No",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40018",
+      "title": "Tenchi no Mon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40027",
+      "title": "Shinki Gensou: SSII Unlimited Side",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40032",
+      "title": "Yarudora Portable: Double Cast",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40033",
+      "title": "Yarudora Portable: Kisetsu o Dakishimete",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40034",
+      "title": "Yarudora Portable: Sampaguita",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40042",
+      "title": "Karakuri",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40053",
+      "title": "Kuru Kuru Chameleon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40089",
+      "title": "Tiandi Zhi Men",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40090",
+      "title": "Saru! Get You! P!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40097",
+      "title": "Bubble Bobble: Magical Tower Daisakusen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40113",
+      "title": "Ridge Racers 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40114",
+      "title": "F1 06 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40134",
+      "title": "Saru! Get You! Piposaru Racer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40146",
+      "title": "Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40154",
+      "title": "Zhuo Hou La: Hou Zi Ai Zuo Zhan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40158",
+      "title": "Mawaskes: Based on Carton-kun",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40160",
+      "title": "Simple 2500 Series Portable!! Vol. 2: The Tennis",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40161",
+      "title": "Wild Arms: Crossfire",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40162",
+      "title": "Dragoneer's Aria: Ryu ga Nemuru Made",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40166",
+      "title": "Namco Museum",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40176",
+      "title": "Chronicle of Dungeon Maker",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40207",
+      "title": "Irregular Hunter X",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40208",
+      "title": "Rockman Rockman",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40231",
+      "title": "Kenka Banchou 3: Zenkoku Seiha",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40254",
+      "title": "Utawarerumono Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40256",
+      "title": "Dragonball: Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40259",
+      "title": "Yuusha 30",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40261",
+      "title": "PixelJunk Monsters UMD Limited Edition",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40269",
+      "title": "Shin Seiki Evangelion: Battle Orchestra Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40277",
+      "title": "Samurai Dou 2 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40278",
+      "title": "Minna no Sukkiri",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40290",
+      "title": "Everybody's Stress Buster",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40300",
+      "title": "Kenka Banchou 4: Ichinen Sensou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCAS40329",
+      "title": "Dissidia 012: Duodecim Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCED00308",
+      "title": "Lemmings / Go! Sudoku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCED00316",
+      "title": "Greatest Hits Vol. 1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCED00350",
+      "title": "World Tour Soccer 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCED00499",
+      "title": "Retail Sampler No. 3 for PSP",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCED00686",
+      "title": "Retail Sampler No. 4",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCED01018",
+      "title": "Firmware 3.73",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00010",
+      "title": "Ape Academy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00012",
+      "title": "Everybody's Golf",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00178",
+      "title": "Key of Heaven",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00206",
+      "title": "World Tour Soccer 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00218",
+      "title": "Game Sharing Server Disc",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00238",
+      "title": "Formula One 06",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00240",
+      "title": "Passport to... London",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00241",
+      "title": "Passport to... Paris",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00242",
+      "title": "Passport to... Barcelona",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00244",
+      "title": "Passport to... Prague",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00246",
+      "title": "Passport to... Rome",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00767",
+      "title": "Everybody's Golf 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00853",
+      "title": "Go!Explore",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00881",
+      "title": "Go!Explore",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00882",
+      "title": "Go!Explore",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00883",
+      "title": "Go!Explore",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00884",
+      "title": "Go!Explore",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00885",
+      "title": "Go!Explore",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES00886",
+      "title": "Go!Explore",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01134",
+      "title": "PlayChapas Football Edition",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01197",
+      "title": "Buzz! Le Plus Malin des Français",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01198",
+      "title": "Buzz! Il Quizzone Nazionale",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01199",
+      "title": "Buzz! Deutschlands Superquiz",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01200",
+      "title": "Buzz! ¿Qué Sabes de tu País?",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01202",
+      "title": "Buzz! Brain of Oz ~ Buzz! Brain of New Zealand",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01203",
+      "title": "Buzz! Danske Genier ~ Buzz! Norgesmester",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01204",
+      "title": "Buzz! Svenska Genier ~ Buzz! Suomen Neropatti",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01205",
+      "title": "Buzz! De Strafste van België",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01206",
+      "title": "Buzz! Polskie Łamigłówki ~ Buzz! Mozak Hrvatske",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01207",
+      "title": "Buzz! Quem é o Génio Português? ~ Buzz! Sokrovishha nacii",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01208",
+      "title": "Buzz! Brain of Switzerland",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01209",
+      "title": "Buzz! Das große Länderquiz",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01217",
+      "title": "Buzz! De Slimste van Nederland",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01292",
+      "title": "Buzz! Concurso Universal",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01420",
+      "title": "Everybody's Tennis",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01459",
+      "title": "Jungle Party",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01534",
+      "title": "Disney/Pixar Cars 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01563",
+      "title": "Geronimo Stilton: Return to the Kingdom of Fantasy: The Videogame",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCES01564",
+      "title": "Disney Phineas and Ferb: Across the 2nd Dimension",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCET00247",
+      "title": "Key of Heaven",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCET00359",
+      "title": "Formula One 06",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCET00460",
+      "title": "Passport to... Rome",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCET01058",
+      "title": "Page Zero",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJB98001",
+      "title": "Demo Disc for PSP Vol. 1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJB98002",
+      "title": "Demo Disc for PSP Vol. 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJB98012",
+      "title": "Chotto Shot Edit",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJB98301",
+      "title": "Sampler Disc for PSP Vol. 1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJB98302",
+      "title": "Demo Disc for PSP Vol. 1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJB98303",
+      "title": "Demo Disc for PSP Vol. 1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJB98304",
+      "title": "Demo Disc for PSP Vol. 1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJB98306",
+      "title": "Demo Disc for PSP Vol. 1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJM95401",
+      "title": "Minna no Golf Portable: Coca-Cola Special Edition",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJM95402",
+      "title": "Tenchi no Mon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJP00003",
+      "title": "Saru! Get You! P!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJP00018",
+      "title": "PlayStation Spot",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJP00060",
+      "title": "PSP Camera 01",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJP00067",
+      "title": "PSP Camera 03",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJP00103",
+      "title": "Ratchet & Clank 5: Gekitotsu! Dodeka Ginga no MiriMiri Gundan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJP00138",
+      "title": "Navi-Chu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJP00139",
+      "title": "Mugen Kairou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJP00154",
+      "title": "Clank & Ratchet: Maru Hi Mission * Ignition!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJP00174",
+      "title": "Resistance: Houfuku no Toki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10001",
+      "title": "Minna no Golf Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10002",
+      "title": "Doko Demo Issho",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10003",
+      "title": "Piposaru Academia: Dossari! Saruge Daizenshuu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10004",
+      "title": "Saru! Get You! P!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10005",
+      "title": "PoPoLoCrois Monogatari: Pietro Ouji no Bouken",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10010",
+      "title": "Tenchi no Mon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10013",
+      "title": "Yarudora Portable: Kisetsu o Dakishimete",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10015",
+      "title": "Yarudora Portable: Yukiwari no Hana",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10019",
+      "title": "Formula 1: F1 05 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10020",
+      "title": "Piposaru Academia 2: Aiai Saruge Janken Battle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10021",
+      "title": "Blade Dancer: Sennen no Yakusoku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10022",
+      "title": "Beit Hell 2000",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10030",
+      "title": "Bomberman: Bakufuu Sentai Bombermen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10033",
+      "title": "TalkMan Euro! TalkMan Europa Gengo-ban",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10034",
+      "title": "TalkMan Euro! TalkMan Europa Gengo-ban",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10036",
+      "title": "Kazuo",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10044",
+      "title": "Blood+: Final Piece: Saigo no Kakera",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10051",
+      "title": "TalkMan-shiki Shabelingual Eikaiwa",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10052",
+      "title": "Ratchet & Clank 5: Gekitotsu! Dodeka Ginga no MiriMiri Gundan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10053",
+      "title": "TalkMan-shiki Shabelingual Eikaiwa for Kids!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10054",
+      "title": "TalkMan-shiki Shabelingual Eikaiwa for Kids!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10056",
+      "title": "Minna no Golf-jou Vol. 1 (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10060",
+      "title": "Saru! Get You! SaruSaru Daisakusen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10064",
+      "title": "Minna no Golf-jou Vol. 2 (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10065",
+      "title": "Minna no Golf-jou Vol. 2 (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10067",
+      "title": "Minna no Golf-jou Vol. 3 (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10068",
+      "title": "Minna no Golf-jou Vol. 3 (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10075",
+      "title": "Minna no Golf Portable 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10076",
+      "title": "Yuusha no Kuse ni Namaiki da.",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10081",
+      "title": "Mugen Kairou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10084",
+      "title": "Clank & Ratchet: Maruhi Mission Ignition!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10086",
+      "title": "Yuusha no Kuse ni Namaiki da or2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10088",
+      "title": "Enkaku Sousa: Shinjitsu e no 23-nichi-kan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10089",
+      "title": "Patapon 2: Don-Chaka",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10091",
+      "title": "Saru! Get You! Piposaru Senki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10095",
+      "title": "Boku no Natsuyasumi 4: Setouchi Shounen Tanteidan: Boku to Himitsu no Chizu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10096",
+      "title": "Jigen Kairou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10101",
+      "title": "Minna no Tennis Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10102",
+      "title": "SOCOM: U.S. Navy SEALs Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10107",
+      "title": "LittleBigPlanet Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10109",
+      "title": "Yuusha no Kuse ni Namaikida :3D",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10111",
+      "title": "Boku no Natsuyasumi Portable 2: Nazo Nazo Shimai to Chinbotsusen no Himitsu!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10114",
+      "title": "God of War: Koutan no Kokuin",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10115",
+      "title": "Shirokishi Monogatari Episode Portable: Dogma Wars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10116",
+      "title": "Ore no Shikabane o Koete Yuke",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS10117",
+      "title": "Ore no Shikabane o Koete Yuke",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18001",
+      "title": "Minna no Golf Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18002",
+      "title": "Doko Demo Issho",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18006",
+      "title": "Saru! Get You! P!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18009",
+      "title": "Piposaru Academia 2: Aiai Saruge Janken Battle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18013",
+      "title": "Boku no Natsuyasumi Portable: Mushi Mushi Hakase to Teppen-yama no Himitsu!!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18016",
+      "title": "Saru! Get You! Piposaru Racer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18020",
+      "title": "TalkMan Euro! TalkMan Europa Gengo-ban",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18028",
+      "title": "Mugen Kairou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18029",
+      "title": "Saru! Get You! SaruSaru Daisakusen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18031",
+      "title": "Minna no Golf Portable 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18036",
+      "title": "Patapon 2: Don-Chaka",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18037",
+      "title": "Yuusha no Kuse ni Namaiki da or2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18049",
+      "title": "Minna no Tennis Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS18053",
+      "title": "Patapon 2: Don-Chaka",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJS90007",
+      "title": "PlayStation Spot Sen'you UMD Version 2.00",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90007",
+      "title": "PlayStation Spot Sen'you UMD Version 2.00",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90015",
+      "title": "PlayStation Spot Sen'you UMD Vol. 1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90017",
+      "title": "PlayStation Spot Sen'you UMD Vol. 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90018",
+      "title": "PlayStation Spot Sen'you UMD Vol. 3",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90020",
+      "title": "PlayStation Spot Sen'you UMD Vol. 4",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90021",
+      "title": "PlayStation Spot Sen'you UMD Vol. 5",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90023",
+      "title": "PlayStation Spot Sen'you UMD Vol. 6",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90024",
+      "title": "PlayStation Spot Sen'you UMD Vol. 7",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90025",
+      "title": "PSP System Software Update Disc Ver. 3.11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90027",
+      "title": "System Software Update Ver. 3.73",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90028",
+      "title": "Patapon 2: Don-Chaka",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90029",
+      "title": "Saru! Get You! P!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCJX90030",
+      "title": "The Eye of Judgment: Shintaku no Wizard",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKM84001",
+      "title": "Network Utility Disc Ver. 1.00",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKM84003",
+      "title": "Personal Utility Disc Ver. 1.0",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45003",
+      "title": "Piposaru Academia: Sagomungchi Neungryeokpyeongga Wanjeonjeongbog",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45004",
+      "title": "Everybody's Golf",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45005",
+      "title": "Namco Museum",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45006",
+      "title": "Vulcanus: Seek & Destroy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45007",
+      "title": "Hg Hydrium",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45009",
+      "title": "Piposarugetchu P",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45010",
+      "title": "MLB",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45011",
+      "title": "Tenchi no Mon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45016",
+      "title": "Chase Cop: Pursuit Force",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45032",
+      "title": "Ridge Racers 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45044",
+      "title": "Talkman Yeongeohoehwa Sudajaeng English",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45045",
+      "title": "Monster Hunter Portable 2nd",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45049",
+      "title": "Everybody's Golf",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45056",
+      "title": "Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45058",
+      "title": "Final Fantasy Tactics: Shishi Sensou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45065",
+      "title": "R-Type Tactics",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45071",
+      "title": "Coded Soul: Gyeseungdoeneun Idea",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45074",
+      "title": "Minna no Golf Portable 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45079",
+      "title": "Makai Senki Disgaea Portable: Tsuushin Taisen Hajimemashita.",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45082",
+      "title": "Echochrome: Muhan Hoerang",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45092",
+      "title": "Ikuze! Gen-san: Yuuyake Daiku Monogatari",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45104",
+      "title": "Prinny: Ore ga Shujinkou de Iinsuka?",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45135",
+      "title": "Patapon 2: Don-Chaka",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45140",
+      "title": "P3P: Yeosin Jeonsaeng: Persona 3 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45145",
+      "title": "Everybody's Stress Buster",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45149",
+      "title": "Zettai Hero Kaizou Keikaku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45157",
+      "title": "Disgaea Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45166",
+      "title": "Dissidia 012: Duodecim Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCKS45175",
+      "title": "P3P: Yeosin Jeonsaeng: Persona 3 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCUS94340",
+      "title": "Everybody's Golf 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCUS94341",
+      "title": "Hilton Garden Inn: Ultimate Team Play",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCUS98605",
+      "title": "MLB",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCUS98642",
+      "title": "PSP System Kiosk Disc #1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCUS98664",
+      "title": "PSP System Kiosk Disc #3: Yellow",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCUS98665",
+      "title": "PSP System Kiosk Disc #4",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCUS98705",
+      "title": "God of War: Chains of Olympus: Special Edition: Battle of Attica",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCUS98713",
+      "title": "God of War: Chains of Olympus: Battle of Attica",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UCUS98766",
+      "title": "Disney/Pixar Cars 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UGPP00501",
+      "title": "Hakuouki: Yuugiroku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42008",
+      "title": "Shin Sangoku Musou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42014",
+      "title": "Sanguozhi V",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42018",
+      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42035",
+      "title": "Metal Gear Ac!d²",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42036",
+      "title": "Irregular Hunter X",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42038",
+      "title": "Power Smash: New Generation",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42050",
+      "title": "Rockman Rockman",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42088",
+      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42098",
+      "title": "Puyo Puyo! Puyopuyo 15th Anniversary",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42100",
+      "title": "Kidou Senshi Gundam Seed: Rengou vs. Z.A.F.T. Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42141",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42149",
+      "title": "Monster Hunter Portable 2nd G",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42164",
+      "title": "Musou Orochi: Maou Sairin Enhanced Version",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42207",
+      "title": "Kidou Senshi Gundam: Gundam vs. Gundam Next Plus",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42214",
+      "title": "Tekken 6",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "1247",
+        "195868"
+      ]
+    },
+    {
+      "serial": "ULAS42219",
+      "title": "Geki Sengoku Musou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42239",
+      "title": "Naruto Shippuuden: Kizuna Drive",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42256",
+      "title": "World Soccer Winning Eleven 2011",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42285",
+      "title": "MonHun Nikki: Poka Poka Ailu Mura G",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42289",
+      "title": "World Soccer Winning Eleven 2012",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42293",
+      "title": "Evangelion Shin Gekijou-ban: 3nd Impact",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULAS42297",
+      "title": "Naruto Shippuuden: Narutimate Impact",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00008",
+      "title": "Metal Gear Ac!d",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00021",
+      "title": "World Snooker Challenge 2005",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00041",
+      "title": "DTM Race Driver 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00042",
+      "title": "V8 Supercars Australia 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00043",
+      "title": "Lumines: Puzzle Fusion",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00143",
+      "title": "Koloomn",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00160",
+      "title": "Pro Evolution Soccer 5",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00161",
+      "title": "FIFA 06",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00162",
+      "title": "FIFA 06",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00163",
+      "title": "FIFA 06",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00164",
+      "title": "FIFA 06",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00165",
+      "title": "FIFA 06",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00191",
+      "title": "X-Men Legends II: El Ascenso de Apocalipsis",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00199",
+      "title": "Le Seigneur des Anneaux: Tactics",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00200",
+      "title": "Der Herr der Ringe: Taktiken",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00201",
+      "title": "Il Signore degli Anelli: Tactics",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00202",
+      "title": "El Señor de los Anillos: Tácticas",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00212",
+      "title": "Gottlieb Pinball Classics",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00213",
+      "title": "Gottlieb Pinball Classics",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00214",
+      "title": "Harry Potter et la Coupe de Feu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00229",
+      "title": "Stealth + WipEout Pure",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00230",
+      "title": "Stealth + WipEout Pure",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00231",
+      "title": "Furtif + WipEout Pure",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00232",
+      "title": "Stealth + WipEout Pure",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00233",
+      "title": "Bust-A-Move Ghost",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00267",
+      "title": "Ys: The Ark of Napishtim",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00280",
+      "title": "Nickelodeon SpongeBob SquarePants: The Yellow Avenger",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00283",
+      "title": "Lara Croft Tomb Raider: Legend",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00284",
+      "title": "Metal Gear Ac!d²",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00288",
+      "title": "007: From Russia with Love",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00290",
+      "title": "007: From Russia with Love",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00319",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00320",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00321",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00322",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00323",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00324",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00325",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00326",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00327",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00328",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00329",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00331",
+      "title": "L'Entraîneur 2006: Championship Manager",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00332",
+      "title": "Scudetto 2006: Championship Manager",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00340",
+      "title": "FIFA World Cup Germany 2006",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00341",
+      "title": "FIFA World Cup Germany 2006",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00342",
+      "title": "FIFA Fussball-Weltmeisterschaft Deutschland 2006",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00343",
+      "title": "Mondiali FIFA 2006",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00344",
+      "title": "FIFA World Cup Germany 2006",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00369",
+      "title": "Kameleon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00387",
+      "title": "Sudoku Coach",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00389",
+      "title": "Professor Sudoku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00393",
+      "title": "X-treme Party",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00394",
+      "title": "The Godfather",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00397",
+      "title": "Le Parrain",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00398",
+      "title": "Der Pate",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00399",
+      "title": "Il Padrino",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00400",
+      "title": "El Padrino",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00412",
+      "title": "Myst",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "236",
+        "340011"
+      ]
+    },
+    {
+      "serial": "ULES00440",
+      "title": "FIFA 07",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00441",
+      "title": "FIFA 07",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00442",
+      "title": "FIFA 07",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00443",
+      "title": "FIFA 07",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00444",
+      "title": "FIFA 07",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00457",
+      "title": "NASCAR",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00459",
+      "title": "FIFA 07",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00475",
+      "title": "E'ragon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00476",
+      "title": "Pro Evolution Soccer 6",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00510",
+      "title": "L'Arnaqueur",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00527",
+      "title": "Astérix & Obélix XXL 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00541",
+      "title": "Blade Dancer: Lineage of Light",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "23115",
+        "269079"
+      ]
+    },
+    {
+      "serial": "ULES00555",
+      "title": "Mind Quiz: Exercise Your Brain",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00556",
+      "title": "Sega Mega Drive Collection",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00564",
+      "title": "Ford Street Racing: L.A. Duel",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00565",
+      "title": "M.A.C.H.: Modified Air Combat Heroes",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00566",
+      "title": "M.A.C.H.: Modified Air Combat Heroes",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00572",
+      "title": "Scooby-Doo! Qui Regarde Qui?",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00579",
+      "title": "Prince of Persia: Rival Swords",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "243129",
+        "243130"
+      ]
+    },
+    {
+      "serial": "ULES00584",
+      "title": "Tom Clancy's Rainbow Six: Vegas",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "196507",
+        "909"
+      ]
+    },
+    {
+      "serial": "ULES00591",
+      "title": "World Series of Poker: Tournament of Champions: 2007 Edition",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00614",
+      "title": "V8 Supercars Australia 3: Shootout",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00615",
+      "title": "DTM Race Driver 3: Challenge",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00618",
+      "title": "DreamWorks Shrek: Smash n' Crash Racing",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00628",
+      "title": "Gurumin: Une Aventure Monstrueuse",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00633",
+      "title": "Nickelodeon Avatar: The Legend of Aang",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00635",
+      "title": "World Championship Poker 2 featuring Howard Lederer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00659",
+      "title": "Myst",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "236",
+        "340011"
+      ]
+    },
+    {
+      "serial": "ULES00663",
+      "title": "DreamWorks Over the Hedge: Hammy Goes Nuts!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00664",
+      "title": "DreamWorks Vecinos Invasores: Hammy Enloquece",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00665",
+      "title": "DreamWorks Over the Hedge: Hammy Goes Nuts!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00668",
+      "title": "Arthur and the Minimoys",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00669",
+      "title": "Arthur and the Minimoys",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00693",
+      "title": "Spinout",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00701",
+      "title": "Mind Quiz: Exercise Your Brain",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00705",
+      "title": "Pac-Man Rally",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00712",
+      "title": "Chi Vuol Essere Milionario? Party Edition",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00727",
+      "title": "Disney Pirates of the Caribbean: At World's End",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00728",
+      "title": "Disney Pirates of the Caribbean: At World's End",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00734",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00735",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00736",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00737",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00738",
+      "title": "Disney/Pixar Ratatui",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00741",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00742",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00743",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00744",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00745",
+      "title": "Disney · Pixar Rottatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00746",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00748",
+      "title": "Disney · Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00754",
+      "title": "Full Auto 2: Battlelines",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "197931",
+        "7309"
+      ]
+    },
+    {
+      "serial": "ULES00764",
+      "title": "Impossible Mission",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "148731",
+        "4929"
+      ]
+    },
+    {
+      "serial": "ULES00783",
+      "title": "Freak Out: Extreme Freeride",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00789",
+      "title": "Dragon Ball Z: Shin Budokai 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00806",
+      "title": "Practical IQ: Test Your Intelligence",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00812",
+      "title": "DreamWorks Shrek the Third",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00813",
+      "title": "DreamWorks Shrek the Third",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00815",
+      "title": "Ricky Ponting 2007: Pressure Play",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00826",
+      "title": "Lara Croft Tomb Raider: Anniversary",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00849",
+      "title": "Pro Cycling Season 2007: Le Tour de France",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00880",
+      "title": "PES 2008: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00891",
+      "title": "FIFA 08",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00892",
+      "title": "FIFA 08",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00893",
+      "title": "FIFA 08",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00894",
+      "title": "FIFA 08",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00895",
+      "title": "FIFA 08",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00896",
+      "title": "FIFA 08",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00901",
+      "title": "Spider-Man: Freund oder Feind",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00910",
+      "title": "Sega Rally",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00911",
+      "title": "Sega Rally",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00951",
+      "title": "À la croisée des mondes: La Boussole d'or",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00952",
+      "title": "Der Goldene Kompass",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00953",
+      "title": "La Bussola d'Oro",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00954",
+      "title": "La Brújula Dorada",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00959",
+      "title": "Bomberman Land",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "197973",
+        "77674"
+      ]
+    },
+    {
+      "serial": "ULES00960",
+      "title": "MTV Pimp My Ride",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00963",
+      "title": "Off Road",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00976",
+      "title": "Les Simpson: Le Jeu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00977",
+      "title": "I Simpson: Il Videogioco",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00978",
+      "title": "Die Simpsons: Das Spiel",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00979",
+      "title": "Los Simpson: El Videojuego",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES00994",
+      "title": "MX vs. ATV Extrême Limite",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01014",
+      "title": "Williams Pinball Classics",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01022",
+      "title": "Lanfeust of Troy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01025",
+      "title": "UEFA Euro 2008: Austria-Switzerland",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01026",
+      "title": "N Plus",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01038",
+      "title": "UEFA Euro 2008: Austria-Switzerland",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01057",
+      "title": "FIFA 08",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01072",
+      "title": "Disney/Pixar WALL-E",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01073",
+      "title": "Disney/Pixar WALL-E",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01074",
+      "title": "Disney/Pixar WALL-E",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01075",
+      "title": "Disney/Pixar WALL-E",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01076",
+      "title": "Disney/Pixar WALL-E",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01079",
+      "title": "Disney-Pixar WALL-E",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01080",
+      "title": "Disney/Pixar WALL-E",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01081",
+      "title": "Disney/Pixar WALL-E",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01082",
+      "title": "Disney/Pixar WALL-E: Der Letzte räumt die Erde auf",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01096",
+      "title": "PDC World Championship Darts",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01100",
+      "title": "Pro Cycling Season 2008: Le Tour de France",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01103",
+      "title": "Warning: Code de la Route",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01104",
+      "title": "Mawaskes Puzzle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01121",
+      "title": "R-Type Tactics",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01131",
+      "title": "Tube Mania",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01135",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01136",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01137",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01138",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01139",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01140",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01141",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01142",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01143",
+      "title": "FIFA 09",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01151",
+      "title": "LEGO Batman: The Videogame",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "259254",
+        "2738"
+      ]
+    },
+    {
+      "serial": "ULES01168",
+      "title": "Tube Mania",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01173",
+      "title": "Crash: Génération Mutant",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01176",
+      "title": "PES 2009: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01227",
+      "title": "Dragonball: Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01238",
+      "title": "Disney G-Force",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01239",
+      "title": "Disney G-Force",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01240",
+      "title": "Disney G-Force",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01253",
+      "title": "Disney/Pixar Up",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01254",
+      "title": "Disney/Pixar Oben",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01255",
+      "title": "Disney•Pixar Up",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01256",
+      "title": "Disney/Pixar Up",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01257",
+      "title": "Disney/Pixar Up",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01258",
+      "title": "Disney/Pixar Up: Altamente!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01259",
+      "title": "Disney/Pixar Up",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01263",
+      "title": "Disney/Pixar Up",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01266",
+      "title": "Petz: My Baby Hamster",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01274",
+      "title": "Pro Cycling Season 2009: Le Tour de France",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01288",
+      "title": "Transformers: Die Rache",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01317",
+      "title": "Il-2 Shturmovik: Krylatye xishhniki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01322",
+      "title": "FIFA 10",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01323",
+      "title": "FIFA 10",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01324",
+      "title": "FIFA 10",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01325",
+      "title": "FIFA 10",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01326",
+      "title": "FIFA 10",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01328",
+      "title": "FIFA 10",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01329",
+      "title": "FIFA 10",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01330",
+      "title": "FIFA 10",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01331",
+      "title": "FIFA 10",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01332",
+      "title": "Holy Invasion of Privacy, Badman! What Did I Do to Deserve This?",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01333",
+      "title": "Disney/Pixar Cars: Race-O-Rama",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01353",
+      "title": "PES 2010: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01354",
+      "title": "PES 2010: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01360",
+      "title": "Gensan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01361",
+      "title": "Oblachno, vozmozhny osadki v vide frikadelek",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01365",
+      "title": "Nickelodeon SpongeBob SquarePants: SpongeBob's Truth or Square",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01370",
+      "title": "LEGO Indiana Jones 2: The Adventure Continues",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "138",
+        "194933"
+      ]
+    },
+    {
+      "serial": "ULES01376",
+      "title": "Tekken 6",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "1247",
+        "195868"
+      ]
+    },
+    {
+      "serial": "ULES01402",
+      "title": "Split/Second: Velocity",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01404",
+      "title": "Disney/Pixar Istoriya igrushek: Bol'shoj pobeg",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01415",
+      "title": "DreamWorks Megamind: The Blue Defender",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01417",
+      "title": "Valkyria Chronicles II",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01422",
+      "title": "Iron Man 2: The Video Game",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01438",
+      "title": "Prince of Persia: Zabytye peski",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01447",
+      "title": "Despicable Me",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01448",
+      "title": "Pro Cycling Season 2010: Le Tour de France",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01465",
+      "title": "DreamWorks Megamind: The Blue Defender",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01467",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01468",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01469",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01470",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01475",
+      "title": "FIFA 11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01476",
+      "title": "FIFA 11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01477",
+      "title": "FIFA 11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01478",
+      "title": "FIFA 11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01479",
+      "title": "FIFA 11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01480",
+      "title": "FIFA 11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01481",
+      "title": "FIFA 11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01482",
+      "title": "FIFA 11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01483",
+      "title": "FIFA 11",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01486",
+      "title": "Nickelodeon Bob Esponja: Atrapados en el Congelador",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01494",
+      "title": "Disney TRON: Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01495",
+      "title": "Disney TRON: Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01497",
+      "title": "BlazBlue: Calamity Trigger",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01505",
+      "title": "Dissidia 012: Duodecim Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01517",
+      "title": "Battle vs. Chess",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01523",
+      "title": "Shin Megami Tensei: Persona 3 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01529",
+      "title": "LEGO Piraty Karibskogo morya: Videoigra",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01540",
+      "title": "PES 2012: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01541",
+      "title": "PES 2012: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01542",
+      "title": "PES 2012: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01565",
+      "title": "FIFA 13",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01567",
+      "title": "FIFA 13",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01568",
+      "title": "FIFA 13",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01569",
+      "title": "FIFA 13",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01570",
+      "title": "FIFA 13",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01571",
+      "title": "FIFA 13",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01572",
+      "title": "FIFA 13",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01573",
+      "title": "FIFA 13",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01574",
+      "title": "FIFA 13",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01575",
+      "title": "PES 2013: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01577",
+      "title": "PES 2013: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULES01580",
+      "title": "PES 2013: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULET00435",
+      "title": "Arthur and the Minimoys",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULET00749",
+      "title": "Impossible Mission",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "148731",
+        "4929"
+      ]
+    },
+    {
+      "serial": "ULJM05001",
+      "title": "Metal Gear Ac!d",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05003",
+      "title": "Shin Sangoku Musou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05005",
+      "title": "Vampire Chronicle: The Chaos Tower",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05007",
+      "title": "Puyo Puyo Fever",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05009",
+      "title": "Ys VI: Napishtim no Hako",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05012",
+      "title": "Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou-hen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05013",
+      "title": "Shinten Makai: GOC IV Another Side",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05014",
+      "title": "Dora-Slot: Shuyaku wa Zenigata",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05017",
+      "title": "Shutokou Battle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05027",
+      "title": "Dora-Slot: Kyojin no Hoshi II",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05031",
+      "title": "Twelve: Sengoku Fuushinden",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05033",
+      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05034",
+      "title": "Bomberman Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05037",
+      "title": "Rockman Dash 2: Episode 2: Ooinaru Isan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05038",
+      "title": "Sangokushi VI",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05042",
+      "title": "Guilty Gear XX #Reload: The Midnight Carnival",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05043",
+      "title": "Irregular Hunter X",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05045",
+      "title": "Space Invaders: Galaxy Beat",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05047",
+      "title": "Metal Gear Ac!d²",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05061",
+      "title": "FIFA 06",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05066",
+      "title": "Monster Hunter Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05067",
+      "title": "Kuru Kuru Chameleon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05069",
+      "title": "Dora-Slot: Oki Slot Ou! Pioneer 12",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05071",
+      "title": "Geki Sengoku Musou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05072",
+      "title": "Nobunaga no Yabou: Shouseiroku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05077",
+      "title": "Jikkyou Powerful Pro Yakyuu Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05079",
+      "title": "Power Smash: New Generation",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05080",
+      "title": "Viewtiful Joe: Battle Carnival",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05083",
+      "title": "Sangokushi VII",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05085",
+      "title": "Mobile Train Simulator: Keisei Toei Asakusa Keikyuusen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05086",
+      "title": "Gensou Suikoden I & II",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05091",
+      "title": "Gradius Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05095",
+      "title": "Winning Post 6 2006",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05098",
+      "title": "Jui: Dr. Touma Jotarou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05100",
+      "title": "Jitsuroku Oniyome Nikki: Shiuchi ni Taeru Otto no Rifujin Taiken Adventure",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05104",
+      "title": "Capcom Classics Collection",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05105",
+      "title": "Stealth feat. WipEout Pure Stealth Edition",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05110",
+      "title": "Kamaitachi no Yoru 2 Tokubetsu-hen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05122",
+      "title": "Artlist Collection: The Dog Happy Life: Shiawase Wanko Seikatsu Dai-1-dan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05123",
+      "title": "Gurumin",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05128",
+      "title": "Boku wa Koukuu Kanseikan: Airport Hero Narita",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05129",
+      "title": "007: Russia yori Ai o Komete",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05132",
+      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05133",
+      "title": "FIFA World Cup Deutsch Taikai 2006",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05135",
+      "title": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakushi Kanshuu: Nou ni Kaikan Aha Taiken",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05140",
+      "title": "Numpla & Oekaki Puzzle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05147",
+      "title": "Goku Makaimura",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05151",
+      "title": "Yu-Gi-Oh! Duel Monsters GX Tag Force",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05152",
+      "title": "Densha de Go! Pocket: Tokaidosen-hen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05156",
+      "title": "Monster Hunter Portable 2nd",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05164",
+      "title": "Dungeon Explorer: Meiyaku no Tobira",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05170",
+      "title": "Eiyuu Densetsu: Sora no Kiseki FC",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05171",
+      "title": "Boku wa Koukuu Kanseikan: Airport Hero Naha",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05177",
+      "title": "Puyo Puyo! Puyopuyo 15th Anniversary",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05180",
+      "title": "Lara Croft Tomb Raider: Legend",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05181",
+      "title": "Bomberman Land Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05184",
+      "title": "Planetarium Creator Oohira Takayuki Kanshuu: Homestar Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05185",
+      "title": "Aku Daikan Manyuki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05188",
+      "title": "Riviera: Yakusoku no Chi",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05189",
+      "title": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakushi Kanshuu: Nou ni Kaikan Minna de Aha Taiken",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05194",
+      "title": "Final Fantasy Tactics: Shishi Sensou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05195",
+      "title": "Jikkyou Powerful Pro Yakyuu Portable 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05211",
+      "title": "Densha de Go! Pocket: Osaka Kanjousen-hen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05216",
+      "title": "Rockman Dash 2: Episode 2: Ooinaru Isan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05222",
+      "title": "Gradius Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05225",
+      "title": "Street Fighter Zero 3 Double Upper",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05226",
+      "title": "Irregular Hunter X",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05238",
+      "title": "Kidou Senshi Gundam Seed: Rengou vs. Z.A.F.T. Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05241",
+      "title": "Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05260",
+      "title": "Yu-Gi-Oh! Duel Monsters GX: Tag Force 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05268",
+      "title": "Kamaitachi no Yoru 2 Tokubetsu-hen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05270",
+      "title": "World Soccer Winning Eleven: Ubiquitous Evolution 2008",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05277",
+      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05278",
+      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05280",
+      "title": "Capcom Classics Collection",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05281",
+      "title": "Silent Hill Zero",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05287",
+      "title": "Akumajou Dracula X: Chronicle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05294",
+      "title": "Chronicle of Dungeon Maker II",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05299",
+      "title": "Yggdra Union",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05300",
+      "title": "Jikkyou Powerful Pro Yakyuu Portable 3",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05312",
+      "title": "Winning Post 6 2006",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05314",
+      "title": "Musou Orochi",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05319",
+      "title": "Bomberman Land Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05328",
+      "title": "Mystereet Portable: Yasogami Kaoru no Chousen!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05329",
+      "title": "Nobunaga no Yabou: Shouseiroku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05342",
+      "title": "Puyo Puyo! Puyopuyo 15th Anniversary",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05343",
+      "title": "Ken to Mahou to Gakuen Mono.",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05345",
+      "title": "Mana-Khemia: Gakuen no Renkinjutsushi-tachi Portable +",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05358",
+      "title": "PC Engine Best Collection: Ginga Ojousama Densetsu Collection",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05373",
+      "title": "Yu-Gi-Oh! Duel Monsters GX: Tag Force 3",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05381",
+      "title": "Chuumon Shiyouze! Oretachi no Sekai",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05383",
+      "title": "Planetarian: Chiisa na Hoshi no Yume",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05390",
+      "title": "Rei Chou Aniki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05391",
+      "title": "Rockman Rockman",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05398",
+      "title": "Sangokushi VIII",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05402",
+      "title": "Musou Orochi: Maou Sairin",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05414",
+      "title": "World Soccer Winning Eleven 2009",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05421",
+      "title": "Jikkyou Powerful Pro Yakyuu Portable 4",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05422",
+      "title": "Persona",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05425",
+      "title": "Tenchu 4",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05427",
+      "title": "Shin Sangoku Musou: Multi Raid",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05438",
+      "title": "God of War: Rakujitsu no Hisoukyoku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05440",
+      "title": "Fantasy Golf Pangya Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05441",
+      "title": "Harukanaru Toki no Naka de 3 with Izayoiki Aizouban",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05453",
+      "title": "Boku wa Koukuu Kanseikan: Airport Hero Shinchitose",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05457",
+      "title": "Utawarerumono Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05458",
+      "title": "Utawarerumono Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05464",
+      "title": "Pia Carrot e Youkoso!! G.P. Gakuen Princess Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05465",
+      "title": "Onore no Shinzuru Michi o Yuke",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05476",
+      "title": "Ken to Mahou to Gakuen Mono. 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05477",
+      "title": "Shin Seiki Evangelion: Koutetsu no Girlfriend 2nd Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05485",
+      "title": "ToHeart 2 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05497",
+      "title": "Heart no Kuni no Alice: Wonderful Wonder World (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05498",
+      "title": "Heart no Kuni no Alice: Wonderful Wonder World (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05500",
+      "title": "Monster Hunter Portable 2nd G",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05509",
+      "title": "Hakuouki Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05512",
+      "title": "Shadow of Memories",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05513",
+      "title": "World Soccer Winning Eleven 2010",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05514",
+      "title": "Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05516",
+      "title": "Final Fantasy Tactics: Shishi Sensou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05518",
+      "title": "J.League Pro Soccer Club o Tsukurou! 6: Pride of J",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05524",
+      "title": "Shin Sangoku Musou 5 Special",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05528",
+      "title": "Taishou Yakyuu Musume.: Otome-tachi no Seishun Nikki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05529",
+      "title": "Tantei Jinguuji Saburou: Hai to Diamond",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05537",
+      "title": "Power Pro Success Legends",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05540",
+      "title": "Sengoku-hime: Senran ni Mau Otome-tachi",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05548",
+      "title": "Akumajou Dracula X: Chronicle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05550",
+      "title": "Dissidia Final Fantasy: Universal Tuning",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05553",
+      "title": "Warship Gunner 2 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05560",
+      "title": "Senjou no Valkyria 2: Gallia Ouritsu Shikan Gakkou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05561",
+      "title": "Fuuun Shinsengumi Bakumatsuden Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05569",
+      "title": "Kin'iro no Corda",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05577",
+      "title": "MagusTale Eternity: Sekaiju to Koi suru Mahoutsukai",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05579",
+      "title": "Gurumin",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05584",
+      "title": "Shin Sangoku Musou 5 Empires",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05587",
+      "title": "Tegami Bachi: Kokoro Tsumugu Mono e",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05607",
+      "title": "Judie no Atelier: Gramnad no Renkinjutsushi: Toraware no Moribito",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05614",
+      "title": "Himawari: Pebble in the Sky Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05625",
+      "title": "Yoake Mae Yori Ruriiro na Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05638",
+      "title": "Tokyo Mono Harashi: Karasu no Mori Gakuen Kitan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05646",
+      "title": "2010 FIFA World Cup: Minami Africa Taikai",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05647",
+      "title": "Otome wa Oanesama Boku ni Koi Shiteru Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05649",
+      "title": "Zero Pilot: Daisanji Sekai Taisen 1946",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05663",
+      "title": "Hakuouki: Yuugiroku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05678",
+      "title": "Jikkyou Powerful Pro Yakyuu 2010",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05681",
+      "title": "Hatsune Miku: Project Diva 2nd",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "11755",
+        "320649"
+      ]
+    },
+    {
+      "serial": "ULJM05686",
+      "title": "Persona",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05688",
+      "title": "Prince of Persia: Boukyaku no Suna",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05691",
+      "title": "Hanayaka Nari, Wa ga Ichizoku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05703",
+      "title": "Nise no Chigiri",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05704",
+      "title": "Corpse Party: Blood Covered: Repeated Fear",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05710",
+      "title": "MonHun Nikki: Poka Poka Airuu Mura",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05733",
+      "title": "Eiyuu Densetsu: Zero no Kiseki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05753",
+      "title": "Tactics Ogre: Unmei no Wa",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05759",
+      "title": "Persona 2: Tsumi: Innocent Sin",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05761",
+      "title": "Dissidia Final Fantasy: Universal Tuning",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05771",
+      "title": "World Soccer Winning Eleven 2011",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05779",
+      "title": "Gungnir: Masou no Gunshin to Eiyuu Sensou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05781",
+      "title": "Senjou no Valkyria 3: Unrecorded Chronicles",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05795",
+      "title": "Togainu no Chi: T B P",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05805",
+      "title": "Umezawa Yukari no Yasashii Igo",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05814",
+      "title": "Dissidia 012: Duodecim Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05835",
+      "title": "Viorate no Atelier: Gramnad no Renkinjutsushi 2: Gunjou no Omoide",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05842",
+      "title": "Sangokushi IX with Power-Up Kit",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05847",
+      "title": "Hanaoni: Koisomeru Koku: Eikyuu no Shirushi",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05855",
+      "title": "Final Fantasy IV Complete Collection: Final Fantasy IV & The After Years",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05864",
+      "title": "Elminage Original: Yami no Miko to Kamigami no Yubiwa",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05871",
+      "title": "Jikkyou Powerful Pro Yakyuu 2011",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05880",
+      "title": "Ragnarok: Hikari to Yami no Koujo",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05881",
+      "title": "MonHun Nikki: Poka Poka Ailu Mura G",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05886",
+      "title": "Gensou Suikoden: Tsumugareshi Hyakunen no Toki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05889",
+      "title": "Mashiro Iro Symphony: Mutsu-no-hana",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05892",
+      "title": "Mother Goose no Himitsu no Yakata: Nursery Rhymes for you",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05894",
+      "title": "Moujuutsukai to Oujisama Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05895",
+      "title": "Moujuutsukai to Oujisama Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05898",
+      "title": "J.League Pro Soccer Club o Tsukurou! 7: Euro Plus",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05899",
+      "title": "Eiyuu Densetsu: Ao no Kiseki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05900",
+      "title": "Final Fantasy Reishiki (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05901",
+      "title": "Final Fantasy Reishiki (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05902",
+      "title": "Nobunaga no Yabou: Soutenroku with Power-Up Kit",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05916",
+      "title": "Hakuouki: Reimeiroku Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05917",
+      "title": "Hakuouki: Reimeiroku Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05922",
+      "title": "World Soccer Winning Eleven 2012",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05938",
+      "title": "Shin Sangoku Musou 6 Special (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05939",
+      "title": "Shin Sangoku Musou 6 Special (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05952",
+      "title": "Hatsune Miku: Project Diva 2nd",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "11755",
+        "320649"
+      ]
+    },
+    {
+      "serial": "ULJM05954",
+      "title": "Shirogane no Cal to Aoi no Joou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05955",
+      "title": "Fairy Tail: Zerefu Kakusei",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05956",
+      "title": "Arcana Famiglia: La Storia della Arcana Famiglia",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05957",
+      "title": "Senjou no Valkyria 3 E2: Extra Edition",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05964",
+      "title": "Puyo Puyo!! Puyopuyo 20th Anniversary",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05965",
+      "title": "Ken to Mahou to Gakuen Mono. Final: Shinnyuusei wa Ohime-sama!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05981",
+      "title": "Kuon no Kizuna: Sairinshou Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05983",
+      "title": "Phase D: Souka no Shou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05991",
+      "title": "Jikkyou Powerful Pro Yakyuu 2011 Ketteiban",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05992",
+      "title": "Amatsumi Sora ni! Kumo no Hatate ni (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM05998",
+      "title": "Hanayaka Nari, Wa ga Ichizoku: Kinema Mosaic",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06001",
+      "title": "Ren'ai Banchou 2: Midnight Lesson!!!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06024",
+      "title": "Sengoku Musou 3 Z Special",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06034",
+      "title": "DJ Max Portable: Black Square",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06040",
+      "title": "Steins;Gate: Hiyoku Renri no Darling",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06050",
+      "title": "Abunai: Koi no Sousa Shitsu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06071",
+      "title": "Soukoku no Kusabi: Hiiro no Kakera 3: Ashita e no Tobira",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06081",
+      "title": "Persona 2: Batsu: Eternal Punishment",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06083",
+      "title": "Jikkyou Powerful Pro Yakyuu 2012",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06086",
+      "title": "Strike Witches: Hakugin no Tsubasa",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "145399",
+        "38449"
+      ]
+    },
+    {
+      "serial": "ULJM06089",
+      "title": "Juuza Engi: Engetsu Sangokuden",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06112",
+      "title": "Airou de Puzzle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06115",
+      "title": "Anohana: Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06121",
+      "title": "Dissidia 012: Duodecim Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06122",
+      "title": "Final Fantasy IV Complete Collection: Final Fantasy IV & The After Years",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06126",
+      "title": "Kimikare: Shin Gakki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06135",
+      "title": "UnchainBlades EXXiV",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06153",
+      "title": "Nikoli no Sudoku Lite Daisan-shuu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06161",
+      "title": "World Soccer Winning Eleven 2013",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06193",
+      "title": "Wand of Fortune II FD: Kimi ni Sasageru Epilogue",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06205",
+      "title": "SuGirly Wish Limited",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06206",
+      "title": "Jikkyou Powerful Pro Yakyuu 2012: Ketteiban",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06212",
+      "title": "Puyo Puyo!! Puyopuyo 20th Anniversary",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06217",
+      "title": "Final Fantasy Reishiki (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06218",
+      "title": "Final Fantasy Reishiki (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06226",
+      "title": "Megpoid the Music#",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06227",
+      "title": "Starry Sky: After Spring Portable: Etsuran Shite Please \"Etsu Puritsu 2\"",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06255",
+      "title": "Starry Sky: After Summer Portable: Etsuran Shite Please \"Etsu Puritsu 2\"",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06280",
+      "title": "Urakata Hakuouki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06285",
+      "title": "Koibana Days: Pure Flower Garden",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06287",
+      "title": "Starry Sky: After Autumn Portable: Etsuran Shite Please \"Etsu Puritsu 2\"",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06290",
+      "title": "Toukiden",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06291",
+      "title": "Arcana Famiglia 2: La Storia della Arcana Famiglia",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06295",
+      "title": "Dia no Kuni no Alice: Wonderful Mirror World",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06298",
+      "title": "O.G.A Onigokko Royal: Hunter wa Field de Koi o Suru",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06300",
+      "title": "Toki no Kizuna: Hanamusubi Tsuzuri",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06319",
+      "title": "Jikkyou Powerful Pro Yakyuu 2013",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06322",
+      "title": "Kin'iro no Corda 3: Full Voice Special",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06331",
+      "title": "World Soccer Winning Eleven 2014",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06340",
+      "title": "-8",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06343",
+      "title": "Chou no Doku Hana no Kusari: Taishou Tsuya Koi Ibun",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06349",
+      "title": "Kin'iro no Corda 3: Another Sky feat. Jinnan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06352",
+      "title": "Shinobi, Koiutsutsu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06372",
+      "title": "Urakata Hakuouki: Akatsuki no Shirabe",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06382",
+      "title": "Grisaia no Meikyuu: Le Labyrinthe de la Grisaia",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06389",
+      "title": "PriPia: Prince Pia Carrot",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06395",
+      "title": "Grisaia no Rakuen: Le Eden de la Grisaia",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM06397",
+      "title": "Kaleido-Eve",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08008",
+      "title": "Shin Sangoku Musou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08009",
+      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08010",
+      "title": "Monster Hunter Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08012",
+      "title": "Geki Sengoku Musou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08014",
+      "title": "Monster Hunter Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08015",
+      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08017",
+      "title": "Shin Sangoku Musou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08018",
+      "title": "Vampire Chronicle: The Chaos Tower",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08019",
+      "title": "Monster Hunter Portable 2nd G",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08020",
+      "title": "Shin Sangoku Musou 2nd Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08025",
+      "title": "Monster Hunter Portable 2nd G",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08033",
+      "title": "Eiyuu Densetsu: Sora no Kiseki FC",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08034",
+      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08035",
+      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08037",
+      "title": "Musou Orochi: Maou Sairin",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08039",
+      "title": "MonHun Nikki: Poka Poka Airuu Mura",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08051",
+      "title": "Shutokou Battle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08061",
+      "title": "Shin Sangoku Musou 6 Special (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM08062",
+      "title": "Shin Sangoku Musou 6 Special (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM91001",
+      "title": "Karakuri",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM91004",
+      "title": "Capcom Special Taikenban 3 in 1",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM91007",
+      "title": "Blokus Club Portable with Bumpy Trot",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM91009",
+      "title": "Kidou Senshi Gundam Seed: Rengou vs. Z.A.F.T. Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM91011",
+      "title": "Irem Taikenban Shuu 2007 Kaki Tokubetsugou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM91012",
+      "title": "Yggdra Union",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM91013",
+      "title": "Irem Taikenban Shuu 2008 Shunki Tokubetsugou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM91016",
+      "title": "Sora no Kiseki: Material Collection Portable Mini",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM91017",
+      "title": "Shin Sangoku Musou: Multi Raid",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJM95002",
+      "title": "Artlist Collection: The Dog Happy Life: Shiawase Wanko Seikatsu Dai-1-dan: McDonald's Ver.",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJP00523",
+      "title": "Twelve: Sengoku Houshinden",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJP00572",
+      "title": "Karakuri",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00001",
+      "title": "Ridge Racers",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00004",
+      "title": "Eiyuu Densetsu Gagharv Trilogy: Shiroki Majo",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00006",
+      "title": "Soukyuu no Fafner",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00010",
+      "title": "Kollon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00012",
+      "title": "Namco Museum",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00017",
+      "title": "Baku-No",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00018",
+      "title": "Tenchu: Shinobi Taizen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00019",
+      "title": "School Rumble: Anesan Jiken desu!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00026",
+      "title": "Kidou Keisatsu Patlabor: Kamubakku MiniPato",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00029",
+      "title": "Karakuri",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00033",
+      "title": "Boku no Watashi no Katamari Damacy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00034",
+      "title": "Bokujou Monogatari: Harvest Moon: Boy & Girl",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00038",
+      "title": "Simple 2500 Series Portable!! Vol. 2: The Tennis",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00039",
+      "title": "Simple 2500 Series Portable!! Vol. 4: The Unou Drill",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00047",
+      "title": "Namco Museum Vol. 2",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "191991",
+        "20259"
+      ]
+    },
+    {
+      "serial": "ULJS00051",
+      "title": "Minna no Chizu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00055",
+      "title": "Naruto: Narutimate Portable: Mugenjou no Maki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00059",
+      "title": "Pilot ni Narou! Flying All Stars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00060",
+      "title": "Daito Giken Koushiki Pachi-Slot Simulator: Yoshimune Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00061",
+      "title": "Shin Seiki Evangelion 2: Tsukurareshi Sekai: Another Cases",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00063",
+      "title": "Innocent Life: Shin Bokujou Monogatari",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00064",
+      "title": "Shin Seiki Evangelion 2: Tsukurareshi Sekai: Another Cases",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00065",
+      "title": "SD Gundam: GGeneration Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00066",
+      "title": "Plus Plumb 2 Again",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00074",
+      "title": "Quiz Kidou Senshi Gundam Toi Senshi Deluxe",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00087",
+      "title": "Intelligent License 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00089",
+      "title": "Makai Senki Disgaea Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00090",
+      "title": "Metal Slug Complete",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00097",
+      "title": "Tales of Destiny 2",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "1203",
+        "397736"
+      ]
+    },
+    {
+      "serial": "ULJS00101",
+      "title": "AI Shougi",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00103",
+      "title": "Minna no Chizu 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00108",
+      "title": "Simple 2500 Series Portable!! Vol. 10: The IQ Cube: Moyatto Atama o Puzzle de Sukkiri!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00111",
+      "title": "R-Type Tactics",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00113",
+      "title": "Makai Senki Disgaea Portable: Tsuushin Taisen Hajimemashita.",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00114",
+      "title": "Simple 2500 Series Portable!! Vol. 11: The Puzzle Quest: Agaria no Kishi",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00119",
+      "title": "Innocent Life: Shin Bokujou Monogatari",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00125",
+      "title": "Hajime no Ippo Portable: Victorious Spirits",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00131",
+      "title": "Kidou Senshi Gundam: Gihren no Yabou: Axis no Kyoui",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00139",
+      "title": "Minna no Chizu 3 (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00140",
+      "title": "Minna no Chizu 3 (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00150",
+      "title": "Prinny: Ore ga Shujinkou de Iinsuka?",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00155",
+      "title": "Samurai Dou Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00157",
+      "title": "Katekyoo Hitman Reborn! Battle Arena",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00159",
+      "title": "Sengoku Efuda Yuugi: Hototogisu Ran",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00161",
+      "title": "Nogizaka Haruka no Himitsu: Cosplay, Hajimemashita: Himitsu no Radio",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00166",
+      "title": "Kenka Banchou 3: Zenkoku Seiha",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00178",
+      "title": "Kidou Senshi Gundam: Gihren no Yabou: Axis no Kyoui V",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00182",
+      "title": "Makai Senki Disgaea 2 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00188",
+      "title": "Bokujou Monogatari: Sugar Mura to Minna no Negai",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00195",
+      "title": "Yuusha 30",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00203",
+      "title": "Sorayume Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00204",
+      "title": "Hayarigami 3: Keishichou Kaii Jiken File",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "257763",
+        "61782"
+      ]
+    },
+    {
+      "serial": "ULJS00206",
+      "title": "Metal Slug Complete",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00211",
+      "title": "Minna no Navi (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00212",
+      "title": "Minna no Navi (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00218",
+      "title": "Katekyoo Hitman Reborn! Battle Arena 2: Spirits Burst",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00220",
+      "title": "Hagane no Renkinjutsushi: Fullmetal Alchemist: Senaka o Takuseshi Mono",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00221",
+      "title": "Lara Croft Tomb Raider: Anniversary",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00236",
+      "title": "Naruto Shippuuden: Narutimate Accel 3",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00240",
+      "title": "Mahou Shoujo Lyrical Nanoha A's Portable: The Battle of Aces",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00242",
+      "title": "Matching Maker 3 x Tousouchuu",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00247",
+      "title": "Koori no Haka: Ichiyanagi Nagomu, 3-dome no Junan",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00250",
+      "title": "Kidou Senshi Gundam: Gundam vs. Gundam Next Plus",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00257",
+      "title": "Katekyoo Hitman Reborn! Kizuna no Tag Battle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00262",
+      "title": "Zettai Hero Kaizou Keikaku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00266",
+      "title": "Dot Hack Link",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00268",
+      "title": "Kenka Banchou 4: Ichinen Sensou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00269",
+      "title": "Ginsei Shougi Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00270",
+      "title": "Classic Dungeon: Fuyoku no Masoujin",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00279",
+      "title": "Dot Hack Link",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00282",
+      "title": "Shin Master of Monsters Final EX: Mukunaru Nageki, Tenmei no Saika",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00291",
+      "title": "Naruto Shippuuden: Kizuna Drive",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00292",
+      "title": "Hagane no Renkinjutsushi: Yakusoku no Hi e",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00295",
+      "title": "Hisshou Pachinko: Pachi-Slot Kouryaku Series Portable Vol. 1: Shin Seiki Evangelion: Tamashii no Kiseki",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00301",
+      "title": "Simple 2000 Series Portable!! Vol. 1: The Mahjong",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00311",
+      "title": "Dragon Ball Tag VS",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00313",
+      "title": "Twinkle Crusaders Starlit Brave",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00317",
+      "title": "Durarara!! 3way Standoff",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00318",
+      "title": "Durarara!! 3way Standoff",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00337",
+      "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00339",
+      "title": "Amagami",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00344",
+      "title": "428: Fuusa Sareta Shibuya de",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00350",
+      "title": "God Eater Burst: Append-ban",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00351",
+      "title": "God Eater Burst",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00357",
+      "title": "Ore no Imouto Maker EX: Imouto to Koishiyo Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00359",
+      "title": "Kenka Banchou 5: Otoko no Rule",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00361",
+      "title": "Danball Senki",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "321466",
+        "72572"
+      ]
+    },
+    {
+      "serial": "ULJS00363",
+      "title": "SD Gundam: GGeneration World",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00374",
+      "title": "Chikyuu Boueigun 2 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00378",
+      "title": "PhotoKano",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00381",
+      "title": "Chikyuu Boueigun 2 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00384",
+      "title": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00385",
+      "title": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00390",
+      "title": "Naruto Shippuuden: Narutimate Impact",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00396",
+      "title": "Storm Lover Natsukoi!!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00401",
+      "title": "Ro-Kyu-Bu!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00405",
+      "title": "Ginsei Shougi Portable: Fuun Ryuuko Raiden",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00407",
+      "title": "Evangelion Shin Gekijou-ban: 3nd Impact",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00408",
+      "title": "Evangelion Shin Gekijou-ban: 3nd Impact",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00413",
+      "title": "AKB1-48+10: Idol to Guam de Koishitara...",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00414",
+      "title": "AKB1-48+10: Idol to Guam de Koishitara...",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00427",
+      "title": "Weiss Schwarz Portable: 2 Turn-me",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00429",
+      "title": "Mahou Shoujo Madoka Magica Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00430",
+      "title": "Mahou Shoujo Madoka Magica Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00434",
+      "title": "Sangoku-hime: Sangoku Ransei: Haten no Saihai",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00438",
+      "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00444",
+      "title": "Super Robot Taisen OG Saga: Masoukishin II: Revelation of Evil God",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00445",
+      "title": "Super Robot Taisen OG Saga: Masoukishin: The Lord of Elemental",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00446",
+      "title": "Super Robot Taisen OG Saga: Masoukishin II: Revelation of Evil God",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00459",
+      "title": "Boku wa Tomodachi ga Sukunai Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00467",
+      "title": "Great Battle Fullblast",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00475",
+      "title": "Kidou Senshi Gundam AGE: Universe Accel",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00488",
+      "title": "Meitantei Conan: Kako kara no Prelude",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00490",
+      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00491",
+      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00492",
+      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00493",
+      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00510",
+      "title": "Accel World: Gin'yoku no Kakusei",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00512",
+      "title": "Accel World: Kasoku no Chouten",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00514",
+      "title": "World Neverland: Nalulu Oukoku Monogatari",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00517",
+      "title": "Kenka Banchou Bros. Tokyo Battle Royale",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00522",
+      "title": "Super Danganronpa 2: Sayonara Zetsubou Gakuen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00523",
+      "title": "Kuroko no Baske: Kiseki no Game",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00532",
+      "title": "AKB1-149: Ren'ai Sousenkyo (Game Disc)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00533",
+      "title": "AKB1-149: Ren'ai Sousenkyo (Data Install Senyou Disc)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00536",
+      "title": "SD Gundam GGeneration Overworld",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00550",
+      "title": "One Piece: Romance Dawn: Bouken no Yoake",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS00573",
+      "title": "Ro-Kyu-Bu!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19001",
+      "title": "Armored Core: Formula Front International",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19002",
+      "title": "Ridge Racers",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19006",
+      "title": "Namco Museum",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19007",
+      "title": "Tenchu: Shinobi Taizen",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19008",
+      "title": "Bokujou Monogatari: Harvest Moon: Boy & Girl",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19009",
+      "title": "Boku no Watashi no Katamari Damacy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19022",
+      "title": "SD Gundam: GGeneration Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19027",
+      "title": "Eiyuu Densetsu Gagharv Trilogy: Akai Shizuku",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19028",
+      "title": "Eiyuu Densetsu Gagharv Trilogy: Umi no Oriuta",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19030",
+      "title": "Kenka Banchou 3: Zenkoku Seiha",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19035",
+      "title": "Code Geass: Hangyaku no Lelouch: Lost Colors",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19040",
+      "title": "Yuusha 30",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19046",
+      "title": "Kenka Banchou 4: Ichinen Sensou",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19048",
+      "title": "Kidou Senshi Gundam: Gundam vs. Gundam Next Plus",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19053",
+      "title": "Makai Senki Disgaea 2 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19054",
+      "title": "Tekken 6",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "1247",
+        "195868"
+      ]
+    },
+    {
+      "serial": "ULJS19056",
+      "title": "God Eater Burst",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19057",
+      "title": "Ace Combat X2: Joint Assault",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19058",
+      "title": "Dot Hack Link",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19060",
+      "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19062",
+      "title": "Kenka Banchou 5: Otoko no Rule",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19067",
+      "title": "Dragon Ball Tag VS",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19071",
+      "title": "Naruto Shippuuden: Narutimate Impact",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19081",
+      "title": "God Eater Burst",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19086",
+      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19087",
+      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULJS19097",
+      "title": "Kuroko no Baske: Kiseki no Game",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46001",
+      "title": "Kollon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46011",
+      "title": "FIFA Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46012",
+      "title": "Jin Samguk Mussang",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46013",
+      "title": "Sincheon Magye: GOC IV: Another Side",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46016",
+      "title": "Coded Gun",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46024",
+      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46033",
+      "title": "Win-JPT: Ilboneo Chogeub",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46050",
+      "title": "DJ Max Emotional Sense P Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46065",
+      "title": "Metal Gear Ac!d²",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46082",
+      "title": "Oh's Talk English (Disc 1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46083",
+      "title": "Oh's Talk English (Disc 2)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46084",
+      "title": "Jin Samguk Mussang 2nd Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46085",
+      "title": "Dragon Ball Z: Jinmudohoe",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46086",
+      "title": "Naruto: Narutimate Portable: Muhwanseongui Gwon",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46094",
+      "title": "Singi Hwansang: SSII Unlimited Side",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46116",
+      "title": "DJ Max Emotional Sense P 2: Sound Miracle",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46120",
+      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46129",
+      "title": "Metal Slug Complete",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46130",
+      "title": "Jin Samguk Mussang 2nd Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46134",
+      "title": "Kidou Senshi Gundam Seed: Rengou vs. Z.A.F.T. Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46142",
+      "title": "Astonishia Story 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46153",
+      "title": "FIFA 08",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46164",
+      "title": "Fantasy Golf Pangya Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46174",
+      "title": "Musou Orochi",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46177",
+      "title": "Monster Hunter Portable 2nd G",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46189",
+      "title": "DJ Max Emotional Sense P: Black Square",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46190",
+      "title": "DJ Max Emotional Sense P: Clazziquai Edition",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46209",
+      "title": "Mussang Orochi: Mawang Jaerim Plus",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46228",
+      "title": "World Soccer Winning Eleven 2010",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46229",
+      "title": "Naruto Shippuuden: Narutimate Accel 3",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46235",
+      "title": "Tekken 6",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "1247",
+        "195868"
+      ]
+    },
+    {
+      "serial": "ULKS46236",
+      "title": "DJ Max Portable 3",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46240",
+      "title": "DJ Max Portable: Hot Tunes",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46249",
+      "title": "Pro Yagu Spirits 2010",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46255",
+      "title": "Silhwang Powerful Pro Yagu 2010",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46270",
+      "title": "Silhwang Powerful Pro Yagu 2011",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46281",
+      "title": "Pro Yagu Spirits 2012",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46282",
+      "title": "Super Robot Taisen OG Saga: Masoukishin II: Revelation of Evil God",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46286",
+      "title": "SD Gundam: GGeneration World",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULKS46287",
+      "title": "One Piece: Romance Dawn: Bouken no Yoake",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10002",
+      "title": "Lumines: Puzzle Fusion",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10006",
+      "title": "Metal Gear Ac!d",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10011",
+      "title": "FIFA Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10051",
+      "title": "Ys: The Ark of Napishtim",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10056",
+      "title": "World Tour Soccer: Winning Eleven 9",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10058",
+      "title": "Stealth + WipEout Pure",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10060",
+      "title": "World Championship Poker 2 featuring Howard Lederer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10073",
+      "title": "Disney/Pixar Cars",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10077",
+      "title": "Metal Gear Ac!d²",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10080",
+      "title": "007: From Russia with Love",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10082",
+      "title": "FIFA World Cup Germany 2006",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10092",
+      "title": "Nickelodeon SpongeBob SquarePants: The Yellow Avenger",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10110",
+      "title": "Lara Croft Tomb Raider: Legend",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10122",
+      "title": "NASCAR",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10124",
+      "title": "Blade Dancer: Lineage of Light",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "23115",
+        "269079"
+      ]
+    },
+    {
+      "serial": "ULUS10149",
+      "title": "Pac-Man World Rally",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "248531",
+        "2654"
+      ]
+    },
+    {
+      "serial": "ULUS10162",
+      "title": "World Series of Poker: Tournament of Champions: 2007 Edition",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10165",
+      "title": "Nickelodeon Avatar: The Last Airbender",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10174",
+      "title": "Rush",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10178",
+      "title": "Mind Quiz: Exercise Your Brain",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10180",
+      "title": "M.A.C.H.: Modified Air Combat Heroes",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10187",
+      "title": "DreamWorks Over the Hedge: Hammy Goes Nuts!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10194",
+      "title": "DreamWorks Shrek: Smash n' Crash Racing",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10206",
+      "title": "Tom Clancy's Rainbow Six: Vegas",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "196507",
+        "909"
+      ]
+    },
+    {
+      "serial": "ULUS10220",
+      "title": "Full Auto 2: Battlelines",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "197931",
+        "7309"
+      ]
+    },
+    {
+      "serial": "ULUS10240",
+      "title": "Prince of Persia: Rival Swords",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "243129",
+        "243130"
+      ]
+    },
+    {
+      "serial": "ULUS10247",
+      "title": "Disney/Pixar Ratatouille",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10248",
+      "title": "DreamWorks Shrek the Third",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10252",
+      "title": "Disney Pirates of the Caribbean: At World's End",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10253",
+      "title": "Lara Croft Tomb Raider: Anniversary",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10256",
+      "title": "MTV Pimp My Ride",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10300",
+      "title": "Hannspree Ten Kate Honda: SBK Superbike World Championship",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10319",
+      "title": "Bomberman Land",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "197973",
+        "77674"
+      ]
+    },
+    {
+      "serial": "ULUS10320",
+      "title": "PES 2008: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10322",
+      "title": "Downstream Panic!",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10337",
+      "title": "UEFA Euro 2008: Austria-Switzerland",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10340",
+      "title": "N Plus",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10350",
+      "title": "Disney/Pixar WALL-E",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10362",
+      "title": "Cake Mania: Baker's Challenge",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10368",
+      "title": "Yggdra Union",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10380",
+      "title": "LEGO Batman: The Videogame",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "259254",
+        "2738"
+      ]
+    },
+    {
+      "serial": "ULUS10386",
+      "title": "PDC World Championship Darts",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10388",
+      "title": "PES 2009: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10395",
+      "title": "SBK: Superbike World Championship",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10403",
+      "title": "DJ Max Emotional Sense: Fever",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10415",
+      "title": "Dragonball: Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10428",
+      "title": "Disney/Pixar Cars: Race-O-Rama",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10430",
+      "title": "Disney/Pixar Up",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10439",
+      "title": "Disney G-Force",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10456",
+      "title": "Holy Invasion of Privacy, Badman! What Did I Do to Deserve This?",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10466",
+      "title": "Tekken 6",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "1247",
+        "195868"
+      ]
+    },
+    {
+      "serial": "ULUS10471",
+      "title": "DiRT 2",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10478",
+      "title": "Nickelodeon SpongeBob's Truth or Square",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10483",
+      "title": "PES 2010: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10487",
+      "title": "LEGO Indiana Jones 2: The Adventure Continues",
+      "reason": "ambiguous",
+      "candidate_igdb_ids": [
+        "138",
+        "194933"
+      ]
+    },
+    {
+      "serial": "ULUS10512",
+      "title": "Shin Megami Tensei: Persona 3 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10515",
+      "title": "Valkyria Chronicles II",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10519",
+      "title": "BlazBlue: Calamity Trigger",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10520",
+      "title": "DreamWorks Megamind: The Blue Defender",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10538",
+      "title": "DJ Max Portable 3",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10546",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10548",
+      "title": "Disney TRON: Evolution",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10553",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10554",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10566",
+      "title": "Dissidia 012: Duodecim Final Fantasy",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10586",
+      "title": "PES 2012: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10593",
+      "title": "Growlanser: Wayfarer of Time",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS10597",
+      "title": "PES 2013: Pro Evolution Soccer",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS80020",
+      "title": "Yggdra Union",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "ULUS80022",
+      "title": "Shin Megami Tensei: Persona 3 Portable",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UMDS10059",
+      "title": "Stealth + WipEout Pure",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UMDT99801",
+      "title": "PSP Seizou Kensa Disc (1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UMDT99872",
+      "title": "CS Kensa Disc (J1)",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UTST99119",
+      "title": "PSP Update Disc 1.00",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UTST99261",
+      "title": "SCEJ PSP Browser",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UTST99281",
+      "title": "SCEJ PSP Browser",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UTST99332",
+      "title": "Updater Test A0304: Game (w) 1.50 + Updater (0304) 9999/9.99",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    },
+    {
+      "serial": "UTST99437",
+      "title": "System Software Update Ver. 3.73",
+      "reason": "no_exact_match",
+      "candidate_igdb_ids": []
+    }
+  ],
+  "games_without_serials": [
+    138,
+    157,
+    236,
+    283,
+    295,
+    330,
+    375,
+    383,
+    388,
+    417,
+    421,
+    425,
+    427,
+    428,
+    480,
+    614,
+    647,
+    675,
+    716,
+    717,
+    880,
+    907,
+    909,
+    912,
+    948,
+    966,
+    980,
+    999,
+    1000,
+    1083,
+    1128,
+    1139,
+    1156,
+    1157,
+    1158,
+    1160,
+    1162,
+    1168,
+    1175,
+    1185,
+    1186,
+    1187,
+    1192,
+    1195,
+    1203,
+    1247,
+    1280,
+    1307,
+    1346,
+    1353,
+    1356,
+    1360,
+    1361,
+    1364,
+    1404,
+    1407,
+    1418,
+    1419,
+    1447,
+    1453,
+    1454,
+    1462,
+    1500,
+    1501,
+    1502,
+    1576,
+    1577,
+    1578,
+    1665,
+    1666,
+    1677,
+    1678,
+    1721,
+    1744,
+    1752,
+    1753,
+    1754,
+    1804,
+    1805,
+    1806,
+    1810,
+    1842,
+    1960,
+    1963,
+    2035,
+    2216,
+    2237,
+    2270,
+    2353,
+    2542,
+    2571,
+    2654,
+    2738,
+    2749,
+    3024,
+    3027,
+    3128,
+    3140,
+    3190,
+    3196,
+    3332,
+    3338,
+    3380,
+    3414,
+    3448,
+    3455,
+    3457,
+    3506,
+    3579,
+    3669,
+    3751,
+    3753,
+    4000,
+    4011,
+    4097,
+    4100,
+    4115,
+    4116,
+    4117,
+    4122,
+    4124,
+    4126,
+    4127,
+    4132,
+    4135,
+    4136,
+    4140,
+    4144,
+    4146,
+    4260,
+    4290,
+    4309,
+    4415,
+    4463,
+    4514,
+    4623,
+    4685,
+    4695,
+    4696,
+    4702,
+    4740,
+    4749,
+    4775,
+    4831,
+    4867,
+    4916,
+    4929,
+    4959,
+    5002,
+    5092,
+    5097,
+    5098,
+    5100,
+    5111,
+    5261,
+    5288,
+    5291,
+    5293,
+    5470,
+    5480,
+    5525,
+    5568,
+    5664,
+    5937,
+    5944,
+    6023,
+    6049,
+    6081,
+    6182,
+    6193,
+    6268,
+    6269,
+    6430,
+    6530,
+    6592,
+    6777,
+    6796,
+    6826,
+    6827,
+    6832,
+    6841,
+    6851,
+    6865,
+    6904,
+    6906,
+    6920,
+    6935,
+    6971,
+    6974,
+    6975,
+    7043,
+    7067,
+    7068,
+    7071,
+    7123,
+    7185,
+    7226,
+    7248,
+    7254,
+    7263,
+    7281,
+    7308,
+    7309,
+    7357,
+    7358,
+    7402,
+    7422,
+    7423,
+    7432,
+    7794,
+    7842,
+    7894,
+    7969,
+    8100,
+    8154,
+    8305,
+    8392,
+    8628,
+    8632,
+    8636,
+    8647,
+    8658,
+    8662,
+    8749,
+    8911,
+    8978,
+    9052,
+    9056,
+    9140,
+    9143,
+    9184,
+    9204,
+    9235,
+    9295,
+    9331,
+    9345,
+    9500,
+    9502,
+    9514,
+    9676,
+    9678,
+    9694,
+    9814,
+    9839,
+    9886,
+    9997,
+    10153,
+    10156,
+    10157,
+    10662,
+    10945,
+    11235,
+    11310,
+    11318,
+    11392,
+    11413,
+    11454,
+    11456,
+    11457,
+    11458,
+    11608,
+    11699,
+    11705,
+    11755,
+    11846,
+    12153,
+    12211,
+    12331,
+    12332,
+    12381,
+    12427,
+    12434,
+    12484,
+    12492,
+    12588,
+    13063,
+    13064,
+    13095,
+    13106,
+    13216,
+    13475,
+    13654,
+    13657,
+    13681,
+    13685,
+    14674,
+    14675,
+    14680,
+    14911,
+    14986,
+    15020,
+    15023,
+    15055,
+    15189,
+    15276,
+    15282,
+    15284,
+    15426,
+    15427,
+    15428,
+    15429,
+    15430,
+    15452,
+    15841,
+    16090,
+    16091,
+    16092,
+    16093,
+    16550,
+    16665,
+    16753,
+    16997,
+    17481,
+    17493,
+    18018,
+    18037,
+    18040,
+    18070,
+    18072,
+    18133,
+    18472,
+    18666,
+    18683,
+    18699,
+    18762,
+    18785,
+    18786,
+    19109,
+    19266,
+    19287,
+    19288,
+    19316,
+    19414,
+    19418,
+    19424,
+    19428,
+    19468,
+    19636,
+    19688,
+    19890,
+    19987,
+    19988,
+    19999,
+    20009,
+    20135,
+    20137,
+    20139,
+    20259,
+    20282,
+    20299,
+    20300,
+    20370,
+    20411,
+    20467,
+    20496,
+    20548,
+    20555,
+    20566,
+    20569,
+    20571,
+    20589,
+    20600,
+    20611,
+    20613,
+    20623,
+    20624,
+    20626,
+    20629,
+    20633,
+    20638,
+    20641,
+    20709,
+    20717,
+    20718,
+    20728,
+    20755,
+    20801,
+    20808,
+    20814,
+    20816,
+    20838,
+    20900,
+    20996,
+    21018,
+    21029,
+    21031,
+    21059,
+    21101,
+    21113,
+    21165,
+    21173,
+    21207,
+    21253,
+    21313,
+    21524,
+    21537,
+    21541,
+    21576,
+    21577,
+    21588,
+    21690,
+    21768,
+    21837,
+    21840,
+    21843,
+    21882,
+    22292,
+    22321,
+    22357,
+    22717,
+    22773,
+    22835,
+    22839,
+    22844,
+    22849,
+    22892,
+    22894,
+    22896,
+    22897,
+    22934,
+    23094,
+    23115,
+    23377,
+    23664,
+    23806,
+    24080,
+    24131,
+    24288,
+    24320,
+    25453,
+    25913,
+    25930,
+    25934,
+    25956,
+    26075,
+    26115,
+    26345,
+    26346,
+    26440,
+    26730,
+    27351,
+    28101,
+    28138,
+    28197,
+    28397,
+    28400,
+    28402,
+    28521,
+    29203,
+    30588,
+    33046,
+    33165,
+    33272,
+    34052,
+    35377,
+    35882,
+    35974,
+    36558,
+    37018,
+    37280,
+    37307,
+    37322,
+    37583,
+    37639,
+    37731,
+    38265,
+    38359,
+    38391,
+    38443,
+    38449,
+    38450,
+    38451,
+    38452,
+    38457,
+    38462,
+    38466,
+    38470,
+    38475,
+    38476,
+    38477,
+    38478,
+    38481,
+    38482,
+    38484,
+    38486,
+    38725,
+    39299,
+    39352,
+    39485,
+    39488,
+    39520,
+    39531,
+    39573,
+    39590,
+    39691,
+    39753,
+    39787,
+    39878,
+    39934,
+    39986,
+    39999,
+    40038,
+    40069,
+    40206,
+    41037,
+    41084,
+    41086,
+    41408,
+    41848,
+    41863,
+    42052,
+    42078,
+    42098,
+    42110,
+    42118,
+    42689,
+    42690,
+    42691,
+    42692,
+    42710,
+    42712,
+    42713,
+    42714,
+    42715,
+    42719,
+    42724,
+    42740,
+    42742,
+    42743,
+    42744,
+    42745,
+    42753,
+    42754,
+    42755,
+    42756,
+    42757,
+    42763,
+    42764,
+    42776,
+    42777,
+    42778,
+    42779,
+    42780,
+    42782,
+    42783,
+    42784,
+    42785,
+    42786,
+    42787,
+    42788,
+    42791,
+    42799,
+    42803,
+    42804,
+    42814,
+    42815,
+    42816,
+    42817,
+    42819,
+    42820,
+    42821,
+    42822,
+    42823,
+    42824,
+    42826,
+    42827,
+    42828,
+    42829,
+    42830,
+    42831,
+    42833,
+    42834,
+    42835,
+    42836,
+    42840,
+    42844,
+    42845,
+    42846,
+    42850,
+    42851,
+    42858,
+    42859,
+    42875,
+    42892,
+    42978,
+    43047,
+    43202,
+    43404,
+    43596,
+    43695,
+    43704,
+    43720,
+    43739,
+    43740,
+    43752,
+    43754,
+    43758,
+    43774,
+    43777,
+    43796,
+    43798,
+    43799,
+    43808,
+    43813,
+    43816,
+    43817,
+    43820,
+    43831,
+    43832,
+    43841,
+    43868,
+    43873,
+    43874,
+    43878,
+    43882,
+    43887,
+    43894,
+    43903,
+    43908,
+    43913,
+    43914,
+    43918,
+    43920,
+    43929,
+    43934,
+    43937,
+    43938,
+    43939,
+    43942,
+    43953,
+    44068,
+    44339,
+    44402,
+    44413,
+    44468,
+    44469,
+    44476,
+    44479,
+    44490,
+    44491,
+    44492,
+    44498,
+    44499,
+    44501,
+    44502,
+    44505,
+    44507,
+    44508,
+    44509,
+    44514,
+    44515,
+    44521,
+    44522,
+    44531,
+    44566,
+    44583,
+    44584,
+    44588,
+    44598,
+    44703,
+    44718,
+    44731,
+    44744,
+    44745,
+    44750,
+    44758,
+    44780,
+    44781,
+    44785,
+    44786,
+    44787,
+    44788,
+    44790,
+    44804,
+    44808,
+    44814,
+    44816,
+    44826,
+    44837,
+    44850,
+    44856,
+    44861,
+    44862,
+    44878,
+    44880,
+    44882,
+    44889,
+    44895,
+    44899,
+    44902,
+    44903,
+    44912,
+    44925,
+    44926,
+    44937,
+    44938,
+    44957,
+    44958,
+    44959,
+    44962,
+    44976,
+    44977,
+    44981,
+    44982,
+    44998,
+    45000,
+    45008,
+    45013,
+    45019,
+    45022,
+    45033,
+    45036,
+    45039,
+    45041,
+    45042,
+    45043,
+    45047,
+    45053,
+    45062,
+    45074,
+    45082,
+    45087,
+    45088,
+    45089,
+    45090,
+    45092,
+    45096,
+    45105,
+    45107,
+    45108,
+    45222,
+    45225,
+    45229,
+    45286,
+    45306,
+    45376,
+    45400,
+    45411,
+    45419,
+    45458,
+    45525,
+    45833,
+    45989,
+    45993,
+    45999,
+    46015,
+    46082,
+    46083,
+    46084,
+    46667,
+    47396,
+    47896,
+    48055,
+    49155,
+    49505,
+    49529,
+    49559,
+    50129,
+    50462,
+    50871,
+    50961,
+    51053,
+    51094,
+    51663,
+    52033,
+    52045,
+    52144,
+    52157,
+    52160,
+    52180,
+    52191,
+    52209,
+    52211,
+    52222,
+    52230,
+    52231,
+    52247,
+    52496,
+    52567,
+    52583,
+    52592,
+    52641,
+    52655,
+    52657,
+    52658,
+    52660,
+    52661,
+    52662,
+    52663,
+    52664,
+    52668,
+    52726,
+    52865,
+    52902,
+    52925,
+    52954,
+    53015,
+    53110,
+    53249,
+    54081,
+    54742,
+    54748,
+    55009,
+    55840,
+    55900,
+    55901,
+    55926,
+    55927,
+    55942,
+    55954,
+    56322,
+    56360,
+    56396,
+    56461,
+    56471,
+    56491,
+    56513,
+    56517,
+    56519,
+    56523,
+    56532,
+    56538,
+    56551,
+    56555,
+    56559,
+    56711,
+    56715,
+    56743,
+    56745,
+    56746,
+    56748,
+    56751,
+    56765,
+    56771,
+    56772,
+    56792,
+    56809,
+    56810,
+    56812,
+    56813,
+    56826,
+    56828,
+    56830,
+    56995,
+    57057,
+    57059,
+    57130,
+    57316,
+    57705,
+    57832,
+    58053,
+    58054,
+    58055,
+    58056,
+    58165,
+    58438,
+    58440,
+    58444,
+    58512,
+    58516,
+    58520,
+    58525,
+    58526,
+    58527,
+    58528,
+    58529,
+    58540,
+    58570,
+    58571,
+    58572,
+    58999,
+    59005,
+    59101,
+    59118,
+    59151,
+    59153,
+    59156,
+    59161,
+    59220,
+    59359,
+    59363,
+    59364,
+    59365,
+    59366,
+    59367,
+    59368,
+    59371,
+    59374,
+    59386,
+    59387,
+    59390,
+    59391,
+    59392,
+    59393,
+    59395,
+    59417,
+    59418,
+    59420,
+    59421,
+    59422,
+    59424,
+    59442,
+    59776,
+    59958,
+    60064,
+    60093,
+    60444,
+    60574,
+    60575,
+    60596,
+    60605,
+    60827,
+    60958,
+    60959,
+    60978,
+    60988,
+    61257,
+    61262,
+    61263,
+    61326,
+    61408,
+    61437,
+    61447,
+    61466,
+    61470,
+    61521,
+    61523,
+    61552,
+    61564,
+    61565,
+    61566,
+    61572,
+    61574,
+    61631,
+    61633,
+    61640,
+    61665,
+    61669,
+    61670,
+    61744,
+    61782,
+    61803,
+    61850,
+    61853,
+    62085,
+    62093,
+    62133,
+    62136,
+    62173,
+    62179,
+    62190,
+    62248,
+    62263,
+    62265,
+    62430,
+    62459,
+    62544,
+    62547,
+    62640,
+    62731,
+    62736,
+    62757,
+    62758,
+    62765,
+    62766,
+    62775,
+    62873,
+    62877,
+    62897,
+    62915,
+    62988,
+    63015,
+    63016,
+    63041,
+    63055,
+    63077,
+    63270,
+    63390,
+    63398,
+    63413,
+    63431,
+    63530,
+    63531,
+    63578,
+    63603,
+    63604,
+    63619,
+    63625,
+    63656,
+    63757,
+    63780,
+    63781,
+    63830,
+    63833,
+    63895,
+    63896,
+    63990,
+    64059,
+    64073,
+    64119,
+    64154,
+    64158,
+    64159,
+    64160,
+    64162,
+    64163,
+    64164,
+    64165,
+    64199,
+    64200,
+    64212,
+    64220,
+    64235,
+    64239,
+    64307,
+    64326,
+    64360,
+    64403,
+    64495,
+    64508,
+    64610,
+    64630,
+    64659,
+    64660,
+    64665,
+    64667,
+    64669,
+    64687,
+    64710,
+    64719,
+    64797,
+    64802,
+    64805,
+    64840,
+    64856,
+    64871,
+    64873,
+    64878,
+    64893,
+    64903,
+    64953,
+    64999,
+    65012,
+    65029,
+    65041,
+    65049,
+    65091,
+    65148,
+    65174,
+    65177,
+    65178,
+    65216,
+    65217,
+    65268,
+    65344,
+    65349,
+    65352,
+    65353,
+    65453,
+    65516,
+    65551,
+    65660,
+    65702,
+    65704,
+    65761,
+    65769,
+    65770,
+    65771,
+    65902,
+    65905,
+    65998,
+    66015,
+    66057,
+    66099,
+    66115,
+    66137,
+    66177,
+    66179,
+    66180,
+    66184,
+    66186,
+    66187,
+    66203,
+    66353,
+    66411,
+    66454,
+    66507,
+    66511,
+    66516,
+    66519,
+    66526,
+    66537,
+    66619,
+    66642,
+    66657,
+    66658,
+    66766,
+    66872,
+    66890,
+    66973,
+    66974,
+    66975,
+    66976,
+    66977,
+    66978,
+    66979,
+    66980,
+    66983,
+    67028,
+    67124,
+    67133,
+    67209,
+    67216,
+    67222,
+    67223,
+    67255,
+    67281,
+    67287,
+    67305,
+    67381,
+    67430,
+    67556,
+    67683,
+    67693,
+    67705,
+    67712,
+    67878,
+    67884,
+    67897,
+    67959,
+    68004,
+    68053,
+    68121,
+    68122,
+    68126,
+    68233,
+    68241,
+    68255,
+    69053,
+    69054,
+    69142,
+    69196,
+    69263,
+    69268,
+    69279,
+    69294,
+    69326,
+    69401,
+    69420,
+    69667,
+    69870,
+    70558,
+    70655,
+    70656,
+    70658,
+    70665,
+    70711,
+    70758,
+    70995,
+    71022,
+    71023,
+    71029,
+    71128,
+    71332,
+    71359,
+    71784,
+    71799,
+    71882,
+    71947,
+    72151,
+    72191,
+    72478,
+    72572,
+    72590,
+    72594,
+    72651,
+    72652,
+    72713,
+    72783,
+    72841,
+    72864,
+    72976,
+    73079,
+    73361,
+    73389,
+    73430,
+    73754,
+    73857,
+    73872,
+    73948,
+    74301,
+    74425,
+    74720,
+    74820,
+    75301,
+    75697,
+    75721,
+    75722,
+    75726,
+    75728,
+    75732,
+    75876,
+    75877,
+    75879,
+    75899,
+    76450,
+    76599,
+    76729,
+    76907,
+    76979,
+    77030,
+    77042,
+    77087,
+    77202,
+    77256,
+    77420,
+    77445,
+    77475,
+    77506,
+    77514,
+    77674,
+    77780,
+    77958,
+    78060,
+    78107,
+    78222,
+    78264,
+    78265,
+    78277,
+    78298,
+    78421,
+    78423,
+    78496,
+    78524,
+    78561,
+    78566,
+    78580,
+    78626,
+    78719,
+    78795,
+    78825,
+    78964,
+    79069,
+    79138,
+    79228,
+    79238,
+    79327,
+    79343,
+    79344,
+    79347,
+    79348,
+    79349,
+    79353,
+    79415,
+    79453,
+    79478,
+    79661,
+    79687,
+    79744,
+    79836,
+    79858,
+    79928,
+    79937,
+    80134,
+    80267,
+    80268,
+    80282,
+    80464,
+    80577,
+    80684,
+    81120,
+    81336,
+    81358,
+    81411,
+    81473,
+    81501,
+    81580,
+    82139,
+    82260,
+    82269,
+    82271,
+    82515,
+    82822,
+    83394,
+    83428,
+    83447,
+    83453,
+    83473,
+    84124,
+    84317,
+    84412,
+    84774,
+    85328,
+    85429,
+    85508,
+    85512,
+    85547,
+    85661,
+    85846,
+    85916,
+    87815,
+    88894,
+    90656,
+    90935,
+    91387,
+    91392,
+    91642,
+    91692,
+    91788,
+    91801,
+    91925,
+    91926,
+    92065,
+    92108,
+    92254,
+    92368,
+    92409,
+    92699,
+    92750,
+    92809,
+    93515,
+    93534,
+    93561,
+    93563,
+    94126,
+    94205,
+    94359,
+    94628,
+    94714,
+    94905,
+    95069,
+    95478,
+    95508,
+    95509,
+    96368,
+    97338,
+    97875,
+    97877,
+    97879,
+    98205,
+    98244,
+    98269,
+    98274,
+    98294,
+    98463,
+    98665,
+    98668,
+    98808,
+    99584,
+    100261,
+    104734,
+    104982,
+    106040,
+    106041,
+    106640,
+    107619,
+    107620,
+    107624,
+    107629,
+    108169,
+    108180,
+    108744,
+    108750,
+    108832,
+    109082,
+    109113,
+    111904,
+    112090,
+    112183,
+    112542,
+    112547,
+    112548,
+    112551,
+    112560,
+    112565,
+    115274,
+    116560,
+    118466,
+    118550,
+    118688,
+    118720,
+    118835,
+    118892,
+    118912,
+    118914,
+    118918,
+    120513,
+    122222,
+    122223,
+    122571,
+    123274,
+    123292,
+    123396,
+    124264,
+    124289,
+    124635,
+    124641,
+    124642,
+    124695,
+    125057,
+    125290,
+    125421,
+    125459,
+    125461,
+    125741,
+    126270,
+    126271,
+    126272,
+    127143,
+    127487,
+    127496,
+    127796,
+    128192,
+    128364,
+    128379,
+    129998,
+    130009,
+    130028,
+    130337,
+    130468,
+    130557,
+    130709,
+    130710,
+    130774,
+    131302,
+    131995,
+    132070,
+    132071,
+    132101,
+    132144,
+    133491,
+    133823,
+    134329,
+    135074,
+    135648,
+    135856,
+    135902,
+    136445,
+    136446,
+    136448,
+    136449,
+    136474,
+    136525,
+    136533,
+    136685,
+    136855,
+    137003,
+    137025,
+    137090,
+    137108,
+    137171,
+    137395,
+    137420,
+    138249,
+    138301,
+    138650,
+    138685,
+    138805,
+    138806,
+    138823,
+    138825,
+    138838,
+    138925,
+    138930,
+    138957,
+    138960,
+    138970,
+    138987,
+    138988,
+    138995,
+    138996,
+    139109,
+    139117,
+    139118,
+    139119,
+    139247,
+    139450,
+    139542,
+    139543,
+    139544,
+    139545,
+    139548,
+    139549,
+    139550,
+    139551,
+    139552,
+    139553,
+    139555,
+    139556,
+    139557,
+    139558,
+    139559,
+    139560,
+    139561,
+    139562,
+    139563,
+    140020,
+    140026,
+    140104,
+    140114,
+    140284,
+    140324,
+    140329,
+    140330,
+    140331,
+    140332,
+    140333,
+    140334,
+    140335,
+    140336,
+    140337,
+    140338,
+    140339,
+    140340,
+    140341,
+    140342,
+    140343,
+    140344,
+    140345,
+    140346,
+    140347,
+    140348,
+    140349,
+    140350,
+    140351,
+    140658,
+    140684,
+    140757,
+    140785,
+    140854,
+    141285,
+    141504,
+    142738,
+    142739,
+    142744,
+    142826,
+    143655,
+    143657,
+    143668,
+    143674,
+    144531,
+    145007,
+    145289,
+    145397,
+    145399,
+    145556,
+    145724,
+    145725,
+    146559,
+    146560,
+    146570,
+    146602,
+    146620,
+    146664,
+    147194,
+    147200,
+    147505,
+    147807,
+    148204,
+    148657,
+    148731,
+    150117,
+    151843,
+    152384,
+    153169,
+    153767,
+    153828,
+    159110,
+    159214,
+    163342,
+    165156,
+    165282,
+    165594,
+    166161,
+    166320,
+    166364,
+    166365,
+    166389,
+    166450,
+    166556,
+    166560,
+    166561,
+    166562,
+    166563,
+    166567,
+    166583,
+    166591,
+    170790,
+    171827,
+    171828,
+    171829,
+    171830,
+    171832,
+    171885,
+    172737,
+    175654,
+    177934,
+    178158,
+    178243,
+    178334,
+    178348,
+    178408,
+    178409,
+    178410,
+    178411,
+    179382,
+    181498,
+    181518,
+    181949,
+    186074,
+    191477,
+    191478,
+    191690,
+    191991,
+    192133,
+    193315,
+    193361,
+    193724,
+    194276,
+    194712,
+    194817,
+    194933,
+    195856,
+    195868,
+    196027,
+    196213,
+    196507,
+    196714,
+    196715,
+    196716,
+    196717,
+    196855,
+    197660,
+    197859,
+    197931,
+    197947,
+    197973,
+    198124,
+    198249,
+    198550,
+    199995,
+    200423,
+    200661,
+    200798,
+    200897,
+    201080,
+    202072,
+    202074,
+    202100,
+    202159,
+    202163,
+    202185,
+    202596,
+    202597,
+    202612,
+    202954,
+    203013,
+    203017,
+    203020,
+    203021,
+    203023,
+    203025,
+    203027,
+    203028,
+    203029,
+    203030,
+    203032,
+    203033,
+    203039,
+    203040,
+    203054,
+    203057,
+    203065,
+    203067,
+    203068,
+    203072,
+    203078,
+    203080,
+    203081,
+    203082,
+    203119,
+    203126,
+    203127,
+    203128,
+    203180,
+    203233,
+    203266,
+    203327,
+    203397,
+    203398,
+    203548,
+    203813,
+    203825,
+    204481,
+    205640,
+    205715,
+    205772,
+    206024,
+    206308,
+    206311,
+    206490,
+    206524,
+    206831,
+    206899,
+    207129,
+    208754,
+    208794,
+    209157,
+    209178,
+    209318,
+    209498,
+    209561,
+    209563,
+    209583,
+    209820,
+    209920,
+    209921,
+    209922,
+    209923,
+    210009,
+    210032,
+    210110,
+    210172,
+    210274,
+    213552,
+    213604,
+    213692,
+    213834,
+    213835,
+    213845,
+    213875,
+    213878,
+    213910,
+    213913,
+    213916,
+    214227,
+    214456,
+    214560,
+    214562,
+    214654,
+    214656,
+    214798,
+    214800,
+    214802,
+    214806,
+    216009,
+    216565,
+    216566,
+    216567,
+    216568,
+    216569,
+    217761,
+    217765,
+    217767,
+    218377,
+    218381,
+    218485,
+    218505,
+    218513,
+    218641,
+    218642,
+    218781,
+    218782,
+    218784,
+    218785,
+    218802,
+    218803,
+    218950,
+    218952,
+    218955,
+    218956,
+    218960,
+    218962,
+    219130,
+    219134,
+    219135,
+    219136,
+    219137,
+    219138,
+    219139,
+    219140,
+    219154,
+    219155,
+    220149,
+    220573,
+    220575,
+    220947,
+    220955,
+    220972,
+    220976,
+    220978,
+    221013,
+    221016,
+    221221,
+    221321,
+    221323,
+    221324,
+    221325,
+    221451,
+    221452,
+    221456,
+    221458,
+    221617,
+    221826,
+    221832,
+    221885,
+    221886,
+    221887,
+    221889,
+    221952,
+    221956,
+    222117,
+    222119,
+    222120,
+    222552,
+    222553,
+    222556,
+    222559,
+    222624,
+    222628,
+    222630,
+    222632,
+    222634,
+    222635,
+    222637,
+    222775,
+    224447,
+    224448,
+    228065,
+    228170,
+    228708,
+    229448,
+    229449,
+    229451,
+    229582,
+    229583,
+    229584,
+    229585,
+    229816,
+    230226,
+    231099,
+    232811,
+    232881,
+    234973,
+    238666,
+    240067,
+    240278,
+    240284,
+    240465,
+    240912,
+    240913,
+    240915,
+    241252,
+    241253,
+    241254,
+    241429,
+    241761,
+    242651,
+    243129,
+    243130,
+    243204,
+    243224,
+    243451,
+    243819,
+    244002,
+    246063,
+    246065,
+    246216,
+    246247,
+    247400,
+    247509,
+    247571,
+    248218,
+    248508,
+    248531,
+    248535,
+    248548,
+    248562,
+    248790,
+    249049,
+    249526,
+    252800,
+    253495,
+    254333,
+    255105,
+    255516,
+    256368,
+    256515,
+    257763,
+    257855,
+    259254,
+    259483,
+    259485,
+    262445,
+    262494,
+    263446,
+    263958,
+    268531,
+    268669,
+    268861,
+    269079,
+    269174,
+    269175,
+    269421,
+    269422,
+    269431,
+    269432,
+    269433,
+    269434,
+    269435,
+    269442,
+    269486,
+    269487,
+    269492,
+    269493,
+    269494,
+    269498,
+    269508,
+    269514,
+    269515,
+    269516,
+    269517,
+    269519,
+    269520,
+    269522,
+    269526,
+    269527,
+    270148,
+    270434,
+    270672,
+    272080,
+    272082,
+    272083,
+    272084,
+    272535,
+    272670,
+    273833,
+    274649,
+    278826,
+    278827,
+    278831,
+    279207,
+    279589,
+    279592,
+    279834,
+    280740,
+    280746,
+    280768,
+    280792,
+    281079,
+    281099,
+    281680,
+    281681,
+    281843,
+    281852,
+    282567,
+    282725,
+    282727,
+    283093,
+    284036,
+    284159,
+    284392,
+    284434,
+    285988,
+    286362,
+    286580,
+    287434,
+    287903,
+    288348,
+    288349,
+    290165,
+    290243,
+    291010,
+    291918,
+    292074,
+    292119,
+    293326,
+    294698,
+    294733,
+    294734,
+    295596,
+    298844,
+    298863,
+    299030,
+    301516,
+    304400,
+    305746,
+    305775,
+    305798,
+    307121,
+    307127,
+    307175,
+    307184,
+    307319,
+    308405,
+    308977,
+    309008,
+    309009,
+    309582,
+    309607,
+    310635,
+    311954,
+    312229,
+    312230,
+    312350,
+    313994,
+    313995,
+    313996,
+    314652,
+    315719,
+    316812,
+    317067,
+    317482,
+    319035,
+    319095,
+    320501,
+    320649,
+    321466,
+    322811,
+    322817,
+    324676,
+    324824,
+    324825,
+    324826,
+    324827,
+    324828,
+    324829,
+    324830,
+    324831,
+    326866,
+    327156,
+    327491,
+    327850,
+    329386,
+    329631,
+    329632,
+    329633,
+    329634,
+    329635,
+    329636,
+    329637,
+    329638,
+    329639,
+    329640,
+    329641,
+    330579,
+    333556,
+    334214,
+    335729,
+    336268,
+    336387,
+    336509,
+    337723,
+    339021,
+    339691,
+    340011,
+    340209,
+    340532,
+    340811,
+    341961,
+    343156,
+    343702,
+    343909,
+    345819,
+    346144,
+    346150,
+    346936,
+    347157,
+    349855,
+    349952,
+    350188,
+    350298,
+    350708,
+    351072,
+    351694,
+    352509,
+    352787,
+    354719,
+    354912,
+    354922,
+    354924,
+    356101,
+    357102,
+    357103,
+    357109,
+    358374,
+    358630,
+    360205,
+    360213,
+    360723,
+    360818,
+    361283,
+    361388,
+    363956,
+    363966,
+    364376,
+    368919,
+    369122,
+    369405,
+    369847,
+    369848,
+    370145,
+    376529,
+    376643,
+    376994,
+    376996,
+    377545,
+    377559,
+    377897,
+    377944,
+    377947,
+    377995,
+    378093,
+    378567,
+    379905,
+    379925,
+    381889,
+    382247,
+    382540,
+    382542,
+    382558,
+    382559,
+    383242,
+    383718,
+    384496,
+    384658,
+    384769,
+    384780,
+    384782,
+    384942,
+    385927,
+    385963,
+    386064,
+    386088,
+    386095,
+    386096,
+    386954,
+    387132,
+    387137,
+    387439,
+    388561,
+    392768,
+    394050,
+    394051,
+    394402,
+    395080,
+    396592,
+    396680,
+    396773,
+    397263,
+    397372,
+    397736,
+    397896,
+    398002,
+    398475,
+    398954,
+    399392,
+    399882,
+    402735,
+    402737,
+    402740,
+    402745,
+    402748,
+    402750,
+    402918,
+    403516,
+    404508,
+    405191,
+    408266,
+    408268,
+    410166,
+    410167,
+    412865,
+    413068,
+    413666,
+    413747
+  ],
+  "summary": {
+    "games": 3168,
+    "mapped_serials": 1962,
+    "unresolved_serials": 1060,
+    "downloaded": 3168,
+    "failed": 0
+  },
+  "download_failures": [],
+  "small_images": []
+}
