@@ -2,11 +2,11 @@
   "schema_version": 1,
   "platform": "Sony PlayStation Portable",
   "image_size": "1080p",
-  "generated_at": "2026-10-12T08:12:44.898563+00:00",
+  "generated_at": "2026-10-12T08:43:30.271605+00:00",
   "sources": {
     "catalog_sha256": "7e9410b40e97e50cd8a5f56dc479f50ee4cefeca8c6ea19d60fd01814a9a8167",
     "titles_sha256": "8bf315ee67710ab1bc0640453535a1a4ab75f598c4d39a7d91284f25be25ec53",
-    "overrides_sha256": "770a2c8b863d55ffbc6b9c634d004379e806e7bbde776ef58ed2425c373f73ec"
+    "overrides_sha256": "a58d966a3d36b0e737c73c14ba6099318abfaaf900639df952765d03de1e5155"
   },
   "games": {
     "138": {
@@ -305,7 +305,10 @@
       "name": "Final Fantasy Tactics: The War of the Lions",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pn8.jpg",
       "serials": [
+        "UCKS45058",
         "ULES00850",
+        "ULJM05194",
+        "ULJM05516",
         "ULUS10297"
       ],
       "status": "downloaded",
@@ -481,7 +484,8 @@
         "UCES01401",
         "UCES01473",
         "UCKS45161",
-        "UCUS98737"
+        "UCUS98737",
+        "ULJM05438"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co3dio.jpg",
@@ -501,9 +505,11 @@
         "UCED00970",
         "UCES00842",
         "UCET00844",
+        "UCJS10114",
         "UCKS45084",
         "UCKS45155",
-        "UCUS98653"
+        "UCUS98653",
+        "UCUS98705"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co3dip.jpg",
@@ -1810,6 +1816,8 @@
         "UCAS40145",
         "UCES00420",
         "UCET00751",
+        "UCJP00103",
+        "UCJS10052",
         "UCUS98633",
         "UCUS98684",
         "UCUS98695"
@@ -2218,6 +2226,7 @@
       "name": "Dragon Ball Z: Shin Budokai - Another Road",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hsm.jpg",
       "serials": [
+        "ULES00789",
         "ULUS10234"
       ],
       "status": "downloaded",
@@ -2233,7 +2242,11 @@
       "igdb_id": 2571,
       "name": "Dragonball Evolution: The Game",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tsf.jpg",
-      "serials": [],
+      "serials": [
+        "UCAS40256",
+        "ULES01227",
+        "ULUS10415"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co3tsf.jpg",
       "path": "covers/2571.jpg",
@@ -2896,7 +2909,11 @@
       "igdb_id": 3669,
       "name": "Shrek the Third",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p09.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00812",
+        "ULES00813",
+        "ULUS10248"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co1p09.jpg",
       "path": "covers/3669.jpg",
@@ -2939,12 +2956,7 @@
       "name": "Ape Escape",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gzc.jpg",
       "serials": [
-        "UCAS40090",
-        "UCES00045",
-        "UCJP00003",
-        "UCJS10004",
-        "UCJS18006",
-        "UCJX90029"
+        "UCES00045"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2gzc.jpg",
@@ -3516,8 +3528,10 @@
       "name": "Lumines",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53gv.jpg",
       "serials": [
+        "ULES00043",
         "ULJS00005",
-        "ULJS19005"
+        "ULJS19005",
+        "ULUS10002"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co53gv.jpg",
@@ -3886,6 +3900,9 @@
       "serials": [
         "ULES00950",
         "ULES00951",
+        "ULES00952",
+        "ULES00953",
+        "ULES00954",
         "ULUS10315"
       ],
       "status": "downloaded",
@@ -4296,7 +4313,10 @@
       "igdb_id": 5092,
       "name": "PDC World Championship Darts 2008",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co727n.jpg",
-      "serials": [],
+      "serials": [
+        "ULES01096",
+        "ULUS10386"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co727n.jpg",
       "path": "covers/5092.jpg",
@@ -4324,7 +4344,10 @@
       "igdb_id": 5098,
       "name": "Pimp My Ride",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nsz.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00960",
+        "ULUS10256"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2nsz.jpg",
       "path": "covers/5098.jpg",
@@ -4355,7 +4378,10 @@
       "name": "Pirates of the Caribbean: At World's End",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9143.jpg",
       "serials": [
-        "ULES00373"
+        "ULES00373",
+        "ULES00727",
+        "ULES00728",
+        "ULUS10252"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co9143.jpg",
@@ -4370,7 +4396,11 @@
       "igdb_id": 5111,
       "name": "Puyo Puyo! 15th Anniversary",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hfy.jpg",
-      "serials": [],
+      "serials": [
+        "ULAS42098",
+        "ULJM05177",
+        "ULJM05342"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2hfy.jpg",
       "path": "covers/5111.jpg",
@@ -4601,7 +4631,10 @@
       "igdb_id": 5288,
       "name": "World Series of Poker: Tournament of Champions",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72hh.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00591",
+        "ULUS10162"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co72hh.jpg",
       "path": "covers/5288.jpg",
@@ -4871,7 +4904,9 @@
       "name": "Championship Manager 2006",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70q0.jpg",
       "serials": [
-        "ULES00330"
+        "ULES00330",
+        "ULES00331",
+        "ULES00332"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co70q0.jpg",
@@ -4987,7 +5022,10 @@
       "igdb_id": 5944,
       "name": "NASCAR 07",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co726x.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00457",
+        "ULUS10122"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co726x.jpg",
       "path": "covers/5944.jpg",
@@ -5270,6 +5308,8 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hix.jpg",
       "serials": [
         "ULES00339",
+        "ULJS00033",
+        "ULJS19009",
         "ULUS10094"
       ],
       "status": "downloaded",
@@ -5449,7 +5489,10 @@
       "igdb_id": 6865,
       "name": "Puyo Puyo!! 20th Anniversary",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hgt.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05964",
+        "ULJM06212"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2hgt.jpg",
       "path": "covers/6865.jpg",
@@ -5687,6 +5730,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co723j.jpg",
       "serials": [
         "ULES01316",
+        "ULES01317",
         "ULUS10476"
       ],
       "status": "downloaded",
@@ -5909,7 +5953,14 @@
       "igdb_id": 7225,
       "name": "UEFA Champions League 2006вЂ“2007",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocck9.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00699",
+        "ULES00706",
+        "ULES00707",
+        "ULES00708",
+        "ULES00709",
+        "ULUS10221"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/cocck9.jpg",
       "path": "covers/7225.jpg",
@@ -5923,7 +5974,11 @@
       "igdb_id": 7226,
       "name": "UEFA Euro 2008",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2076.jpg",
-      "serials": [],
+      "serials": [
+        "ULES01025",
+        "ULES01038",
+        "ULUS10337"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2076.jpg",
       "path": "covers/7226.jpg",
@@ -6507,6 +6562,11 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dzx.jpg",
       "serials": [
         "UCES01177",
+        "UCJS10089",
+        "UCJS18036",
+        "UCJS18053",
+        "UCJS90028",
+        "UCKS45135",
         "UCUS98732"
       ],
       "status": "downloaded",
@@ -6587,6 +6647,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2e7z.jpg",
       "serials": [
         "ULES00571",
+        "ULES00572",
         "ULES00573",
         "ULUS10168"
       ],
@@ -7167,6 +7228,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25gm.jpg",
       "serials": [
         "ULES00627",
+        "ULES00628",
         "ULJM05123",
         "ULJM05579",
         "ULUS10228"
@@ -7613,6 +7675,8 @@
       "name": "Persona 3 Portable",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1n1z.jpg",
       "serials": [
+        "UCKS45140",
+        "UCKS45175",
         "ULES01523",
         "ULJM05489",
         "ULJM08044",
@@ -7957,7 +8021,10 @@
       "igdb_id": 11846,
       "name": "Puella Magi Madoka Magica Portable",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wiq.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00429",
+        "ULJS00430"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co1wiq.jpg",
       "path": "covers/11846.jpg",
@@ -8961,7 +9028,10 @@
       "igdb_id": 16665,
       "name": "The Legend of Heroes: Trails in the Sky SC",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co74em.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05277",
+        "ULJM05278"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co74em.jpg",
       "path": "covers/16665.jpg",
@@ -9113,7 +9183,8 @@
         "UCES01011",
         "UCJP00139",
         "UCJS10081",
-        "UCJS18028"
+        "UCJS18028",
+        "UCKS45082"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2c65.jpg",
@@ -10531,6 +10602,7 @@
       "name": "Sega Genesis Collection",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2f5m.jpg",
       "serials": [
+        "ULES00556",
         "ULUS10192"
       ],
       "status": "downloaded",
@@ -11194,7 +11266,9 @@
       "igdb_id": 21313,
       "name": "Growlanser IV: Wayfarer of the Time",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2no3.jpg",
-      "serials": [],
+      "serials": [
+        "ULUS10593"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2no3.jpg",
       "path": "covers/21313.jpg",
@@ -11725,6 +11799,8 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ybu.jpg",
       "serials": [
         "ULES01521",
+        "ULJM05855",
+        "ULJM06122",
         "ULUS10560"
       ],
       "status": "downloaded",
@@ -11890,6 +11966,8 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t6b.jpg",
       "serials": [
         "ULES00841",
+        "ULJM05287",
+        "ULJM05548",
         "ULKS46155",
         "ULUS10277"
       ],
@@ -12161,7 +12239,9 @@
       "name": "Virtua Tennis: World Tour",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5k1a.jpg",
       "serials": [
+        "ULAS42038",
         "ULES00126",
+        "ULJM05079",
         "ULKS46023",
         "ULUS10037"
       ],
@@ -12265,6 +12345,9 @@
       "serials": [
         "ULES00198",
         "ULES00199",
+        "ULES00200",
+        "ULES00201",
+        "ULES00202",
         "ULUS10038"
       ],
       "status": "downloaded",
@@ -12621,6 +12704,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b4l.jpg",
       "serials": [
         "UCES01184",
+        "UCJP00174",
         "UCUS98668"
       ],
       "status": "downloaded",
@@ -13445,7 +13529,11 @@
       "igdb_id": 24080,
       "name": "Utawarerumono",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hgg.jpg",
-      "serials": [],
+      "serials": [
+        "UCAS40254",
+        "ULJM05457",
+        "ULJM05458"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4hgg.jpg",
       "path": "covers/24080.jpg",
@@ -13508,6 +13596,7 @@
       "serials": [
         "UCES00038",
         "UCET00222",
+        "UCJS10102",
         "UCKS45021",
         "UCKS45061",
         "UCUS98615",
@@ -13606,6 +13695,7 @@
       "serials": [
         "ULES00820",
         "ULJM05013",
+        "ULKS46013",
         "ULUS10075"
       ],
       "status": "downloaded",
@@ -13643,6 +13733,7 @@
       "name": "Dragoneer's Aria",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobe8a.jpg",
       "serials": [
+        "UCAS40162",
         "UCAS40224",
         "ULES01004",
         "ULUS10291"
@@ -14000,6 +14091,7 @@
       "serials": [
         "UCED00150",
         "UCES00019",
+        "UCKS45016",
         "UCUS98640",
         "UCUS98655"
       ],
@@ -14575,7 +14667,10 @@
       "igdb_id": 38451,
       "name": "Mahou Shoujo Nanoha A's Portable: The Gears of Destiny",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4uv1.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00384",
+        "ULJS00385"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4uv1.jpg",
       "path": "covers/38451.jpg",
@@ -14780,7 +14875,9 @@
       "igdb_id": 38466,
       "name": "Valkyria Chronicles 3: Extra Edition",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72gs.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05957"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co72gs.jpg",
       "path": "covers/38466.jpg",
@@ -15060,7 +15157,9 @@
       "igdb_id": 38486,
       "name": "Way of the Samurai Portable",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6vdx.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00155"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co6vdx.jpg",
       "path": "covers/38486.jpg",
@@ -15562,7 +15661,9 @@
       "igdb_id": 42689,
       "name": "Vulcanus Seek and Destroy",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yua.jpg",
-      "serials": [],
+      "serials": [
+        "UCKS45006"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co7yua.jpg",
       "path": "covers/42689.jpg",
@@ -15924,6 +16025,11 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2x7s.jpg",
       "serials": [
         "ULAS42054",
+        "ULES00394",
+        "ULES00397",
+        "ULES00398",
+        "ULES00399",
+        "ULES00400",
         "ULUS10098"
       ],
       "status": "downloaded",
@@ -16710,7 +16816,8 @@
       "name": "White Knight Chronicles: Origins",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2o07.jpg",
       "serials": [
-        "UCES01511"
+        "UCES01511",
+        "UCJS10115"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2o07.jpg",
@@ -17513,6 +17620,8 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1png.jpg",
       "serials": [
         "UCAS40018",
+        "UCES00178",
+        "UCET00247",
         "UCJM95402",
         "UCJS10010",
         "UCKS45011",
@@ -17583,6 +17692,7 @@
       "name": "Gungnir",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hjd.jpg",
       "serials": [
+        "ULJM05779",
         "ULUS10592"
       ],
       "status": "downloaded",
@@ -17620,6 +17730,8 @@
         "ULES00605",
         "ULES00606",
         "ULJM08020",
+        "ULKS46084",
+        "ULKS46130",
         "ULUS10170"
       ],
       "status": "downloaded",
@@ -17859,7 +17971,9 @@
       "igdb_id": 43404,
       "name": "Neon Genesis Evangelion: Battle Orchestra",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wlf.jpg",
-      "serials": [],
+      "serials": [
+        "UCAS40269"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2wlf.jpg",
       "path": "covers/43404.jpg",
@@ -19116,6 +19230,7 @@
       "name": "Spectral Souls: Resurrection of the Ethereal Empires",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nyf.jpg",
       "serials": [
+        "UCAS40027",
         "ULUS10076"
       ],
       "status": "downloaded",
@@ -19132,6 +19247,7 @@
       "name": "PixelJunk Monsters Deluxe",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nyw.jpg",
       "serials": [
+        "UCAS40261",
         "UCUS98739"
       ],
       "status": "downloaded",
@@ -19242,6 +19358,12 @@
       "name": "Ape Escape: On the Loose",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co51kp.jpg",
       "serials": [
+        "UCAS40090",
+        "UCJP00003",
+        "UCJS10004",
+        "UCJS18006",
+        "UCJX90029",
+        "UCKS45009",
         "UCUS98609"
       ],
       "status": "downloaded",
@@ -19286,7 +19408,8 @@
       "name": "Pro Yakyuu Spirits 2012",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co96d4.jpg",
       "serials": [
-        "ULJM06012"
+        "ULJM06012",
+        "ULKS46281"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co96d4.jpg",
@@ -19403,7 +19526,8 @@
       "name": "Who Wants to Be a Millionaire: Party Edition",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ohv.jpg",
       "serials": [
-        "ULES00540"
+        "ULES00540",
+        "ULES00712"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2ohv.jpg",
@@ -19433,7 +19557,8 @@
       "name": "Pro Yakyuu Spirits 2010",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co96d5.jpg",
       "serials": [
-        "ULJM05631"
+        "ULJM05631",
+        "ULKS46249"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co96d5.jpg",
@@ -20792,7 +20917,10 @@
       "igdb_id": 45999,
       "name": "Mawaskes",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co724e.jpg",
-      "serials": [],
+      "serials": [
+        "UCAS40158",
+        "ULES01104"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co724e.jpg",
       "path": "covers/45999.jpg",
@@ -20907,6 +21035,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pt0.jpg",
       "serials": [
         "ULES00358",
+        "ULES00806",
         "ULUS10046"
       ],
       "status": "downloaded",
@@ -20923,7 +21052,8 @@
       "name": "The Eye of Judgment: Legends",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1psz.jpg",
       "serials": [
-        "UCES01334"
+        "UCES01334",
+        "UCJP90030"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co1psz.jpg",
@@ -21752,7 +21882,9 @@
       "igdb_id": 52668,
       "name": "Phineas and Ferb: Across the Second Dimension",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3us0.jpg",
-      "serials": [],
+      "serials": [
+        "UCES01564"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co3us0.jpg",
       "path": "covers/52668.jpg",
@@ -22249,7 +22381,9 @@
       "igdb_id": 56491,
       "name": "Boku ha Tomodachi ga Sukunai Portable",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4idq.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00459"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4idq.jpg",
       "path": "covers/56491.jpg",
@@ -22853,7 +22987,9 @@
       "igdb_id": 56813,
       "name": "Jitsuroku Oniyome Nikki",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1prs.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05100"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co1prs.jpg",
       "path": "covers/56813.jpg",
@@ -22897,7 +23033,9 @@
       "igdb_id": 56828,
       "name": "Homestar Portable",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p6e.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05184"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4p6e.jpg",
       "path": "covers/56828.jpg",
@@ -23325,7 +23463,9 @@
       "igdb_id": 58571,
       "name": "Koibana Days",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5msp.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM06285"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co5msp.jpg",
       "path": "covers/58571.jpg",
@@ -23851,7 +23991,9 @@
       "igdb_id": 59395,
       "name": "Bomberman: Bakufuu Sentai Bomberman",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70pn.jpg",
-      "serials": [],
+      "serials": [
+        "UCJS10030"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co70pn.jpg",
       "path": "covers/59395.jpg",
@@ -25163,7 +25305,9 @@
       "igdb_id": 62766,
       "name": "J.League Pro Soccer Club wo Tsukurou! 6: Pride of J",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yrx.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05518"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co7yrx.jpg",
       "path": "covers/62766.jpg",
@@ -25319,7 +25463,10 @@
       "igdb_id": 63055,
       "name": "Kuroko no Basket: Kiseki no Game",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ch9.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00523",
+        "ULJS19097"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co6ch9.jpg",
       "path": "covers/63055.jpg",
@@ -25391,7 +25538,9 @@
       "igdb_id": 63398,
       "name": "Fairy Tail: Zeref's Awakening",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co71ge.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05955"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co71ge.jpg",
       "path": "covers/63398.jpg",
@@ -25584,7 +25733,10 @@
       "igdb_id": 63625,
       "name": "Kenka Bancho 5: Otoko no Hosoku",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1prh.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00359",
+        "ULJS19062"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co1prh.jpg",
       "path": "covers/63625.jpg",
@@ -26358,7 +26510,10 @@
       "igdb_id": 64710,
       "name": "AKB1/48: Idol to Guam to Koishitara...",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4auk.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00413",
+        "ULJS00414"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4auk.jpg",
       "path": "covers/64710.jpg",
@@ -26654,7 +26809,9 @@
       "igdb_id": 65012,
       "name": "J.League Pro Soccer Club wo Tsukurou! 7: Euro +",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yrw.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05898"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co7yrw.jpg",
       "path": "covers/65012.jpg",
@@ -26684,7 +26841,10 @@
       "igdb_id": 65029,
       "name": "Yarudora Series Vol. 2: Kisetsu wo Dakishimete",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7fwr.jpg",
-      "serials": [],
+      "serials": [
+        "UCAS40033",
+        "UCJS10013"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co7fwr.jpg",
       "path": "covers/65029.jpg",
@@ -26833,7 +26993,9 @@
       "igdb_id": 65216,
       "name": "Katekyou Hitman Reborn! Battle Arena 2: Spirit Burst",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yvd.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00218"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co7yvd.jpg",
       "path": "covers/65216.jpg",
@@ -27659,7 +27821,10 @@
       "igdb_id": 66526,
       "name": "Monster Hunter Diary: Poka-poka Airu Village",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7c5o.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05710",
+        "ULJM08039"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co7c5o.jpg",
       "path": "covers/66526.jpg",
@@ -28465,7 +28630,9 @@
       "igdb_id": 67897,
       "name": "Boku no Natsuyasumi 4",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2exd.jpg",
-      "serials": [],
+      "serials": [
+        "UCJS10095"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2exd.jpg",
       "path": "covers/67897.jpg",
@@ -28873,7 +29040,11 @@
       "igdb_id": 69401,
       "name": ".hack//Link",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nh7.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00266",
+        "ULJS00279",
+        "ULJS19058"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2nh7.jpg",
       "path": "covers/69401.jpg",
@@ -29547,6 +29718,7 @@
       "name": "Twelve : Legend of Sealed Gods during the Turbulent Age",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2imi.jpg",
       "serials": [
+        "ULJM05031",
         "ULJP00523"
       ],
       "status": "downloaded",
@@ -29896,7 +30068,9 @@
       "igdb_id": 75721,
       "name": "Mobile Suit Gundam AGE: Universe Accel",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nuk.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00475"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co8nuk.jpg",
       "path": "covers/75721.jpg",
@@ -30000,7 +30174,9 @@
       "igdb_id": 75879,
       "name": "Neon Genesis Evangelion: The Iron Maiden 2nd",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g3s.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05477"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2g3s.jpg",
       "path": "covers/75879.jpg",
@@ -30014,7 +30190,9 @@
       "igdb_id": 75899,
       "name": "Patlabor: Come Back Mini-Pato",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pp9.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00026"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co1pp9.jpg",
       "path": "covers/75899.jpg",
@@ -30698,7 +30876,9 @@
       "igdb_id": 78795,
       "name": "Pia Carrot e Youkoso!! G.P.",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yt3.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05464"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co7yt3.jpg",
       "path": "covers/78795.jpg",
@@ -30760,7 +30940,10 @@
       "igdb_id": 79069,
       "name": "Saru Getchu Saru Saru Daisakusen",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4mm2.jpg",
-      "serials": [],
+      "serials": [
+        "UCJS10060",
+        "UCJS18029"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4mm2.jpg",
       "path": "covers/79069.jpg",
@@ -30890,7 +31073,9 @@
       "igdb_id": 79348,
       "name": "Yarudora Series Vol. 4: Yukiwari no Hana",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6f1r.jpg",
-      "serials": [],
+      "serials": [
+        "UCJS10015"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co6f1r.jpg",
       "path": "covers/79348.jpg",
@@ -30904,7 +31089,9 @@
       "igdb_id": 79349,
       "name": "Yarudora Series Vol. 3: Sampaguita",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf9w.jpg",
-      "serials": [],
+      "serials": [
+        "UCAS40034"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/cobf9w.jpg",
       "path": "covers/79349.jpg",
@@ -30918,7 +31105,9 @@
       "igdb_id": 79353,
       "name": "Yarudora Series Vol. 1: Double Cast",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabyd.jpg",
-      "serials": [],
+      "serials": [
+        "UCAS40032"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/coabyd.jpg",
       "path": "covers/79353.jpg",
@@ -31499,6 +31688,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co521u.jpg",
       "serials": [
         "ULES00722",
+        "ULJS00108",
         "ULUS10223"
       ],
       "status": "downloaded",
@@ -33084,7 +33274,9 @@
       "igdb_id": 111904,
       "name": "Shin Master of Monsters Final EX",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co47y2.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00282"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co47y2.jpg",
       "path": "covers/111904.jpg",
@@ -33613,7 +33805,9 @@
       "igdb_id": 124635,
       "name": "Koori no Haka Ichiyanagi Nagomu, Sandome no Junan",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4mkf.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00247"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4mkf.jpg",
       "path": "covers/124635.jpg",
@@ -35763,6 +35957,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2oq9.jpg",
       "serials": [
         "ULES01409",
+        "ULJM05688",
         "ULUS10480"
       ],
       "status": "downloaded",
@@ -36080,7 +36275,9 @@
       "igdb_id": 146602,
       "name": "Mobile Train Simulator + Densha de Go!: Tokyo Kyuukou-hen",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2z3k.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05012"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2z3k.jpg",
       "path": "covers/146602.jpg",
@@ -37621,7 +37818,11 @@
       "igdb_id": 200897,
       "name": "Ys VI: The Ark of Napishtim",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5tx0.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00267",
+        "ULJM05009",
+        "ULUS10051"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co5tx0.jpg",
       "path": "covers/200897.jpg",
@@ -37683,7 +37884,8 @@
       "name": "Starry Sky: After Spring Portable",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rlp.jpg",
       "serials": [
-        "ULJM06207"
+        "ULJM06207",
+        "ULJM06227"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4rlp.jpg",
@@ -37726,7 +37928,10 @@
       "igdb_id": 202100,
       "name": "Avatar: The Last Airbender",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53xe.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00633",
+        "ULUS10165"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co53xe.jpg",
       "path": "covers/202100.jpg",
@@ -37858,7 +38063,8 @@
       "name": "Starry Sky: After Summer Portable",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co695i.jpg",
       "serials": [
-        "ULJM06208"
+        "ULJM06208",
+        "ULJM06255"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co695i.jpg",
@@ -38312,7 +38518,8 @@
       "name": "Starry Sky: After Autumn Portable",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4t3f.jpg",
       "serials": [
-        "ULJM06209"
+        "ULJM06209",
+        "ULJM06287"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co4t3f.jpg",
@@ -40226,7 +40433,14 @@
       "igdb_id": 220947,
       "name": "World Soccer Winning Eleven 9",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9clv.jpg",
-      "serials": [],
+      "serials": [
+        "ULAS42018",
+        "ULES00160",
+        "ULJM05033",
+        "ULJM08009",
+        "ULKS46024",
+        "ULUS10056"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co9clv.jpg",
       "path": "covers/220947.jpg",
@@ -40241,6 +40455,11 @@
       "name": "Winning Eleven: Pro Evolution Soccer 2007",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0nz.jpg",
       "serials": [
+        "ULAS42088",
+        "ULES00476",
+        "ULJM05132",
+        "ULJM08015",
+        "ULKS46120",
         "ULUS10169"
       ],
       "status": "downloaded",
@@ -40257,7 +40476,9 @@
       "name": "Pro Evolution Soccer 2008",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5w1a.jpg",
       "serials": [
-        "ULJM05270"
+        "ULES00880",
+        "ULJM05270",
+        "ULUS10320"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co5w1a.jpg",
@@ -40304,7 +40525,10 @@
       "igdb_id": 220972,
       "name": "Pro Evolution Soccer 2009",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ost.jpg",
-      "serials": [],
+      "serials": [
+        "ULES01176",
+        "ULUS10388"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co5ost.jpg",
       "path": "covers/220972.jpg",
@@ -40318,7 +40542,11 @@
       "igdb_id": 220976,
       "name": "Pro Evolution Soccer 2010",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5tvt.jpg",
-      "serials": [],
+      "serials": [
+        "ULES01353",
+        "ULES01354",
+        "ULUS10483"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co5tvt.jpg",
       "path": "covers/220976.jpg",
@@ -40334,7 +40562,14 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vzv.jpg",
       "serials": [
         "ULAS42256",
-        "ULJM05771"
+        "ULES01467",
+        "ULES01468",
+        "ULES01469",
+        "ULES01470",
+        "ULJM05771",
+        "ULUS10546",
+        "ULUS10553",
+        "ULUS10554"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co5vzv.jpg",
@@ -40927,7 +41162,9 @@
       "igdb_id": 222634,
       "name": "OGA Oni-Gokko Royale Hunter ha Field de Koi wo Suru",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5mt6.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM06298"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co5mt6.jpg",
       "path": "covers/222634.jpg",
@@ -41043,6 +41280,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6tdc.jpg",
       "serials": [
         "ULES01253",
+        "ULES01254",
         "ULES01255",
         "ULES01256",
         "ULES01257",
@@ -41320,7 +41558,8 @@
       "name": "Colin McRae: Dirt 2",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65sq.jpg",
       "serials": [
-        "ULES01301"
+        "ULES01301",
+        "ULUS10471"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co65sq.jpg",
@@ -41385,7 +41624,9 @@
       "serials": [
         "ULES00340",
         "ULES00341",
+        "ULES00342",
         "ULES00344",
+        "ULJM05133",
         "ULUS10082"
       ],
       "status": "downloaded",
@@ -41520,6 +41761,7 @@
         "ULES01412",
         "ULES01413",
         "ULES01414",
+        "ULJM05646",
         "ULUS10504",
         "ULUS10517"
       ],
@@ -41648,7 +41890,12 @@
       "igdb_id": 240465,
       "name": "Pro Evolution Soccer 2012",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co683n.jpg",
-      "serials": [],
+      "serials": [
+        "ULES01540",
+        "ULES01541",
+        "ULES01542",
+        "ULUS10586"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co683n.jpg",
       "path": "covers/240465.jpg",
@@ -41663,7 +41910,11 @@
       "name": "Pro Evolution Soccer 2013",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarpy.jpg",
       "serials": [
-        "ULES01576"
+        "ULES01575",
+        "ULES01576",
+        "ULES01577",
+        "ULES01580",
+        "ULUS10597"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/coarpy.jpg",
@@ -41945,7 +42196,8 @@
       "name": "Prince of Persia: Rival Swords",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6b6i.jpg",
       "serials": [
-        "ULES00579"
+        "ULES00579",
+        "ULES01438"
       ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co6b6i.jpg",
@@ -42116,6 +42368,7 @@
       "serials": [
         "ULES00189",
         "ULES00190",
+        "ULES00191",
         "ULUS10045"
       ],
       "status": "downloaded",
@@ -42318,7 +42571,10 @@
       "igdb_id": 248508,
       "name": "Shrek Smash n' Crash Racing",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6h0d.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00618",
+        "ULUS10194"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co6h0d.jpg",
       "path": "covers/248508.jpg",
@@ -42419,7 +42675,9 @@
       "igdb_id": 248531,
       "name": "Pac-Man World Rally",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6gzk.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00705"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co6gzk.jpg",
       "path": "covers/248531.jpg",
@@ -42521,7 +42779,12 @@
       "igdb_id": 248548,
       "name": "James Bond 007: From Russia with Love",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6gyw.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00288",
+        "ULES00290",
+        "ULJM05129",
+        "ULUS10080"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co6gyw.jpg",
       "path": "covers/248548.jpg",
@@ -42717,6 +42980,7 @@
       "serials": [
         "ULES00899",
         "ULES00900",
+        "ULES00901",
         "ULUS10318"
       ],
       "status": "downloaded",
@@ -43023,6 +43287,10 @@
       "serials": [
         "ULAS42115",
         "ULES00975",
+        "ULES00976",
+        "ULES00977",
+        "ULES00978",
+        "ULES00979",
         "ULUS10295"
       ],
       "status": "downloaded",
@@ -43517,7 +43785,9 @@
       "igdb_id": 269486,
       "name": "Boku ha Koukuu Kanseikan: Airport Hero Narita",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaq5.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05128"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/coaaq5.jpg",
       "path": "covers/269486.jpg",
@@ -43531,7 +43801,9 @@
       "igdb_id": 269487,
       "name": "Boku ha Koukuu Kanseikan: Airport Hero Shinchitose",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaq6.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05453"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/coaaq6.jpg",
       "path": "covers/269487.jpg",
@@ -43623,7 +43895,9 @@
       "igdb_id": 269494,
       "name": "DoraSlot: Shuyaku ha Zenigata",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaqh.jpg",
-      "serials": [],
+      "serials": [
+        "ULJM05014"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/coaaqh.jpg",
       "path": "covers/269494.jpg",
@@ -43784,7 +44058,9 @@
       "igdb_id": 269508,
       "name": "Weiss Schwarz Portable: 2nd Turn",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co998p.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00427"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co998p.jpg",
       "path": "covers/269508.jpg",
@@ -43909,7 +44185,9 @@
       "igdb_id": 269516,
       "name": "Soukyuu no Fafner: Dead Aggressor",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co998f.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00006"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co998f.jpg",
       "path": "covers/269516.jpg",
@@ -43923,7 +44201,10 @@
       "igdb_id": 269517,
       "name": "Oh's Talk English",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaass.jpg",
-      "serials": [],
+      "serials": [
+        "ULKS46082",
+        "ULKS46083"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/coaass.jpg",
       "path": "covers/269517.jpg",
@@ -44002,7 +44283,9 @@
       "igdb_id": 269522,
       "name": "Sangoku Hime: Sangoku Ransei - Haruten no Saihai",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ytm.jpg",
-      "serials": [],
+      "serials": [
+        "ULJS00434"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co7ytm.jpg",
       "path": "covers/269522.jpg",
@@ -44523,7 +44806,10 @@
       "igdb_id": 281852,
       "name": "SpongeBob SquarePants: The Yellow Avenger",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ytx.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00280",
+        "ULUS10092"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co7ytx.jpg",
       "path": "covers/281852.jpg",
@@ -44611,6 +44897,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ysc.jpg",
       "serials": [
         "ULES01528",
+        "ULES01529",
         "ULUS10575"
       ],
       "status": "downloaded",
@@ -45041,7 +45328,10 @@
       "igdb_id": 295596,
       "name": "SpongeBob's Truth or Square",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co998g.jpg",
-      "serials": [],
+      "serials": [
+        "ULES01365",
+        "ULUS10478"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co998g.jpg",
       "path": "covers/295596.jpg",
@@ -45170,7 +45460,10 @@
       "igdb_id": 305798,
       "name": "Ore no Shikabane wo Koete Yuke",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8cml.jpg",
-      "serials": [],
+      "serials": [
+        "UCJS10116",
+        "UCJS10117"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/co8cml.jpg",
       "path": "covers/305798.jpg",
@@ -46650,7 +46943,12 @@
       "igdb_id": 358374,
       "name": "Over the Hedge: Hammy Goes Nuts!",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7bo.jpg",
-      "serials": [],
+      "serials": [
+        "ULES00663",
+        "ULES00664",
+        "ULES00665",
+        "ULUS10187"
+      ],
       "status": "downloaded",
       "source_url": "https://images.igdb.com/igdb/image/upload/t_1080p/coa7bo.jpg",
       "path": "covers/358374.jpg",
@@ -48063,6 +48361,30 @@
       "title": "Taiko no Tatsujin Portable",
       "match_method": "unique_normalized_title"
     },
+    "UCAS40027": {
+      "igdb_id": 44519,
+      "path": "covers/44519.jpg",
+      "title": "Shinki Gensou: SSII Unlimited Side",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCAS40032": {
+      "igdb_id": 79353,
+      "path": "covers/79353.jpg",
+      "title": "Yarudora Portable: Double Cast",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCAS40033": {
+      "igdb_id": 65029,
+      "path": "covers/65029.jpg",
+      "title": "Yarudora Portable: Kisetsu o Dakishimete",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCAS40034": {
+      "igdb_id": 79349,
+      "path": "covers/79349.jpg",
+      "title": "Yarudora Portable: Sampaguita",
+      "match_method": "reviewed_serial_override"
+    },
     "UCAS40037": {
       "igdb_id": 38471,
       "path": "covers/38471.jpg",
@@ -48082,10 +48404,10 @@
       "match_method": "unique_alternative_name"
     },
     "UCAS40090": {
-      "igdb_id": 3762,
-      "path": "covers/3762.jpg",
+      "igdb_id": 44530,
+      "path": "covers/44530.jpg",
       "title": "Saru! Get You! P!",
-      "match_method": "reviewed_title_alias"
+      "match_method": "reviewed_serial_override"
     },
     "UCAS40093": {
       "igdb_id": 18787,
@@ -48177,6 +48499,12 @@
       "title": "Tenchi no Mon 2: Busouden",
       "match_method": "unique_normalized_title"
     },
+    "UCAS40158": {
+      "igdb_id": 45999,
+      "path": "covers/45999.jpg",
+      "title": "Mawaskes: Based on Carton-kun",
+      "match_method": "reviewed_serial_override"
+    },
     "UCAS40160": {
       "igdb_id": 44500,
       "path": "covers/44500.jpg",
@@ -48188,6 +48516,12 @@
       "path": "covers/1683.jpg",
       "title": "Wild Arms: Crossfire",
       "match_method": "unique_alternative_name"
+    },
+    "UCAS40162": {
+      "igdb_id": 24279,
+      "path": "covers/24279.jpg",
+      "title": "Dragoneer's Aria: Ryu ga Nemuru Made",
+      "match_method": "reviewed_serial_override"
     },
     "UCAS40164": {
       "igdb_id": 24181,
@@ -48345,6 +48679,18 @@
       "title": "MLB 09: The Show",
       "match_method": "unique_normalized_title"
     },
+    "UCAS40254": {
+      "igdb_id": 24080,
+      "path": "covers/24080.jpg",
+      "title": "Utawarerumono Portable",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCAS40256": {
+      "igdb_id": 2571,
+      "path": "covers/2571.jpg",
+      "title": "Dragonball: Evolution",
+      "match_method": "reviewed_serial_override"
+    },
     "UCAS40257": {
       "igdb_id": 21309,
       "path": "covers/21309.jpg",
@@ -48363,6 +48709,12 @@
       "title": "Yuusha 30",
       "match_method": "unique_alternative_name"
     },
+    "UCAS40261": {
+      "igdb_id": 44520,
+      "path": "covers/44520.jpg",
+      "title": "PixelJunk Monsters UMD Limited Edition",
+      "match_method": "reviewed_serial_override"
+    },
     "UCAS40262": {
       "igdb_id": 21911,
       "path": "covers/21911.jpg",
@@ -48374,6 +48726,12 @@
       "path": "covers/38453.jpg",
       "title": "Armored Core 3 Portable",
       "match_method": "unique_normalized_title"
+    },
+    "UCAS40269": {
+      "igdb_id": 43404,
+      "path": "covers/43404.jpg",
+      "title": "Shin Seiki Evangelion: Battle Orchestra Portable",
+      "match_method": "reviewed_serial_override"
     },
     "UCAS40272": {
       "igdb_id": 2407,
@@ -48602,6 +48960,12 @@
       "path": "covers/38464.jpg",
       "title": "Go! Sudoku",
       "match_method": "unique_normalized_title"
+    },
+    "UCES00178": {
+      "igdb_id": 42878,
+      "path": "covers/42878.jpg",
+      "title": "Key of Heaven",
+      "match_method": "reviewed_serial_override"
     },
     "UCES00243": {
       "igdb_id": 55850,
@@ -49179,6 +49543,12 @@
       "title": "Geronimo Stilton: Return to the Kingdom of Fantasy: The Videogame",
       "match_method": "unique_alternative_name"
     },
+    "UCES01564": {
+      "igdb_id": 52668,
+      "path": "covers/52668.jpg",
+      "title": "Disney Phineas and Ferb: Across the 2nd Dimension",
+      "match_method": "reviewed_serial_override"
+    },
     "UCES01579": {
       "igdb_id": 269505,
       "path": "covers/269505.jpg",
@@ -49220,6 +49590,12 @@
       "path": "covers/24148.jpg",
       "title": "SOCOM: U.S. Navy SEALs: Fireteam Bravo",
       "match_method": "unique_normalized_title"
+    },
+    "UCET00247": {
+      "igdb_id": 42878,
+      "path": "covers/42878.jpg",
+      "title": "Key of Heaven",
+      "match_method": "reviewed_serial_override"
     },
     "UCET00357": {
       "igdb_id": 1459,
@@ -49294,16 +49670,22 @@
       "match_method": "unique_alternative_name"
     },
     "UCJP00003": {
-      "igdb_id": 3762,
-      "path": "covers/3762.jpg",
+      "igdb_id": 44530,
+      "path": "covers/44530.jpg",
       "title": "Saru! Get You! P!",
-      "match_method": "reviewed_title_alias"
+      "match_method": "reviewed_serial_override"
     },
     "UCJP00062": {
       "igdb_id": 11326,
       "path": "covers/11326.jpg",
       "title": "Jeanne d'Arc",
       "match_method": "unique_normalized_title"
+    },
+    "UCJP00103": {
+      "igdb_id": 1791,
+      "path": "covers/1791.jpg",
+      "title": "Ratchet & Clank 5: Gekitotsu! Dodeka Ginga no MiriMiri Gundan",
+      "match_method": "reviewed_serial_override"
     },
     "UCJP00125": {
       "igdb_id": 7812,
@@ -49329,6 +49711,18 @@
       "title": "LocoRoco 2",
       "match_method": "unique_normalized_title"
     },
+    "UCJP00174": {
+      "igdb_id": 22885,
+      "path": "covers/22885.jpg",
+      "title": "Resistance: Houfuku no Toki",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCJP90030": {
+      "igdb_id": 46020,
+      "path": "covers/46020.jpg",
+      "title": "",
+      "match_method": "reviewed_serial_override"
+    },
     "UCJS10001": {
       "igdb_id": 22453,
       "path": "covers/22453.jpg",
@@ -49342,10 +49736,10 @@
       "match_method": "unique_folded_title"
     },
     "UCJS10004": {
-      "igdb_id": 3762,
-      "path": "covers/3762.jpg",
+      "igdb_id": 44530,
+      "path": "covers/44530.jpg",
       "title": "Saru! Get You! P!",
-      "match_method": "reviewed_title_alias"
+      "match_method": "reviewed_serial_override"
     },
     "UCJS10005": {
       "igdb_id": 23140,
@@ -49376,6 +49770,18 @@
       "path": "covers/42878.jpg",
       "title": "Tenchi no Mon",
       "match_method": "unique_alternative_name"
+    },
+    "UCJS10013": {
+      "igdb_id": 65029,
+      "path": "covers/65029.jpg",
+      "title": "Yarudora Portable: Kisetsu o Dakishimete",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCJS10015": {
+      "igdb_id": 79348,
+      "path": "covers/79348.jpg",
+      "title": "Yarudora Portable: Yukiwari no Hana",
+      "match_method": "reviewed_serial_override"
     },
     "UCJS10016": {
       "igdb_id": 59373,
@@ -49418,6 +49824,12 @@
       "path": "covers/269489.jpg",
       "title": "Derby Time 2006",
       "match_method": "unique_normalized_title"
+    },
+    "UCJS10030": {
+      "igdb_id": 59395,
+      "path": "covers/59395.jpg",
+      "title": "Bomberman: Bakufuu Sentai Bombermen",
+      "match_method": "reviewed_serial_override"
     },
     "UCJS10031": {
       "igdb_id": 334216,
@@ -49467,11 +49879,23 @@
       "title": "Jeanne d'Arc",
       "match_method": "unique_normalized_title"
     },
+    "UCJS10052": {
+      "igdb_id": 1791,
+      "path": "covers/1791.jpg",
+      "title": "Ratchet & Clank 5: Gekitotsu! Dodeka Ginga no MiriMiri Gundan",
+      "match_method": "reviewed_serial_override"
+    },
     "UCJS10057": {
       "igdb_id": 46001,
       "path": "covers/46001.jpg",
       "title": "Bleach: Heat the Soul 4",
       "match_method": "unique_normalized_title"
+    },
+    "UCJS10060": {
+      "igdb_id": 79069,
+      "path": "covers/79069.jpg",
+      "title": "Saru! Get You! SaruSaru Daisakusen",
+      "match_method": "reviewed_serial_override"
     },
     "UCJS10061": {
       "igdb_id": 67801,
@@ -49527,6 +49951,12 @@
       "title": "LocoRoco 2",
       "match_method": "unique_normalized_title"
     },
+    "UCJS10089": {
+      "igdb_id": 7813,
+      "path": "covers/7813.jpg",
+      "title": "Patapon 2: Don-Chaka",
+      "match_method": "reviewed_serial_override"
+    },
     "UCJS10091": {
       "igdb_id": 42799,
       "path": "covers/42799.jpg",
@@ -49544,6 +49974,12 @@
       "path": "covers/69255.jpg",
       "title": "Bleach: Heat the Soul 6",
       "match_method": "unique_normalized_title"
+    },
+    "UCJS10095": {
+      "igdb_id": 67897,
+      "path": "covers/67897.jpg",
+      "title": "Boku no Natsuyasumi 4: Setouchi Shounen Tanteidan: Boku to Himitsu no Chizu",
+      "match_method": "reviewed_serial_override"
     },
     "UCJS10096": {
       "igdb_id": 22976,
@@ -49568,6 +50004,12 @@
       "path": "covers/21754.jpg",
       "title": "Minna no Tennis Portable",
       "match_method": "unique_alternative_name"
+    },
+    "UCJS10102": {
+      "igdb_id": 24148,
+      "path": "covers/24148.jpg",
+      "title": "SOCOM: U.S. Navy SEALs Portable",
+      "match_method": "reviewed_serial_override"
     },
     "UCJS10105": {
       "igdb_id": 61259,
@@ -49605,6 +50047,30 @@
       "title": "Patapon 3",
       "match_method": "unique_normalized_title"
     },
+    "UCJS10114": {
+      "igdb_id": 552,
+      "path": "covers/552.jpg",
+      "title": "God of War: Koutan no Kokuin",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCJS10115": {
+      "igdb_id": 42811,
+      "path": "covers/42811.jpg",
+      "title": "Shirokishi Monogatari Episode Portable: Dogma Wars",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCJS10116": {
+      "igdb_id": 305798,
+      "path": "covers/305798.jpg",
+      "title": "Ore no Shikabane o Koete Yuke",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCJS10117": {
+      "igdb_id": 305798,
+      "path": "covers/305798.jpg",
+      "title": "Ore no Shikabane o Koete Yuke",
+      "match_method": "reviewed_serial_override"
+    },
     "UCJS18001": {
       "igdb_id": 22453,
       "path": "covers/22453.jpg",
@@ -49612,10 +50078,10 @@
       "match_method": "unique_alternative_name"
     },
     "UCJS18006": {
-      "igdb_id": 3762,
-      "path": "covers/3762.jpg",
+      "igdb_id": 44530,
+      "path": "covers/44530.jpg",
       "title": "Saru! Get You! P!",
-      "match_method": "reviewed_title_alias"
+      "match_method": "reviewed_serial_override"
     },
     "UCJS18009": {
       "igdb_id": 37047,
@@ -49671,11 +50137,23 @@
       "title": "Mugen Kairou",
       "match_method": "unique_alternative_name"
     },
+    "UCJS18029": {
+      "igdb_id": 79069,
+      "path": "covers/79069.jpg",
+      "title": "Saru! Get You! SaruSaru Daisakusen",
+      "match_method": "reviewed_serial_override"
+    },
     "UCJS18031": {
       "igdb_id": 21050,
       "path": "covers/21050.jpg",
       "title": "Minna no Golf Portable 2",
       "match_method": "unique_alternative_name"
+    },
+    "UCJS18036": {
+      "igdb_id": 7813,
+      "path": "covers/7813.jpg",
+      "title": "Patapon 2: Don-Chaka",
+      "match_method": "reviewed_serial_override"
     },
     "UCJS18037": {
       "igdb_id": 22968,
@@ -49689,6 +50167,18 @@
       "title": "Minna no Tennis Portable",
       "match_method": "unique_alternative_name"
     },
+    "UCJS18053": {
+      "igdb_id": 7813,
+      "path": "covers/7813.jpg",
+      "title": "Patapon 2: Don-Chaka",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCJS90028": {
+      "igdb_id": 7813,
+      "path": "covers/7813.jpg",
+      "title": "",
+      "match_method": "reviewed_serial_override"
+    },
     "UCJX90019": {
       "igdb_id": 11326,
       "path": "covers/11326.jpg",
@@ -49696,10 +50186,10 @@
       "match_method": "unique_normalized_title"
     },
     "UCJX90029": {
-      "igdb_id": 3762,
-      "path": "covers/3762.jpg",
+      "igdb_id": 44530,
+      "path": "covers/44530.jpg",
       "title": "Saru! Get You! P!",
-      "match_method": "reviewed_title_alias"
+      "match_method": "reviewed_serial_override"
     },
     "UCKM84002": {
       "igdb_id": 67813,
@@ -49719,17 +50209,35 @@
       "title": "Ridge Racer",
       "match_method": "unique_normalized_title"
     },
+    "UCKS45006": {
+      "igdb_id": 42689,
+      "path": "covers/42689.jpg",
+      "title": "Vulcanus: Seek & Destroy",
+      "match_method": "reviewed_serial_override"
+    },
     "UCKS45008": {
       "igdb_id": 1542,
       "path": "covers/1542.jpg",
       "title": "WipEout Pure",
       "match_method": "unique_normalized_title"
     },
+    "UCKS45009": {
+      "igdb_id": 44530,
+      "path": "covers/44530.jpg",
+      "title": "Piposarugetchu P",
+      "match_method": "reviewed_serial_override"
+    },
     "UCKS45011": {
       "igdb_id": 42878,
       "path": "covers/42878.jpg",
       "title": "Tenchi no Mon",
       "match_method": "unique_alternative_name"
+    },
+    "UCKS45016": {
+      "igdb_id": 26995,
+      "path": "covers/26995.jpg",
+      "title": "Chase Cop: Pursuit Force",
+      "match_method": "reviewed_serial_override"
     },
     "UCKS45021": {
       "igdb_id": 24148,
@@ -49772,6 +50280,12 @@
       "path": "covers/7188.jpg",
       "title": "Smash Court Tennis 3",
       "match_method": "unique_normalized_title"
+    },
+    "UCKS45058": {
+      "igdb_id": 394,
+      "path": "covers/394.jpg",
+      "title": "Final Fantasy Tactics: Shishi Sensou",
+      "match_method": "reviewed_serial_override"
     },
     "UCKS45061": {
       "igdb_id": 24148,
@@ -49820,6 +50334,12 @@
       "path": "covers/1543.jpg",
       "title": "WipEout Pulse",
       "match_method": "unique_normalized_title"
+    },
+    "UCKS45082": {
+      "igdb_id": 18050,
+      "path": "covers/18050.jpg",
+      "title": "Echochrome: Muhan Hoerang",
+      "match_method": "reviewed_serial_override"
     },
     "UCKS45084": {
       "igdb_id": 552,
@@ -49899,6 +50419,18 @@
       "title": "Jak and Daxter: The Lost Frontier",
       "match_method": "unique_normalized_title"
     },
+    "UCKS45135": {
+      "igdb_id": 7813,
+      "path": "covers/7813.jpg",
+      "title": "Patapon 2: Don-Chaka",
+      "match_method": "reviewed_serial_override"
+    },
+    "UCKS45140": {
+      "igdb_id": 11416,
+      "path": "covers/11416.jpg",
+      "title": "P3P: Yeosin Jeonsaeng: Persona 3 Portable",
+      "match_method": "reviewed_serial_override"
+    },
     "UCKS45142": {
       "igdb_id": 22976,
       "path": "covers/22976.jpg",
@@ -49952,6 +50484,12 @@
       "path": "covers/24288.jpg",
       "title": "Dissidia 012: Duodecim Final Fantasy",
       "match_method": "unique_alternative_name"
+    },
+    "UCKS45175": {
+      "igdb_id": 11416,
+      "path": "covers/11416.jpg",
+      "title": "P3P: Yeosin Jeonsaeng: Persona 3 Portable",
+      "match_method": "reviewed_serial_override"
     },
     "UCUS10352": {
       "igdb_id": 243242,
@@ -50373,6 +50911,12 @@
       "title": "Syphon Filter: Logan's Shadow",
       "match_method": "unique_normalized_title"
     },
+    "UCUS98705": {
+      "igdb_id": 552,
+      "path": "covers/552.jpg",
+      "title": "God of War: Chains of Olympus: Special Edition: Battle of Attica",
+      "match_method": "reviewed_serial_override"
+    },
     "UCUS98706": {
       "igdb_id": 11326,
       "path": "covers/11326.jpg",
@@ -50583,6 +51127,12 @@
       "title": "Sanguozhi V",
       "match_method": "unique_alternative_name"
     },
+    "ULAS42018": {
+      "igdb_id": 220947,
+      "path": "covers/220947.jpg",
+      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
+      "match_method": "reviewed_serial_override"
+    },
     "ULAS42019": {
       "igdb_id": 10916,
       "path": "covers/10916.jpg",
@@ -50612,6 +51162,12 @@
       "path": "covers/24275.jpg",
       "title": "Irregular Hunter X",
       "match_method": "unique_alternative_name"
+    },
+    "ULAS42038": {
+      "igdb_id": 22312,
+      "path": "covers/22312.jpg",
+      "title": "Power Smash: New Generation",
+      "match_method": "reviewed_serial_override"
     },
     "ULAS42044": {
       "igdb_id": 5836,
@@ -50667,6 +51223,12 @@
       "title": "Metal Gear Solid: Portable Ops",
       "match_method": "unique_normalized_title"
     },
+    "ULAS42088": {
+      "igdb_id": 220951,
+      "path": "covers/220951.jpg",
+      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
+      "match_method": "reviewed_serial_override"
+    },
     "ULAS42090": {
       "igdb_id": 42869,
       "path": "covers/42869.jpg",
@@ -50678,6 +51240,12 @@
       "path": "covers/6203.jpg",
       "title": "Burnout Dominator",
       "match_method": "unique_normalized_title"
+    },
+    "ULAS42098": {
+      "igdb_id": 5111,
+      "path": "covers/5111.jpg",
+      "title": "Puyo Puyo! Puyopuyo 15th Anniversary",
+      "match_method": "reviewed_serial_override"
     },
     "ULAS42099": {
       "igdb_id": 21939,
@@ -50949,6 +51517,12 @@
       "title": "DTM Race Driver 2",
       "match_method": "unique_alternative_name"
     },
+    "ULES00043": {
+      "igdb_id": 4689,
+      "path": "covers/4689.jpg",
+      "title": "Lumines: Puzzle Fusion",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00046": {
       "igdb_id": 22508,
       "path": "covers/22508.jpg",
@@ -51081,6 +51655,12 @@
       "title": "Marvel Nemesis: Rise of the Imperfects",
       "match_method": "unique_normalized_title"
     },
+    "ULES00160": {
+      "igdb_id": 220947,
+      "path": "covers/220947.jpg",
+      "title": "Pro Evolution Soccer 5",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00161": {
       "igdb_id": 240358,
       "path": "covers/240358.jpg",
@@ -51201,6 +51781,12 @@
       "title": "X-Men Legends II: Rise of Apocalypse",
       "match_method": "unique_normalized_title"
     },
+    "ULES00191": {
+      "igdb_id": 245310,
+      "path": "covers/245310.jpg",
+      "title": "X-Men Legends II: El Ascenso de Apocalipsis",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00192": {
       "igdb_id": 4177,
       "path": "covers/4177.jpg",
@@ -51236,6 +51822,24 @@
       "path": "covers/22458.jpg",
       "title": "Le Seigneur des Anneaux: Tactics",
       "match_method": "unique_alternative_name"
+    },
+    "ULES00200": {
+      "igdb_id": 22458,
+      "path": "covers/22458.jpg",
+      "title": "Der Herr der Ringe: Taktiken",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00201": {
+      "igdb_id": 22458,
+      "path": "covers/22458.jpg",
+      "title": "Il Signore degli Anelli: Tactics",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00202": {
+      "igdb_id": 22458,
+      "path": "covers/22458.jpg",
+      "title": "El Señor de los Anillos: Tácticas",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00207": {
       "igdb_id": 11481,
@@ -51357,6 +51961,12 @@
       "title": "FIFA Street 2",
       "match_method": "unique_normalized_title"
     },
+    "ULES00267": {
+      "igdb_id": 200897,
+      "path": "covers/200897.jpg",
+      "title": "Ys: The Ark of Napishtim",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00268": {
       "igdb_id": 18313,
       "path": "covers/18313.jpg",
@@ -51393,6 +52003,12 @@
       "title": "Tenchu: Time of the Assassins",
       "match_method": "unique_normalized_title"
     },
+    "ULES00280": {
+      "igdb_id": 281852,
+      "path": "covers/281852.jpg",
+      "title": "Nickelodeon SpongeBob SquarePants: The Yellow Avenger",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00281": {
       "igdb_id": 22632,
       "path": "covers/22632.jpg",
@@ -51416,6 +52032,18 @@
       "path": "covers/85653.jpg",
       "title": "Exit",
       "match_method": "unique_normalized_title"
+    },
+    "ULES00288": {
+      "igdb_id": 248548,
+      "path": "covers/248548.jpg",
+      "title": "007: From Russia with Love",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00290": {
+      "igdb_id": 248548,
+      "path": "covers/248548.jpg",
+      "title": "007: From Russia with Love",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00291": {
       "igdb_id": 23140,
@@ -51561,6 +52189,18 @@
       "title": "Championship Manager 2006",
       "match_method": "unique_normalized_title"
     },
+    "ULES00331": {
+      "igdb_id": 5771,
+      "path": "covers/5771.jpg",
+      "title": "L'Entraîneur 2006: Championship Manager",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00332": {
+      "igdb_id": 5771,
+      "path": "covers/5771.jpg",
+      "title": "Scudetto 2006: Championship Manager",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00335": {
       "igdb_id": 42873,
       "path": "covers/42873.jpg",
@@ -51596,6 +52236,12 @@
       "path": "covers/240284.jpg",
       "title": "FIFA World Cup Germany 2006",
       "match_method": "unique_alternative_name"
+    },
+    "ULES00342": {
+      "igdb_id": 240284,
+      "path": "covers/240284.jpg",
+      "title": "FIFA Fussball-Weltmeisterschaft Deutschland 2006",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00344": {
       "igdb_id": 240284,
@@ -51723,6 +52369,36 @@
       "title": "Def Jam: Fight for NY: The Takeover",
       "match_method": "unique_normalized_title"
     },
+    "ULES00394": {
+      "igdb_id": 42748,
+      "path": "covers/42748.jpg",
+      "title": "The Godfather",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00397": {
+      "igdb_id": 42748,
+      "path": "covers/42748.jpg",
+      "title": "Le Parrain",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00398": {
+      "igdb_id": 42748,
+      "path": "covers/42748.jpg",
+      "title": "Der Pate",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00399": {
+      "igdb_id": 42748,
+      "path": "covers/42748.jpg",
+      "title": "Il Padrino",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00400": {
+      "igdb_id": 42748,
+      "path": "covers/42748.jpg",
+      "title": "El Padrino",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00412": {
       "igdb_id": 236,
       "path": "covers/236.jpg",
@@ -51770,6 +52446,12 @@
       "path": "covers/5220.jpg",
       "title": "Tiger Woods PGA Tour 07",
       "match_method": "unique_normalized_title"
+    },
+    "ULES00457": {
+      "igdb_id": 5944,
+      "path": "covers/5944.jpg",
+      "title": "NASCAR",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00462": {
       "igdb_id": 248771,
@@ -51830,6 +52512,12 @@
       "path": "covers/5821.jpg",
       "title": "E'ragon",
       "match_method": "unique_folded_title"
+    },
+    "ULES00476": {
+      "igdb_id": 220951,
+      "path": "covers/220951.jpg",
+      "title": "Pro Evolution Soccer 6",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00477": {
       "igdb_id": 5964,
@@ -52017,6 +52705,12 @@
       "title": "Mind Quiz: Exercise Your Brain",
       "match_method": "unique_alternative_name"
     },
+    "ULES00556": {
+      "igdb_id": 20621,
+      "path": "covers/20621.jpg",
+      "title": "Sega Mega Drive Collection",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00557": {
       "igdb_id": 1312,
       "path": "covers/1312.jpg",
@@ -52089,6 +52783,12 @@
       "title": "Scooby-Doo! Who's Watching Who?",
       "match_method": "unique_normalized_title"
     },
+    "ULES00572": {
+      "igdb_id": 8087,
+      "path": "covers/8087.jpg",
+      "title": "Scooby-Doo! Qui Regarde Qui?",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00573": {
       "igdb_id": 8087,
       "path": "covers/8087.jpg",
@@ -52148,6 +52848,12 @@
       "path": "covers/45294.jpg",
       "title": "Aces of War",
       "match_method": "unique_normalized_title"
+    },
+    "ULES00591": {
+      "igdb_id": 5288,
+      "path": "covers/5288.jpg",
+      "title": "World Series of Poker: Tournament of Champions: 2007 Edition",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00592": {
       "igdb_id": 23084,
@@ -52263,6 +52969,12 @@
       "title": "Bliss Island",
       "match_method": "unique_normalized_title"
     },
+    "ULES00618": {
+      "igdb_id": 248508,
+      "path": "covers/248508.jpg",
+      "title": "DreamWorks Shrek: Smash n' Crash Racing",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00619": {
       "igdb_id": 44500,
       "path": "covers/44500.jpg",
@@ -52311,6 +53023,12 @@
       "title": "Gurumin: A Monstrous Adventure",
       "match_method": "unique_normalized_title"
     },
+    "ULES00628": {
+      "igdb_id": 9614,
+      "path": "covers/9614.jpg",
+      "title": "Gurumin: Une Aventure Monstrueuse",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00629": {
       "igdb_id": 23111,
       "path": "covers/23111.jpg",
@@ -52328,6 +53046,12 @@
       "path": "covers/7252.jpg",
       "title": "WWE SmackDown vs. Raw 2007",
       "match_method": "unique_normalized_title"
+    },
+    "ULES00633": {
+      "igdb_id": 202100,
+      "path": "covers/202100.jpg",
+      "title": "Nickelodeon Avatar: The Legend of Aang",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00634": {
       "igdb_id": 43342,
@@ -52443,6 +53167,24 @@
       "title": "Final Armada",
       "match_method": "unique_normalized_title"
     },
+    "ULES00663": {
+      "igdb_id": 358374,
+      "path": "covers/358374.jpg",
+      "title": "DreamWorks Over the Hedge: Hammy Goes Nuts!",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00664": {
+      "igdb_id": 358374,
+      "path": "covers/358374.jpg",
+      "title": "DreamWorks Vecinos Invasores: Hammy Enloquece",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00665": {
+      "igdb_id": 358374,
+      "path": "covers/358374.jpg",
+      "title": "DreamWorks Over the Hedge: Hammy Goes Nuts!",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00668": {
       "igdb_id": 21437,
       "path": "covers/21437.jpg",
@@ -52491,6 +53233,12 @@
       "title": "Legend of the Dragon",
       "match_method": "unique_normalized_title"
     },
+    "ULES00699": {
+      "igdb_id": 7225,
+      "path": "covers/7225.jpg",
+      "title": "UEFA Champions League 2006-2007",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00701": {
       "igdb_id": 92809,
       "path": "covers/92809.jpg",
@@ -52509,11 +53257,47 @@
       "title": "Free Running",
       "match_method": "unique_normalized_title"
     },
+    "ULES00705": {
+      "igdb_id": 248531,
+      "path": "covers/248531.jpg",
+      "title": "Pac-Man Rally",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00706": {
+      "igdb_id": 7225,
+      "path": "covers/7225.jpg",
+      "title": "UEFA Champions League 2006-2007",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00707": {
+      "igdb_id": 7225,
+      "path": "covers/7225.jpg",
+      "title": "UEFA Champions League 2006-2007",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00708": {
+      "igdb_id": 7225,
+      "path": "covers/7225.jpg",
+      "title": "UEFA Champions League 2006-2007",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00709": {
+      "igdb_id": 7225,
+      "path": "covers/7225.jpg",
+      "title": "UEFA Champions League 2006-2007",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00711": {
       "igdb_id": 5742,
       "path": "covers/5742.jpg",
       "title": "Xiaolin Showdown",
       "match_method": "unique_normalized_title"
+    },
+    "ULES00712": {
+      "igdb_id": 44631,
+      "path": "covers/44631.jpg",
+      "title": "Chi Vuol Essere Milionario? Party Edition",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00718": {
       "igdb_id": 21939,
@@ -52550,6 +53334,18 @@
       "path": "covers/22756.jpg",
       "title": "Valkyrie Profile: Lenneth",
       "match_method": "unique_normalized_title"
+    },
+    "ULES00727": {
+      "igdb_id": 5100,
+      "path": "covers/5100.jpg",
+      "title": "Disney Pirates of the Caribbean: At World's End",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00728": {
+      "igdb_id": 5100,
+      "path": "covers/5100.jpg",
+      "title": "Disney Pirates of the Caribbean: At World's End",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00739": {
       "igdb_id": 20691,
@@ -52671,6 +53467,12 @@
       "title": "After Burner: Black Falcon",
       "match_method": "unique_normalized_title"
     },
+    "ULES00789": {
+      "igdb_id": 2568,
+      "path": "covers/2568.jpg",
+      "title": "Dragon Ball Z: Shin Budokai 2",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00792": {
       "igdb_id": 44504,
       "path": "covers/44504.jpg",
@@ -52689,6 +53491,12 @@
       "title": "SBK-07: Superbike World Championship",
       "match_method": "unique_normalized_title"
     },
+    "ULES00806": {
+      "igdb_id": 46019,
+      "path": "covers/46019.jpg",
+      "title": "Practical IQ: Test Your Intelligence",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00808": {
       "igdb_id": 15718,
       "path": "covers/15718.jpg",
@@ -52700,6 +53508,18 @@
       "path": "covers/1809.jpg",
       "title": "Crazy Taxi: Fare Wars",
       "match_method": "unique_normalized_title"
+    },
+    "ULES00812": {
+      "igdb_id": 3669,
+      "path": "covers/3669.jpg",
+      "title": "DreamWorks Shrek the Third",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00813": {
+      "igdb_id": 3669,
+      "path": "covers/3669.jpg",
+      "title": "DreamWorks Shrek the Third",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00814": {
       "igdb_id": 70025,
@@ -52917,6 +53737,12 @@
       "title": "Warhammer 40,000: Squad Command",
       "match_method": "unique_normalized_title"
     },
+    "ULES00880": {
+      "igdb_id": 220955,
+      "path": "covers/220955.jpg",
+      "title": "PES 2008: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00887": {
       "igdb_id": 209,
       "path": "covers/209.jpg",
@@ -52988,6 +53814,12 @@
       "path": "covers/249163.jpg",
       "title": "Spider-Man: Friend or Foe",
       "match_method": "unique_normalized_title"
+    },
+    "ULES00901": {
+      "igdb_id": 249163,
+      "path": "covers/249163.jpg",
+      "title": "Spider-Man: Freund oder Feind",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00902": {
       "igdb_id": 21047,
@@ -53151,6 +53983,24 @@
       "title": "À la croisée des mondes: La Boussole d'or",
       "match_method": "reviewed_title_alias"
     },
+    "ULES00952": {
+      "igdb_id": 4892,
+      "path": "covers/4892.jpg",
+      "title": "Der Goldene Kompass",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00953": {
+      "igdb_id": 4892,
+      "path": "covers/4892.jpg",
+      "title": "La Bussola d'Oro",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00954": {
+      "igdb_id": 4892,
+      "path": "covers/4892.jpg",
+      "title": "La Brújula Dorada",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES00955": {
       "igdb_id": 1315,
       "path": "covers/1315.jpg",
@@ -53174,6 +54024,12 @@
       "path": "covers/77674.jpg",
       "title": "Bomberman Land",
       "match_method": "reviewed_title_alias"
+    },
+    "ULES00960": {
+      "igdb_id": 5098,
+      "path": "covers/5098.jpg",
+      "title": "MTV Pimp My Ride",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00968": {
       "igdb_id": 22774,
@@ -53210,6 +54066,30 @@
       "path": "covers/259331.jpg",
       "title": "The Simpsons Game",
       "match_method": "unique_normalized_title"
+    },
+    "ULES00976": {
+      "igdb_id": 259331,
+      "path": "covers/259331.jpg",
+      "title": "Les Simpson: Le Jeu",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00977": {
+      "igdb_id": 259331,
+      "path": "covers/259331.jpg",
+      "title": "I Simpson: Il Videogioco",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00978": {
+      "igdb_id": 259331,
+      "path": "covers/259331.jpg",
+      "title": "Die Simpsons: Das Spiel",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES00979": {
+      "igdb_id": 259331,
+      "path": "covers/259331.jpg",
+      "title": "Los Simpson: El Videojuego",
+      "match_method": "reviewed_serial_override"
     },
     "ULES00981": {
       "igdb_id": 399295,
@@ -53331,6 +54211,12 @@
       "title": "CID the Dummy",
       "match_method": "unique_normalized_title"
     },
+    "ULES01025": {
+      "igdb_id": 7226,
+      "path": "covers/7226.jpg",
+      "title": "UEFA Euro 2008: Austria-Switzerland",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01026": {
       "igdb_id": 8749,
       "path": "covers/8749.jpg",
@@ -53360,6 +54246,12 @@
       "path": "covers/4629.jpg",
       "title": "7 Wonders of the Ancient World",
       "match_method": "unique_normalized_title"
+    },
+    "ULES01038": {
+      "igdb_id": 7226,
+      "path": "covers/7226.jpg",
+      "title": "UEFA Euro 2008: Austria-Switzerland",
+      "match_method": "reviewed_serial_override"
     },
     "ULES01044": {
       "igdb_id": 2407,
@@ -53553,6 +54445,12 @@
       "title": "Code Lyoko: Quest for Infinity",
       "match_method": "unique_normalized_title"
     },
+    "ULES01096": {
+      "igdb_id": 5092,
+      "path": "covers/5092.jpg",
+      "title": "PDC World Championship Darts",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01098": {
       "igdb_id": 19202,
       "path": "covers/19202.jpg",
@@ -53564,6 +54462,12 @@
       "path": "covers/44490.jpg",
       "title": "Pro Cycling Season 2008: Le Tour de France",
       "match_method": "reviewed_title_alias"
+    },
+    "ULES01104": {
+      "igdb_id": 45999,
+      "path": "covers/45999.jpg",
+      "title": "Mawaskes Puzzle",
+      "match_method": "reviewed_serial_override"
     },
     "ULES01105": {
       "igdb_id": 5162,
@@ -53751,6 +54655,12 @@
       "title": "Puzzler Collection",
       "match_method": "unique_normalized_title"
     },
+    "ULES01176": {
+      "igdb_id": 220972,
+      "path": "covers/220972.jpg",
+      "title": "PES 2009: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01179": {
       "igdb_id": 22999,
       "path": "covers/22999.jpg",
@@ -53841,6 +54751,12 @@
       "title": "X-Men Origins: Wolverine",
       "match_method": "unique_normalized_title"
     },
+    "ULES01227": {
+      "igdb_id": 2571,
+      "path": "covers/2571.jpg",
+      "title": "Dragonball: Evolution",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01230": {
       "igdb_id": 5649,
       "path": "covers/5649.jpg",
@@ -53906,6 +54822,12 @@
       "path": "covers/228708.jpg",
       "title": "Disney/Pixar Up",
       "match_method": "unique_alternative_name"
+    },
+    "ULES01254": {
+      "igdb_id": 228708,
+      "path": "covers/228708.jpg",
+      "title": "Disney/Pixar Oben",
+      "match_method": "reviewed_serial_override"
     },
     "ULES01255": {
       "igdb_id": 228708,
@@ -54117,6 +55039,12 @@
       "title": "IL-2 Sturmovik: Birds of Prey",
       "match_method": "unique_normalized_title"
     },
+    "ULES01317": {
+      "igdb_id": 7016,
+      "path": "covers/7016.jpg",
+      "title": "Il-2 Shturmovik: Krylatye xishhniki",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01318": {
       "igdb_id": 4767,
       "path": "covers/4767.jpg",
@@ -54255,6 +55183,18 @@
       "title": "Silent Hill: Shattered Memories",
       "match_method": "unique_normalized_title"
     },
+    "ULES01353": {
+      "igdb_id": 220976,
+      "path": "covers/220976.jpg",
+      "title": "PES 2010: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES01354": {
+      "igdb_id": 220976,
+      "path": "covers/220976.jpg",
+      "title": "PES 2010: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01355": {
       "igdb_id": 4837,
       "path": "covers/4837.jpg",
@@ -54296,6 +55236,12 @@
       "path": "covers/2821.jpg",
       "title": "The Secret Saturdays: Beasts of the 5th Sun",
       "match_method": "unique_normalized_title"
+    },
+    "ULES01365": {
+      "igdb_id": 295596,
+      "path": "covers/295596.jpg",
+      "title": "Nickelodeon SpongeBob SquarePants: SpongeBob's Truth or Square",
+      "match_method": "reviewed_serial_override"
     },
     "ULES01366": {
       "igdb_id": 86072,
@@ -54513,6 +55459,12 @@
       "title": "Fullmetal Alchemist: Brotherhood",
       "match_method": "unique_normalized_title"
     },
+    "ULES01438": {
+      "igdb_id": 243130,
+      "path": "covers/243130.jpg",
+      "title": "Prince of Persia: Zabytye peski",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01439": {
       "igdb_id": 19256,
       "path": "covers/19256.jpg",
@@ -54566,6 +55518,30 @@
       "path": "covers/6909.jpg",
       "title": "Bakugan: Defenders of the Core",
       "match_method": "unique_normalized_title"
+    },
+    "ULES01467": {
+      "igdb_id": 220978,
+      "path": "covers/220978.jpg",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES01468": {
+      "igdb_id": 220978,
+      "path": "covers/220978.jpg",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES01469": {
+      "igdb_id": 220978,
+      "path": "covers/220978.jpg",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES01470": {
+      "igdb_id": 220978,
+      "path": "covers/220978.jpg",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
     },
     "ULES01471": {
       "igdb_id": 2807,
@@ -54753,6 +55729,12 @@
       "title": "LEGO Pirates of the Caribbean: The Video Game",
       "match_method": "unique_normalized_title"
     },
+    "ULES01529": {
+      "igdb_id": 284142,
+      "path": "covers/284142.jpg",
+      "title": "LEGO Piraty Karibskogo morya: Videoigra",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01532": {
       "igdb_id": 3150,
       "path": "covers/3150.jpg",
@@ -54764,6 +55746,24 @@
       "path": "covers/19649.jpg",
       "title": "Naruto Shippuden: Ultimate Ninja Impact",
       "match_method": "unique_normalized_title"
+    },
+    "ULES01540": {
+      "igdb_id": 240465,
+      "path": "covers/240465.jpg",
+      "title": "PES 2012: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES01541": {
+      "igdb_id": 240465,
+      "path": "covers/240465.jpg",
+      "title": "PES 2012: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULES01542": {
+      "igdb_id": 240465,
+      "path": "covers/240465.jpg",
+      "title": "PES 2012: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
     },
     "ULES01543": {
       "igdb_id": 240392,
@@ -54861,17 +55861,35 @@
       "title": "Blazing Souls Accelate",
       "match_method": "unique_normalized_title"
     },
+    "ULES01575": {
+      "igdb_id": 240466,
+      "path": "covers/240466.jpg",
+      "title": "PES 2013: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01576": {
       "igdb_id": 240466,
       "path": "covers/240466.jpg",
       "title": "Pro Evolution Soccer 2013",
       "match_method": "unique_normalized_title"
     },
+    "ULES01577": {
+      "igdb_id": 240466,
+      "path": "covers/240466.jpg",
+      "title": "PES 2013: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
     "ULES01578": {
       "igdb_id": 5058,
       "path": "covers/5058.jpg",
       "title": "NBA 2K13",
       "match_method": "unique_normalized_title"
+    },
+    "ULES01580": {
+      "igdb_id": 240466,
+      "path": "covers/240466.jpg",
+      "title": "PES 2013: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
     },
     "ULES01582": {
       "igdb_id": 42867,
@@ -55059,17 +56077,35 @@
       "title": "Need for Speed: Underground Rivals",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05009": {
+      "igdb_id": 200897,
+      "path": "covers/200897.jpg",
+      "title": "Ys VI: Napishtim no Hako",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05011": {
       "igdb_id": 42774,
       "path": "covers/42774.jpg",
       "title": "Puzzle Bobble Pocket",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05012": {
+      "igdb_id": 146602,
+      "path": "covers/146602.jpg",
+      "title": "Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou-hen",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05013": {
       "igdb_id": 24274,
       "path": "covers/24274.jpg",
       "title": "Shinten Makai: GOC IV Another Side",
       "match_method": "unique_folded_title"
+    },
+    "ULJM05014": {
+      "igdb_id": 269494,
+      "path": "covers/269494.jpg",
+      "title": "Dora-Slot: Shuyaku wa Zenigata",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05017": {
       "igdb_id": 38456,
@@ -55118,6 +56154,18 @@
       "path": "covers/44060.jpg",
       "title": "Rockman Dash: Hagane no Boukenshin",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05031": {
+      "igdb_id": 72864,
+      "path": "covers/72864.jpg",
+      "title": "Twelve: Sengoku Fuushinden",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJM05033": {
+      "igdb_id": 220947,
+      "path": "covers/220947.jpg",
+      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05034": {
       "igdb_id": 129853,
@@ -55245,6 +56293,12 @@
       "title": "Jikkyou Powerful Pro Yakyuu Portable",
       "match_method": "unique_alternative_name"
     },
+    "ULJM05079": {
+      "igdb_id": 22312,
+      "path": "covers/22312.jpg",
+      "title": "Power Smash: New Generation",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05080": {
       "igdb_id": 4231,
       "path": "covers/4231.jpg",
@@ -55298,6 +56352,12 @@
       "path": "covers/269521.jpg",
       "title": "Ooedo Senryoubako",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05100": {
+      "igdb_id": 56813,
+      "path": "covers/56813.jpg",
+      "title": "Jitsuroku Oniyome Nikki: Shiuchi ni Taeru Otto no Rifujin Taiken Adventure",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05101": {
       "igdb_id": 22756,
@@ -55353,11 +56413,35 @@
       "title": "Dragon Quest & Final Fantasy in Itadaki Street Portable",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05128": {
+      "igdb_id": 269486,
+      "path": "covers/269486.jpg",
+      "title": "Boku wa Koukuu Kanseikan: Airport Hero Narita",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJM05129": {
+      "igdb_id": 248548,
+      "path": "covers/248548.jpg",
+      "title": "007: Russia yori Ai o Komete",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05130": {
       "igdb_id": 42813,
       "path": "covers/42813.jpg",
       "title": "Gitaroo Man Lives!",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05132": {
+      "igdb_id": 220951,
+      "path": "covers/220951.jpg",
+      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJM05133": {
+      "igdb_id": 240284,
+      "path": "covers/240284.jpg",
+      "title": "FIFA World Cup Deutsch Taikai 2006",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05138": {
       "igdb_id": 66189,
@@ -55431,6 +56515,12 @@
       "title": "Moegaku @ Portable",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05177": {
+      "igdb_id": 5111,
+      "path": "covers/5111.jpg",
+      "title": "Puyo Puyo! Puyopuyo 15th Anniversary",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05180": {
       "igdb_id": 248535,
       "path": "covers/248535.jpg",
@@ -55455,6 +56545,12 @@
       "title": "Need for Speed: Most Wanted: 5-1-0",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05184": {
+      "igdb_id": 56828,
+      "path": "covers/56828.jpg",
+      "title": "Planetarium Creator Oohira Takayuki Kanshuu: Homestar Portable",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05185": {
       "igdb_id": 56517,
       "path": "covers/56517.jpg",
@@ -55472,6 +56568,12 @@
       "path": "covers/381.jpg",
       "title": "Metal Gear Solid: Portable Ops",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05194": {
+      "igdb_id": 394,
+      "path": "covers/394.jpg",
+      "title": "Final Fantasy Tactics: Shishi Sensou",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05195": {
       "igdb_id": 229583,
@@ -55665,6 +56767,18 @@
       "title": "Kaitou Apricot Portable",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05277": {
+      "igdb_id": 16665,
+      "path": "covers/16665.jpg",
+      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 1)",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJM05278": {
+      "igdb_id": 16665,
+      "path": "covers/16665.jpg",
+      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 2)",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05279": {
       "igdb_id": 59396,
       "path": "covers/59396.jpg",
@@ -55688,6 +56802,12 @@
       "path": "covers/381.jpg",
       "title": "Metal Gear Solid: Portable Ops",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05287": {
+      "igdb_id": 21888,
+      "path": "covers/21888.jpg",
+      "title": "Akumajou Dracula X: Chronicle",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05289": {
       "igdb_id": 248774,
@@ -55814,6 +56934,12 @@
       "path": "covers/269509.jpg",
       "title": "Winning Post 6 2008",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05342": {
+      "igdb_id": 5111,
+      "path": "covers/5111.jpg",
+      "title": "Puyo Puyo! Puyopuyo 15th Anniversary",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05343": {
       "igdb_id": 20998,
@@ -56019,6 +57145,12 @@
       "title": "Sengoku Basara: Battle Heroes",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05438": {
+      "igdb_id": 550,
+      "path": "covers/550.jpg",
+      "title": "God of War: Rakujitsu no Hisoukyoku",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05440": {
       "igdb_id": 42809,
       "path": "covers/42809.jpg",
@@ -56043,6 +57175,30 @@
       "title": "Fate/Unlimited Codes Portable",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05453": {
+      "igdb_id": 269487,
+      "path": "covers/269487.jpg",
+      "title": "Boku wa Koukuu Kanseikan: Airport Hero Shinchitose",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJM05457": {
+      "igdb_id": 24080,
+      "path": "covers/24080.jpg",
+      "title": "Utawarerumono Portable",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJM05458": {
+      "igdb_id": 24080,
+      "path": "covers/24080.jpg",
+      "title": "Utawarerumono Portable",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJM05464": {
+      "igdb_id": 78795,
+      "path": "covers/78795.jpg",
+      "title": "Pia Carrot e Youkoso!! G.P. Gakuen Princess Portable",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05472": {
       "igdb_id": 11754,
       "path": "covers/11754.jpg",
@@ -56060,6 +57216,12 @@
       "path": "covers/20999.jpg",
       "title": "Ken to Mahou to Gakuen Mono. 2",
       "match_method": "unique_alternative_name"
+    },
+    "ULJM05477": {
+      "igdb_id": 75879,
+      "path": "covers/75879.jpg",
+      "title": "Shin Seiki Evangelion: Koutetsu no Girlfriend 2nd Portable",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05479": {
       "igdb_id": 42790,
@@ -56145,11 +57307,23 @@
       "title": "Final Fantasy II",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05516": {
+      "igdb_id": 394,
+      "path": "covers/394.jpg",
+      "title": "Final Fantasy Tactics: Shishi Sensou",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05517": {
       "igdb_id": 2407,
       "path": "covers/2407.jpg",
       "title": "Crisis Core: Final Fantasy VII",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05518": {
+      "igdb_id": 62766,
+      "path": "covers/62766.jpg",
+      "title": "J.League Pro Soccer Club o Tsukurou! 6: Pride of J",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05524": {
       "igdb_id": 269526,
@@ -56210,6 +57384,12 @@
       "path": "covers/44496.jpg",
       "title": "Lucky Star: Net Idol Meister",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05548": {
+      "igdb_id": 21888,
+      "path": "covers/21888.jpg",
+      "title": "Akumajou Dracula X: Chronicle",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05550": {
       "igdb_id": 391,
@@ -56385,6 +57565,12 @@
       "title": "Dead or Alive: Paradise",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05646": {
+      "igdb_id": 240362,
+      "path": "covers/240362.jpg",
+      "title": "2010 FIFA World Cup: Minami Africa Taikai",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05648": {
       "igdb_id": 220958,
       "path": "covers/220958.jpg",
@@ -56445,6 +57631,12 @@
       "title": "Starry Sky: In Spring Portable",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05688": {
+      "igdb_id": 142710,
+      "path": "covers/142710.jpg",
+      "title": "Prince of Persia: Boukyaku no Suna",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05689": {
       "igdb_id": 218958,
       "path": "covers/218958.jpg",
@@ -56492,6 +57684,12 @@
       "path": "covers/38485.jpg",
       "title": "K-ON! Houkago Live!!",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05710": {
+      "igdb_id": 66526,
+      "path": "covers/66526.jpg",
+      "title": "MonHun Nikki: Poka Poka Airuu Mura",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05713": {
       "igdb_id": 66611,
@@ -56594,6 +57792,12 @@
       "path": "covers/5056.jpg",
       "title": "NBA 2K11",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05779": {
+      "igdb_id": 42882,
+      "path": "covers/42882.jpg",
+      "title": "Gungnir: Masou no Gunshin to Eiyuu Sensou",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05780": {
       "igdb_id": 66402,
@@ -56715,6 +57919,12 @@
       "title": "BlazBlue: Continuum Shift II",
       "match_method": "unique_normalized_title"
     },
+    "ULJM05855": {
+      "igdb_id": 21779,
+      "path": "covers/21779.jpg",
+      "title": "Final Fantasy IV Complete Collection: Final Fantasy IV & The After Years",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05859": {
       "igdb_id": 11831,
       "path": "covers/11831.jpg",
@@ -56816,6 +58026,12 @@
       "path": "covers/221451.jpg",
       "title": "Moujuutsukai to Oujisama Portable",
       "match_method": "unique_folded_title"
+    },
+    "ULJM05898": {
+      "igdb_id": 65012,
+      "path": "covers/65012.jpg",
+      "title": "J.League Pro Soccer Club o Tsukurou! 7: Euro Plus",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05899": {
       "igdb_id": 284036,
@@ -56931,11 +58147,29 @@
       "title": "Hatsune Miku: Project Diva 2nd",
       "match_method": "reviewed_title_alias"
     },
+    "ULJM05955": {
+      "igdb_id": 63398,
+      "path": "covers/63398.jpg",
+      "title": "Fairy Tail: Zerefu Kakusei",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJM05957": {
+      "igdb_id": 38466,
+      "path": "covers/38466.jpg",
+      "title": "Senjou no Valkyria 3 E2: Extra Edition",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM05959": {
       "igdb_id": 64472,
       "path": "covers/64472.jpg",
       "title": "Pop'n Music Portable 2",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM05964": {
+      "igdb_id": 6865,
+      "path": "covers/6865.jpg",
+      "title": "Puyo Puyo!! Puyopuyo 20th Anniversary",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM05965": {
       "igdb_id": 63896,
@@ -57171,6 +58405,12 @@
       "title": "Dissidia 012: Duodecim Final Fantasy",
       "match_method": "unique_alternative_name"
     },
+    "ULJM06122": {
+      "igdb_id": 21779,
+      "path": "covers/21779.jpg",
+      "title": "Final Fantasy IV Complete Collection: Final Fantasy IV & The After Years",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM06126": {
       "igdb_id": 222624,
       "path": "covers/222624.jpg",
@@ -57273,6 +58513,12 @@
       "title": "Starry Sky: After Autumn Portable",
       "match_method": "unique_normalized_title"
     },
+    "ULJM06212": {
+      "igdb_id": 6865,
+      "path": "covers/6865.jpg",
+      "title": "Puyo Puyo!! Puyopuyo 20th Anniversary",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM06213": {
       "igdb_id": 42856,
       "path": "covers/42856.jpg",
@@ -57303,6 +58549,12 @@
       "title": "Megpoid the Music#",
       "match_method": "unique_alternative_name"
     },
+    "ULJM06227": {
+      "igdb_id": 201833,
+      "path": "covers/201833.jpg",
+      "title": "Starry Sky: After Spring Portable: Etsuran Shite Please \"Etsu Puritsu 2\"",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM06229": {
       "igdb_id": 11826,
       "path": "covers/11826.jpg",
@@ -57320,6 +58572,12 @@
       "path": "covers/63903.jpg",
       "title": "Pro Yakyuu Spirits 2013",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM06255": {
+      "igdb_id": 202825,
+      "path": "covers/202825.jpg",
+      "title": "Starry Sky: After Summer Portable: Etsuran Shite Please \"Etsu Puritsu 2\"",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM06265": {
       "igdb_id": 62754,
@@ -57345,6 +58603,18 @@
       "title": "School Wars: Sotsugyou Sensen",
       "match_method": "unique_normalized_title"
     },
+    "ULJM06285": {
+      "igdb_id": 58571,
+      "path": "covers/58571.jpg",
+      "title": "Koibana Days: Pure Flower Garden",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJM06287": {
+      "igdb_id": 203174,
+      "path": "covers/203174.jpg",
+      "title": "Starry Sky: After Autumn Portable: Etsuran Shite Please \"Etsu Puritsu 2\"",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM06289": {
       "igdb_id": 222121,
       "path": "covers/222121.jpg",
@@ -57362,6 +58632,12 @@
       "path": "covers/56320.jpg",
       "title": "Uta no Prince-sama: Music 2",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM06298": {
+      "igdb_id": 222634,
+      "path": "covers/222634.jpg",
+      "title": "O.G.A Onigokko Royal: Hunter wa Field de Koi o Suru",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM06305": {
       "igdb_id": 62719,
@@ -57549,6 +58825,12 @@
       "title": "Shin Sangoku Musou",
       "match_method": "unique_folded_title"
     },
+    "ULJM08009": {
+      "igdb_id": 220947,
+      "path": "covers/220947.jpg",
+      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJM08010": {
       "igdb_id": 2269,
       "path": "covers/2269.jpg",
@@ -57566,6 +58848,12 @@
       "path": "covers/2269.jpg",
       "title": "Monster Hunter Portable",
       "match_method": "unique_alternative_name"
+    },
+    "ULJM08015": {
+      "igdb_id": 220951,
+      "path": "covers/220951.jpg",
+      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM08016": {
       "igdb_id": 381,
@@ -57632,6 +58920,12 @@
       "path": "covers/382.jpg",
       "title": "Metal Gear Solid: Peace Walker",
       "match_method": "unique_normalized_title"
+    },
+    "ULJM08039": {
+      "igdb_id": 66526,
+      "path": "covers/66526.jpg",
+      "title": "MonHun Nikki: Poka Poka Airuu Mura",
+      "match_method": "reviewed_serial_override"
     },
     "ULJM08040": {
       "igdb_id": 45992,
@@ -57783,6 +59077,12 @@
       "title": "Lumines",
       "match_method": "unique_normalized_title"
     },
+    "ULJS00006": {
+      "igdb_id": 269516,
+      "path": "covers/269516.jpg",
+      "title": "Soukyuu no Fafner",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00007": {
       "igdb_id": 56534,
       "path": "covers/56534.jpg",
@@ -57825,11 +59125,23 @@
       "title": "Gundam Battle Tactics",
       "match_method": "unique_normalized_title"
     },
+    "ULJS00026": {
+      "igdb_id": 75899,
+      "path": "covers/75899.jpg",
+      "title": "Kidou Keisatsu Patlabor: Kamubakku MiniPato",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00027": {
       "igdb_id": 59388,
       "path": "covers/59388.jpg",
       "title": "Comic Party Portable",
       "match_method": "unique_normalized_title"
+    },
+    "ULJS00033": {
+      "igdb_id": 6455,
+      "path": "covers/6455.jpg",
+      "title": "Boku no Watashi no Katamari Damacy",
+      "match_method": "reviewed_serial_override"
     },
     "ULJS00034": {
       "igdb_id": 42889,
@@ -57987,6 +59299,12 @@
       "title": "AI Shougi",
       "match_method": "unique_folded_title"
     },
+    "ULJS00108": {
+      "igdb_id": 81499,
+      "path": "covers/81499.jpg",
+      "title": "Simple 2500 Series Portable!! Vol. 10: The IQ Cube: Moyatto Atama o Puzzle de Sukkiri!",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00110": {
       "igdb_id": 79329,
       "path": "covers/79329.jpg",
@@ -58070,6 +59388,12 @@
       "path": "covers/19101.jpg",
       "title": "Prinny: Ore ga Shujinkou de Iinsuka?",
       "match_method": "unique_alternative_name"
+    },
+    "ULJS00155": {
+      "igdb_id": 38486,
+      "path": "covers/38486.jpg",
+      "title": "Samurai Dou Portable",
+      "match_method": "reviewed_serial_override"
     },
     "ULJS00157": {
       "igdb_id": 65217,
@@ -58251,6 +59575,12 @@
       "title": "Amagoushi no Yakata Portable: Ichiyanagi Nagomu, Saisho no Junan",
       "match_method": "unique_normalized_title"
     },
+    "ULJS00218": {
+      "igdb_id": 65216,
+      "path": "covers/65216.jpg",
+      "title": "Katekyoo Hitman Reborn! Battle Arena 2: Spirits Burst",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00221": {
       "igdb_id": 1162,
       "path": "covers/1162.jpg",
@@ -58305,6 +59635,12 @@
       "title": "La Pucelle: Ragnarok",
       "match_method": "unique_normalized_title"
     },
+    "ULJS00247": {
+      "igdb_id": 124635,
+      "path": "covers/124635.jpg",
+      "title": "Koori no Haka: Ichiyanagi Nagomu, 3-dome no Junan",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00250": {
       "igdb_id": 75697,
       "path": "covers/75697.jpg",
@@ -58341,6 +59677,12 @@
       "title": "Zettai Hero Kaizou Keikaku",
       "match_method": "unique_alternative_name"
     },
+    "ULJS00266": {
+      "igdb_id": 69401,
+      "path": "covers/69401.jpg",
+      "title": "Dot Hack Link",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00268": {
       "igdb_id": 81473,
       "path": "covers/81473.jpg",
@@ -58359,11 +59701,23 @@
       "title": "Vitamin Z Revolution",
       "match_method": "unique_normalized_title"
     },
+    "ULJS00279": {
+      "igdb_id": 69401,
+      "path": "covers/69401.jpg",
+      "title": "Dot Hack Link",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00281": {
       "igdb_id": 67126,
       "path": "covers/67126.jpg",
       "title": "Gundam Assault Survive",
       "match_method": "unique_normalized_title"
+    },
+    "ULJS00282": {
+      "igdb_id": 111904,
+      "path": "covers/111904.jpg",
+      "title": "Shin Master of Monsters Final EX: Mukunaru Nageki, Tenmei no Saika",
+      "match_method": "reviewed_serial_override"
     },
     "ULJS00284": {
       "igdb_id": 59328,
@@ -58557,6 +59911,12 @@
       "title": "Ore no Imouto ga Konna ni Kawaii wake ga Nai Portable",
       "match_method": "unique_normalized_title"
     },
+    "ULJS00359": {
+      "igdb_id": 63625,
+      "path": "covers/63625.jpg",
+      "title": "Kenka Banchou 5: Otoko no Rule",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00360": {
       "igdb_id": 42838,
       "path": "covers/42838.jpg",
@@ -58641,6 +60001,18 @@
       "title": "Taiko no Tatsujin Portable DX",
       "match_method": "unique_normalized_title"
     },
+    "ULJS00384": {
+      "igdb_id": 38451,
+      "path": "covers/38451.jpg",
+      "title": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJS00385": {
+      "igdb_id": 38451,
+      "path": "covers/38451.jpg",
+      "title": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00389": {
       "igdb_id": 66080,
       "path": "covers/66080.jpg",
@@ -58701,6 +60073,18 @@
       "title": "Evangelion Shin Gekijou-ban: 3nd Impact",
       "match_method": "unique_folded_title"
     },
+    "ULJS00413": {
+      "igdb_id": 64710,
+      "path": "covers/64710.jpg",
+      "title": "AKB1-48+10: Idol to Guam de Koishitara...",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJS00414": {
+      "igdb_id": 64710,
+      "path": "covers/64710.jpg",
+      "title": "AKB1-48+10: Idol to Guam de Koishitara...",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00420": {
       "igdb_id": 269506,
       "path": "covers/269506.jpg",
@@ -58725,6 +60109,24 @@
       "title": "Ao no Exorcist: Genkoku no Labyrinth",
       "match_method": "unique_normalized_title"
     },
+    "ULJS00427": {
+      "igdb_id": 269508,
+      "path": "covers/269508.jpg",
+      "title": "Weiss Schwarz Portable: 2 Turn-me",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJS00429": {
+      "igdb_id": 11846,
+      "path": "covers/11846.jpg",
+      "title": "Mahou Shoujo Madoka Magica Portable",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULJS00430": {
+      "igdb_id": 11846,
+      "path": "covers/11846.jpg",
+      "title": "Mahou Shoujo Madoka Magica Portable",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00431": {
       "igdb_id": 42760,
       "path": "covers/42760.jpg",
@@ -58736,6 +60138,12 @@
       "path": "covers/42760.jpg",
       "title": "Tales of the Heroes: Twin Brave",
       "match_method": "unique_normalized_title"
+    },
+    "ULJS00434": {
+      "igdb_id": 269522,
+      "path": "covers/269522.jpg",
+      "title": "Sangoku-hime: Sangoku Ransei: Haten no Saihai",
+      "match_method": "reviewed_serial_override"
     },
     "ULJS00438": {
       "igdb_id": 7842,
@@ -58791,6 +60199,12 @@
       "title": "Kirameki School Life SP: The Wonder Years",
       "match_method": "unique_normalized_title"
     },
+    "ULJS00459": {
+      "igdb_id": 56491,
+      "path": "covers/56491.jpg",
+      "title": "Boku wa Tomodachi ga Sukunai Portable",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS00460": {
       "igdb_id": 80145,
       "path": "covers/80145.jpg",
@@ -58808,6 +60222,12 @@
       "path": "covers/269423.jpg",
       "title": "Battle Dodgeball 3",
       "match_method": "unique_normalized_title"
+    },
+    "ULJS00475": {
+      "igdb_id": 75721,
+      "path": "covers/75721.jpg",
+      "title": "Kidou Senshi Gundam AGE: Universe Accel",
+      "match_method": "reviewed_serial_override"
     },
     "ULJS00480": {
       "igdb_id": 66373,
@@ -58880,6 +60300,12 @@
       "path": "covers/9694.jpg",
       "title": "Super Danganronpa 2: Sayonara Zetsubou Gakuen",
       "match_method": "unique_folded_title"
+    },
+    "ULJS00523": {
+      "igdb_id": 63055,
+      "path": "covers/63055.jpg",
+      "title": "Kuroko no Baske: Kiseki no Game",
+      "match_method": "reviewed_serial_override"
     },
     "ULJS00532": {
       "igdb_id": 8632,
@@ -59073,6 +60499,12 @@
       "title": "Bokujou Monogatari: Harvest Moon: Boy & Girl",
       "match_method": "reviewed_title_alias"
     },
+    "ULJS19009": {
+      "igdb_id": 6455,
+      "path": "covers/6455.jpg",
+      "title": "Boku no Watashi no Katamari Damacy",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS19012": {
       "igdb_id": 196741,
       "path": "covers/196741.jpg",
@@ -59205,11 +60637,23 @@
       "title": "Ace Combat X2: Joint Assault",
       "match_method": "unique_alternative_name"
     },
+    "ULJS19058": {
+      "igdb_id": 69401,
+      "path": "covers/69401.jpg",
+      "title": "Dot Hack Link",
+      "match_method": "reviewed_serial_override"
+    },
     "ULJS19060": {
       "igdb_id": 7842,
       "path": "covers/7842.jpg",
       "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei",
       "match_method": "unique_folded_title"
+    },
+    "ULJS19062": {
+      "igdb_id": 63625,
+      "path": "covers/63625.jpg",
+      "title": "Kenka Banchou 5: Otoko no Rule",
+      "match_method": "reviewed_serial_override"
     },
     "ULJS19067": {
       "igdb_id": 2572,
@@ -59222,6 +60666,12 @@
       "path": "covers/11852.jpg",
       "title": "God Eater Burst",
       "match_method": "unique_alternative_name"
+    },
+    "ULJS19097": {
+      "igdb_id": 63055,
+      "path": "covers/63055.jpg",
+      "title": "Kuroko no Baske: Kiseki no Game",
+      "match_method": "reviewed_serial_override"
     },
     "ULKS46001": {
       "igdb_id": 22574,
@@ -59265,6 +60715,12 @@
       "title": "FIFA Soccer",
       "match_method": "unique_alternative_name"
     },
+    "ULKS46013": {
+      "igdb_id": 24274,
+      "path": "covers/24274.jpg",
+      "title": "Sincheon Magye: GOC IV: Another Side",
+      "match_method": "reviewed_serial_override"
+    },
     "ULKS46015": {
       "igdb_id": 22508,
       "path": "covers/22508.jpg",
@@ -59294,6 +60750,12 @@
       "path": "covers/22312.jpg",
       "title": "Virtua Tennis: World Tour",
       "match_method": "unique_normalized_title"
+    },
+    "ULKS46024": {
+      "igdb_id": 220947,
+      "path": "covers/220947.jpg",
+      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
+      "match_method": "reviewed_serial_override"
     },
     "ULKS46027": {
       "igdb_id": 10916,
@@ -59361,6 +60823,24 @@
       "title": "Gitaroo Man Lives!",
       "match_method": "unique_normalized_title"
     },
+    "ULKS46082": {
+      "igdb_id": 269517,
+      "path": "covers/269517.jpg",
+      "title": "Oh's Talk English (Disc 1)",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULKS46083": {
+      "igdb_id": 269517,
+      "path": "covers/269517.jpg",
+      "title": "Oh's Talk English (Disc 2)",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULKS46084": {
+      "igdb_id": 42886,
+      "path": "covers/42886.jpg",
+      "title": "Jin Samguk Mussang 2nd Evolution",
+      "match_method": "reviewed_serial_override"
+    },
     "ULKS46100": {
       "igdb_id": 19692,
       "path": "covers/19692.jpg",
@@ -59385,6 +60865,12 @@
       "title": "Metal Gear Solid: Portable Ops",
       "match_method": "unique_normalized_title"
     },
+    "ULKS46120": {
+      "igdb_id": 220951,
+      "path": "covers/220951.jpg",
+      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
+      "match_method": "reviewed_serial_override"
+    },
     "ULKS46122": {
       "igdb_id": 56520,
       "path": "covers/56520.jpg",
@@ -59402,6 +60888,12 @@
       "path": "covers/5004.jpg",
       "title": "Metal Slug Complete",
       "match_method": "unique_alternative_name"
+    },
+    "ULKS46130": {
+      "igdb_id": 42886,
+      "path": "covers/42886.jpg",
+      "title": "Jin Samguk Mussang 2nd Evolution",
+      "match_method": "reviewed_serial_override"
     },
     "ULKS46133": {
       "igdb_id": 20073,
@@ -59547,6 +61039,12 @@
       "title": "Dante's Inferno",
       "match_method": "unique_normalized_title"
     },
+    "ULKS46249": {
+      "igdb_id": 44705,
+      "path": "covers/44705.jpg",
+      "title": "Pro Yagu Spirits 2010",
+      "match_method": "reviewed_serial_override"
+    },
     "ULKS46259": {
       "igdb_id": 65896,
       "path": "covers/65896.jpg",
@@ -59577,6 +61075,12 @@
       "title": "Taiko no Tatsujin Portable DX",
       "match_method": "unique_normalized_title"
     },
+    "ULKS46281": {
+      "igdb_id": 44575,
+      "path": "covers/44575.jpg",
+      "title": "Pro Yagu Spirits 2012",
+      "match_method": "reviewed_serial_override"
+    },
     "ULKS46282": {
       "igdb_id": 65453,
       "path": "covers/65453.jpg",
@@ -59606,6 +61110,12 @@
       "path": "covers/18787.jpg",
       "title": "Ridge Racer",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10002": {
+      "igdb_id": 4689,
+      "path": "covers/4689.jpg",
+      "title": "Lumines: Puzzle Fusion",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10003": {
       "igdb_id": 22508,
@@ -59889,6 +61399,12 @@
       "title": "WWE SmackDown vs. Raw 2006",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10051": {
+      "igdb_id": 200897,
+      "path": "covers/200897.jpg",
+      "title": "Ys: The Ark of Napishtim",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10052": {
       "igdb_id": 4067,
       "path": "covers/4067.jpg",
@@ -59912,6 +61428,12 @@
       "path": "covers/243197.jpg",
       "title": "Pac-Man World 3",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10056": {
+      "igdb_id": 220947,
+      "path": "covers/220947.jpg",
+      "title": "World Tour Soccer: Winning Eleven 9",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10057": {
       "igdb_id": 84162,
@@ -60045,6 +61567,12 @@
       "title": "World Poker Tour",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10080": {
+      "igdb_id": 248548,
+      "path": "covers/248548.jpg",
+      "title": "007: From Russia with Love",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10081": {
       "igdb_id": 2567,
       "path": "covers/2567.jpg",
@@ -60110,6 +61638,12 @@
       "path": "covers/12937.jpg",
       "title": "Mega Man: Powered Up",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10092": {
+      "igdb_id": 281852,
+      "path": "covers/281852.jpg",
+      "title": "Nickelodeon SpongeBob SquarePants: The Yellow Avenger",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10093": {
       "igdb_id": 119183,
@@ -60278,6 +61812,12 @@
       "path": "covers/129853.jpg",
       "title": "Bomberman",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10122": {
+      "igdb_id": 5944,
+      "path": "covers/5944.jpg",
+      "title": "NASCAR",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10123": {
       "igdb_id": 28882,
@@ -60513,6 +62053,12 @@
       "title": "Bounty Hounds",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10162": {
+      "igdb_id": 5288,
+      "path": "covers/5288.jpg",
+      "title": "World Series of Poker: Tournament of Champions: 2007 Edition",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10163": {
       "igdb_id": 203188,
       "path": "covers/203188.jpg",
@@ -60524,6 +62070,12 @@
       "path": "covers/5742.jpg",
       "title": "Xiaolin Showdown",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10165": {
+      "igdb_id": 202100,
+      "path": "covers/202100.jpg",
+      "title": "Nickelodeon Avatar: The Last Airbender",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10166": {
       "igdb_id": 74717,
@@ -60645,6 +62197,12 @@
       "title": "Activision Hits Remixed",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10187": {
+      "igdb_id": 358374,
+      "path": "covers/358374.jpg",
+      "title": "DreamWorks Over the Hedge: Hammy Goes Nuts!",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10188": {
       "igdb_id": 23116,
       "path": "covers/23116.jpg",
@@ -60680,6 +62238,12 @@
       "path": "covers/23117.jpg",
       "title": "Brothers in Arms: D-Day",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10194": {
+      "igdb_id": 248508,
+      "path": "covers/248508.jpg",
+      "title": "DreamWorks Shrek: Smash n' Crash Racing",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10195": {
       "igdb_id": 19260,
@@ -60837,6 +62401,12 @@
       "title": "Full Auto 2: Battlelines",
       "match_method": "reviewed_title_alias"
     },
+    "ULUS10221": {
+      "igdb_id": 7225,
+      "path": "covers/7225.jpg",
+      "title": "UEFA Champions League 2006-2007",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10223": {
       "igdb_id": 81499,
       "path": "covers/81499.jpg",
@@ -60981,6 +62551,12 @@
       "title": "Virtua Tennis 3",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10248": {
+      "igdb_id": 3669,
+      "path": "covers/3669.jpg",
+      "title": "DreamWorks Shrek the Third",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10249": {
       "igdb_id": 201348,
       "path": "covers/201348.jpg",
@@ -60999,6 +62575,12 @@
       "title": "Final Fantasy: 20th Anniversary Edition",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10252": {
+      "igdb_id": 5100,
+      "path": "covers/5100.jpg",
+      "title": "Disney Pirates of the Caribbean: At World's End",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10253": {
       "igdb_id": 1162,
       "path": "covers/1162.jpg",
@@ -61016,6 +62598,12 @@
       "path": "covers/69188.jpg",
       "title": "Spelling Challenges and More!",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10256": {
+      "igdb_id": 5098,
+      "path": "covers/5098.jpg",
+      "title": "MTV Pimp My Ride",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10257": {
       "igdb_id": 19255,
@@ -61389,6 +62977,12 @@
       "title": "Bomberman Land",
       "match_method": "reviewed_title_alias"
     },
+    "ULUS10320": {
+      "igdb_id": 220955,
+      "path": "covers/220955.jpg",
+      "title": "PES 2008: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10321": {
       "igdb_id": 5289,
       "path": "covers/5289.jpg",
@@ -61484,6 +63078,12 @@
       "path": "covers/2407.jpg",
       "title": "Crisis Core: Final Fantasy VII",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10337": {
+      "igdb_id": 7226,
+      "path": "covers/7226.jpg",
+      "title": "UEFA Euro 2008: Austria-Switzerland",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10338": {
       "igdb_id": 5162,
@@ -61713,11 +63313,23 @@
       "title": "Cabela's Legendary Adventures",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10386": {
+      "igdb_id": 5092,
+      "path": "covers/5092.jpg",
+      "title": "PDC World Championship Darts",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10387": {
       "igdb_id": 2801,
       "path": "covers/2801.jpg",
       "title": "Ben 10: Alien Force",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10388": {
+      "igdb_id": 220972,
+      "path": "covers/220972.jpg",
+      "title": "PES 2009: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10389": {
       "igdb_id": 208778,
@@ -61862,6 +63474,12 @@
       "path": "covers/4990.jpg",
       "title": "Major League Baseball 2K9",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10415": {
+      "igdb_id": 2571,
+      "path": "covers/2571.jpg",
+      "title": "Dragonball: Evolution",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10416": {
       "igdb_id": 6983,
@@ -62145,6 +63763,12 @@
       "title": "Steambot Chronicles: Battle Tournament",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10471": {
+      "igdb_id": 237839,
+      "path": "covers/237839.jpg",
+      "title": "DiRT 2",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10472": {
       "igdb_id": 997,
       "path": "covers/997.jpg",
@@ -62181,6 +63805,12 @@
       "title": "Star Wars: The Clone Wars: Republic Heroes",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10478": {
+      "igdb_id": 295596,
+      "path": "covers/295596.jpg",
+      "title": "Nickelodeon SpongeBob's Truth or Square",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10479": {
       "igdb_id": 21736,
       "path": "covers/21736.jpg",
@@ -62204,6 +63834,12 @@
       "path": "covers/13909.jpg",
       "title": "Lunar: Silver Star Harmony",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10483": {
+      "igdb_id": 220976,
+      "path": "covers/220976.jpg",
+      "title": "PES 2010: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10484": {
       "igdb_id": 5080,
@@ -62493,6 +64129,12 @@
       "title": "FIFA Soccer 11",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10546": {
+      "igdb_id": 220978,
+      "path": "covers/220978.jpg",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10547": {
       "igdb_id": 21020,
       "path": "covers/21020.jpg",
@@ -62516,6 +64158,18 @@
       "path": "covers/5056.jpg",
       "title": "NBA 2K11",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10553": {
+      "igdb_id": 220978,
+      "path": "covers/220978.jpg",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
+    "ULUS10554": {
+      "igdb_id": 220978,
+      "path": "covers/220978.jpg",
+      "title": "PES 2011: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10555": {
       "igdb_id": 42854,
@@ -62667,6 +64321,12 @@
       "title": "NBA 2K12",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10586": {
+      "igdb_id": 240465,
+      "path": "covers/240465.jpg",
+      "title": "PES 2012: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10587": {
       "igdb_id": 240392,
       "path": "covers/240392.jpg",
@@ -62685,6 +64345,12 @@
       "title": "Gungnir",
       "match_method": "unique_normalized_title"
     },
+    "ULUS10593": {
+      "igdb_id": 21313,
+      "path": "covers/21313.jpg",
+      "title": "Growlanser: Wayfarer of Time",
+      "match_method": "reviewed_serial_override"
+    },
     "ULUS10594": {
       "igdb_id": 21702,
       "path": "covers/21702.jpg",
@@ -62702,6 +64368,12 @@
       "path": "covers/240400.jpg",
       "title": "FIFA Soccer 13",
       "match_method": "unique_normalized_title"
+    },
+    "ULUS10597": {
+      "igdb_id": 240466,
+      "path": "covers/240466.jpg",
+      "title": "PES 2013: Pro Evolution Soccer",
+      "match_method": "reviewed_serial_override"
     },
     "ULUS10598": {
       "igdb_id": 5058,

@@ -97,30 +97,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCAS40027",
-      "title": "Shinki Gensou: SSII Unlimited Side",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCAS40032",
-      "title": "Yarudora Portable: Double Cast",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCAS40033",
-      "title": "Yarudora Portable: Kisetsu o Dakishimete",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCAS40034",
-      "title": "Yarudora Portable: Sampaguita",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCAS40042",
       "title": "Karakuri",
       "reason": "no_exact_match",
@@ -151,44 +127,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCAS40158",
-      "title": "Mawaskes: Based on Carton-kun",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCAS40162",
-      "title": "Dragoneer's Aria: Ryu ga Nemuru Made",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCAS40166",
       "title": "Namco Museum",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCAS40254",
-      "title": "Utawarerumono Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCAS40256",
-      "title": "Dragonball: Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCAS40261",
-      "title": "PixelJunk Monsters UMD Limited Edition",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCAS40269",
-      "title": "Shin Seiki Evangelion: Battle Orchestra Portable",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -237,12 +177,6 @@
     {
       "serial": "UCES00012",
       "title": "Everybody's Golf",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCES00178",
-      "title": "Key of Heaven",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -427,18 +361,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCES01564",
-      "title": "Disney Phineas and Ferb: Across the 2nd Dimension",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCET00247",
-      "title": "Key of Heaven",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCET00359",
       "title": "Formula One 06",
       "reason": "no_exact_match",
@@ -523,12 +445,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCJP00103",
-      "title": "Ratchet & Clank 5: Gekitotsu! Dodeka Ginga no MiriMiri Gundan",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCJP00138",
       "title": "Navi-Chu",
       "reason": "no_exact_match",
@@ -541,26 +457,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCJP00174",
-      "title": "Resistance: Houfuku no Toki",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCJS10002",
       "title": "Doko Demo Issho",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10013",
-      "title": "Yarudora Portable: Kisetsu o Dakishimete",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10015",
-      "title": "Yarudora Portable: Yukiwari no Hana",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -573,12 +471,6 @@
     {
       "serial": "UCJS10021",
       "title": "Blade Dancer: Sennen no Yakusoku",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10030",
-      "title": "Bomberman: Bakufuu Sentai Bombermen",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -607,12 +499,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCJS10052",
-      "title": "Ratchet & Clank 5: Gekitotsu! Dodeka Ginga no MiriMiri Gundan",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCJS10053",
       "title": "TalkMan-shiki Shabelingual Eikaiwa for Kids!",
       "reason": "no_exact_match",
@@ -627,12 +513,6 @@
     {
       "serial": "UCJS10056",
       "title": "Minna no Golf-jou Vol. 1 (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10060",
-      "title": "Saru! Get You! SaruSaru Daisakusen",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -673,48 +553,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCJS10089",
-      "title": "Patapon 2: Don-Chaka",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10095",
-      "title": "Boku no Natsuyasumi 4: Setouchi Shounen Tanteidan: Boku to Himitsu no Chizu",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10102",
-      "title": "SOCOM: U.S. Navy SEALs Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10114",
-      "title": "God of War: Koutan no Kokuin",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10115",
-      "title": "Shirokishi Monogatari Episode Portable: Dogma Wars",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10116",
-      "title": "Ore no Shikabane o Koete Yuke",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10117",
-      "title": "Ore no Shikabane o Koete Yuke",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCJS18002",
       "title": "Doko Demo Issho",
       "reason": "no_exact_match",
@@ -723,24 +561,6 @@
     {
       "serial": "UCJS18020",
       "title": "TalkMan Euro! TalkMan Europa Gengo-ban",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS18029",
-      "title": "Saru! Get You! SaruSaru Daisakusen",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS18036",
-      "title": "Patapon 2: Don-Chaka",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS18053",
-      "title": "Patapon 2: Don-Chaka",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -853,32 +673,14 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCKS45006",
-      "title": "Vulcanus: Seek & Destroy",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCKS45007",
       "title": "Hg Hydrium",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCKS45009",
-      "title": "Piposarugetchu P",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCKS45010",
       "title": "MLB",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCKS45016",
-      "title": "Chase Cop: Pursuit Force",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -901,44 +703,14 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCKS45058",
-      "title": "Final Fantasy Tactics: Shishi Sensou",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCKS45079",
       "title": "Makai Senki Disgaea Portable: Tsuushin Taisen Hajimemashita.",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCKS45082",
-      "title": "Echochrome: Muhan Hoerang",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCKS45135",
-      "title": "Patapon 2: Don-Chaka",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCKS45140",
-      "title": "P3P: Yeosin Jeonsaeng: Persona 3 Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCKS45145",
       "title": "Everybody's Stress Buster",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCKS45175",
-      "title": "P3P: Yeosin Jeonsaeng: Persona 3 Portable",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -967,12 +739,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCUS98705",
-      "title": "God of War: Chains of Olympus: Special Edition: Battle of Attica",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCUS98713",
       "title": "God of War: Chains of Olympus: Battle of Attica",
       "reason": "no_exact_match",
@@ -981,30 +747,6 @@
     {
       "serial": "UCUS98766",
       "title": "Disney/Pixar Cars 2",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULAS42018",
-      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULAS42038",
-      "title": "Power Smash: New Generation",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULAS42088",
-      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULAS42098",
-      "title": "Puyo Puyo! Puyopuyo 15th Anniversary",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1035,42 +777,6 @@
     {
       "serial": "ULES00042",
       "title": "V8 Supercars Australia 2",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00043",
-      "title": "Lumines: Puzzle Fusion",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00160",
-      "title": "Pro Evolution Soccer 5",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00191",
-      "title": "X-Men Legends II: El Ascenso de Apocalipsis",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00200",
-      "title": "Der Herr der Ringe: Taktiken",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00201",
-      "title": "Il Signore degli Anelli: Tactics",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00202",
-      "title": "El Señor de los Anillos: Tácticas",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1111,48 +817,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES00267",
-      "title": "Ys: The Ark of Napishtim",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00280",
-      "title": "Nickelodeon SpongeBob SquarePants: The Yellow Avenger",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00288",
-      "title": "007: From Russia with Love",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00290",
-      "title": "007: From Russia with Love",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00331",
-      "title": "L'Entraîneur 2006: Championship Manager",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00332",
-      "title": "Scudetto 2006: Championship Manager",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00342",
-      "title": "FIFA Fussball-Weltmeisterschaft Deutschland 2006",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES00343",
       "title": "Mondiali FIFA 2006",
       "reason": "no_exact_match",
@@ -1173,36 +837,6 @@
     {
       "serial": "ULES00393",
       "title": "X-treme Party",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00394",
-      "title": "The Godfather",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00397",
-      "title": "Le Parrain",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00398",
-      "title": "Der Pate",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00399",
-      "title": "Il Padrino",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00400",
-      "title": "El Padrino",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1237,26 +871,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES00457",
-      "title": "NASCAR",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES00459",
       "title": "FIFA 07",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00476",
-      "title": "Pro Evolution Soccer 6",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00556",
-      "title": "Sega Mega Drive Collection",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1267,110 +883,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES00572",
-      "title": "Scooby-Doo! Qui Regarde Qui?",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00591",
-      "title": "World Series of Poker: Tournament of Champions: 2007 Edition",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00618",
-      "title": "DreamWorks Shrek: Smash n' Crash Racing",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00628",
-      "title": "Gurumin: Une Aventure Monstrueuse",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00633",
-      "title": "Nickelodeon Avatar: The Legend of Aang",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00663",
-      "title": "DreamWorks Over the Hedge: Hammy Goes Nuts!",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00664",
-      "title": "DreamWorks Vecinos Invasores: Hammy Enloquece",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00665",
-      "title": "DreamWorks Over the Hedge: Hammy Goes Nuts!",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES00693",
       "title": "Spinout",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00699",
-      "title": "UEFA Champions League 2006-2007",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00705",
-      "title": "Pac-Man Rally",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00706",
-      "title": "UEFA Champions League 2006-2007",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00707",
-      "title": "UEFA Champions League 2006-2007",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00708",
-      "title": "UEFA Champions League 2006-2007",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00709",
-      "title": "UEFA Champions League 2006-2007",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00712",
-      "title": "Chi Vuol Essere Milionario? Party Edition",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00727",
-      "title": "Disney Pirates of the Caribbean: At World's End",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00728",
-      "title": "Disney Pirates of the Caribbean: At World's End",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1447,92 +961,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES00789",
-      "title": "Dragon Ball Z: Shin Budokai 2",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00806",
-      "title": "Practical IQ: Test Your Intelligence",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00812",
-      "title": "DreamWorks Shrek the Third",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00813",
-      "title": "DreamWorks Shrek the Third",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00880",
-      "title": "PES 2008: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00901",
-      "title": "Spider-Man: Freund oder Feind",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00952",
-      "title": "Der Goldene Kompass",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00953",
-      "title": "La Bussola d'Oro",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00954",
-      "title": "La Brújula Dorada",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00960",
-      "title": "MTV Pimp My Ride",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES00963",
       "title": "Off Road",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00976",
-      "title": "Les Simpson: Le Jeu",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00977",
-      "title": "I Simpson: Il Videogioco",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00978",
-      "title": "Die Simpsons: Das Spiel",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00979",
-      "title": "Los Simpson: El Videojuego",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1549,32 +979,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES01025",
-      "title": "UEFA Euro 2008: Austria-Switzerland",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01038",
-      "title": "UEFA Euro 2008: Austria-Switzerland",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01096",
-      "title": "PDC World Championship Darts",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES01103",
       "title": "Warning: Code de la Route",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01104",
-      "title": "Mawaskes Puzzle",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1591,44 +997,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES01176",
-      "title": "PES 2009: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01227",
-      "title": "Dragonball: Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01254",
-      "title": "Disney/Pixar Oben",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES01266",
       "title": "Petz: My Baby Hamster",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01317",
-      "title": "Il-2 Shturmovik: Krylatye xishhniki",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01353",
-      "title": "PES 2010: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01354",
-      "title": "PES 2010: Pro Evolution Soccer",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1641,12 +1011,6 @@
     {
       "serial": "ULES01361",
       "title": "Oblachno, vozmozhny osadki v vide frikadelek",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01365",
-      "title": "Nickelodeon SpongeBob SquarePants: SpongeBob's Truth or Square",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1669,38 +1033,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES01438",
-      "title": "Prince of Persia: Zabytye peski",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES01465",
       "title": "DreamWorks Megamind: The Blue Defender",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01467",
-      "title": "PES 2011: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01468",
-      "title": "PES 2011: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01469",
-      "title": "PES 2011: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01470",
-      "title": "PES 2011: Pro Evolution Soccer",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1719,30 +1053,6 @@
     {
       "serial": "ULES01495",
       "title": "Disney TRON: Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01529",
-      "title": "LEGO Piraty Karibskogo morya: Videoigra",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01540",
-      "title": "PES 2012: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01541",
-      "title": "PES 2012: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01542",
-      "title": "PES 2012: Pro Evolution Soccer",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1801,56 +1111,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES01575",
-      "title": "PES 2013: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01577",
-      "title": "PES 2013: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01580",
-      "title": "PES 2013: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05009",
-      "title": "Ys VI: Napishtim no Hako",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05012",
-      "title": "Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou-hen",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05014",
-      "title": "Dora-Slot: Shuyaku wa Zenigata",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05027",
       "title": "Dora-Slot: Kyojin no Hoshi II",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05031",
-      "title": "Twelve: Sengoku Fuushinden",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05033",
-      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1879,20 +1141,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05079",
-      "title": "Power Smash: New Generation",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05095",
       "title": "Winning Post 6 2006",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05100",
-      "title": "Jitsuroku Oniyome Nikki: Shiuchi ni Taeru Otto no Rifujin Taiken Adventure",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1915,30 +1165,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05128",
-      "title": "Boku wa Koukuu Kanseikan: Airport Hero Narita",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05129",
-      "title": "007: Russia yori Ai o Komete",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05132",
-      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05133",
-      "title": "FIFA World Cup Deutsch Taikai 2006",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05135",
       "title": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakushi Kanshuu: Nou ni Kaikan Aha Taiken",
       "reason": "no_exact_match",
@@ -1957,26 +1183,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05177",
-      "title": "Puyo Puyo! Puyopuyo 15th Anniversary",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05184",
-      "title": "Planetarium Creator Oohira Takayuki Kanshuu: Homestar Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05189",
       "title": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakushi Kanshuu: Nou ni Kaikan Minna de Aha Taiken",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05194",
-      "title": "Final Fantasy Tactics: Shishi Sensou",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1999,26 +1207,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05277",
-      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 1)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05278",
-      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05280",
       "title": "Capcom Classics Collection",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05287",
-      "title": "Akumajou Dracula X: Chronicle",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2031,12 +1221,6 @@
     {
       "serial": "ULJM05312",
       "title": "Winning Post 6 2006",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05342",
-      "title": "Puyo Puyo! Puyopuyo 15th Anniversary",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2065,50 +1249,14 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05438",
-      "title": "God of War: Rakujitsu no Hisoukyoku",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05441",
       "title": "Harukanaru Toki no Naka de 3 with Izayoiki Aizouban",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05453",
-      "title": "Boku wa Koukuu Kanseikan: Airport Hero Shinchitose",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05457",
-      "title": "Utawarerumono Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05458",
-      "title": "Utawarerumono Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05464",
-      "title": "Pia Carrot e Youkoso!! G.P. Gakuen Princess Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05465",
       "title": "Onore no Shinzuru Michi o Yuke",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05477",
-      "title": "Shin Seiki Evangelion: Koutetsu no Girlfriend 2nd Portable",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2137,26 +1285,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05516",
-      "title": "Final Fantasy Tactics: Shishi Sensou",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05518",
-      "title": "J.League Pro Soccer Club o Tsukurou! 6: Pride of J",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05540",
       "title": "Sengoku-hime: Senran ni Mau Otome-tachi",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05548",
-      "title": "Akumajou Dracula X: Chronicle",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2179,12 +1309,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05646",
-      "title": "2010 FIFA World Cup: Minami Africa Taikai",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05647",
       "title": "Otome wa Oanesama Boku ni Koi Shiteru Portable",
       "reason": "no_exact_match",
@@ -2197,18 +1321,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05688",
-      "title": "Prince of Persia: Boukyaku no Suna",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05710",
-      "title": "MonHun Nikki: Poka Poka Airuu Mura",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05753",
       "title": "Tactics Ogre: Unmei no Wa",
       "reason": "no_exact_match",
@@ -2217,12 +1329,6 @@
     {
       "serial": "ULJM05759",
       "title": "Persona 2: Tsumi: Innocent Sin",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05779",
-      "title": "Gungnir: Masou no Gunshin to Eiyuu Sensou",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2251,12 +1357,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05855",
-      "title": "Final Fantasy IV Complete Collection: Final Fantasy IV & The After Years",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05864",
       "title": "Elminage Original: Yami no Miko to Kamigami no Yubiwa",
       "reason": "no_exact_match",
@@ -2271,12 +1371,6 @@
     {
       "serial": "ULJM05892",
       "title": "Mother Goose no Himitsu no Yakata: Nursery Rhymes for you",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05898",
-      "title": "J.League Pro Soccer Club o Tsukurou! 7: Euro Plus",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2317,26 +1411,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM05955",
-      "title": "Fairy Tail: Zerefu Kakusei",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM05956",
       "title": "Arcana Famiglia: La Storia della Arcana Famiglia",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05957",
-      "title": "Senjou no Valkyria 3 E2: Extra Edition",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05964",
-      "title": "Puyo Puyo!! Puyopuyo 20th Anniversary",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2371,12 +1447,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM06122",
-      "title": "Final Fantasy IV Complete Collection: Final Fantasy IV & The After Years",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM06161",
       "title": "World Soccer Winning Eleven 2013",
       "reason": "no_exact_match",
@@ -2395,12 +1465,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM06212",
-      "title": "Puyo Puyo!! Puyopuyo 20th Anniversary",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM06217",
       "title": "Final Fantasy Reishiki (Disc 1)",
       "reason": "no_exact_match",
@@ -2409,30 +1473,6 @@
     {
       "serial": "ULJM06218",
       "title": "Final Fantasy Reishiki (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM06227",
-      "title": "Starry Sky: After Spring Portable: Etsuran Shite Please \"Etsu Puritsu 2\"",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM06255",
-      "title": "Starry Sky: After Summer Portable: Etsuran Shite Please \"Etsu Puritsu 2\"",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM06285",
-      "title": "Koibana Days: Pure Flower Garden",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM06287",
-      "title": "Starry Sky: After Autumn Portable: Etsuran Shite Please \"Etsu Puritsu 2\"",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2449,12 +1489,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM06298",
-      "title": "O.G.A Onigokko Royal: Hunter wa Field de Koi o Suru",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM06300",
       "title": "Toki no Kizuna: Hanamusubi Tsuzuri",
       "reason": "no_exact_match",
@@ -2467,20 +1501,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM08009",
-      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM08012",
       "title": "Geki Sengoku Musou",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM08015",
-      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2499,12 +1521,6 @@
     {
       "serial": "ULJM08035",
       "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM08039",
-      "title": "MonHun Nikki: Poka Poka Airuu Mura",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2557,12 +1573,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS00006",
-      "title": "Soukyuu no Fafner",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJS00012",
       "title": "Namco Museum",
       "reason": "no_exact_match",
@@ -2587,20 +1597,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS00026",
-      "title": "Kidou Keisatsu Patlabor: Kamubakku MiniPato",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJS00029",
       "title": "Karakuri",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00033",
-      "title": "Boku no Watashi no Katamari Damacy",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2659,12 +1657,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS00108",
-      "title": "Simple 2500 Series Portable!! Vol. 10: The IQ Cube: Moyatto Atama o Puzzle de Sukkiri!",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJS00113",
       "title": "Makai Senki Disgaea Portable: Tsuushin Taisen Hajimemashita.",
       "reason": "no_exact_match",
@@ -2701,12 +1693,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS00155",
-      "title": "Samurai Dou Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJS00159",
       "title": "Sengoku Efuda Yuugi: Hototogisu Ran",
       "reason": "no_exact_match",
@@ -2731,12 +1717,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS00218",
-      "title": "Katekyoo Hitman Reborn! Battle Arena 2: Spirits Burst",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJS00220",
       "title": "Hagane no Renkinjutsushi: Fullmetal Alchemist: Senaka o Takuseshi Mono",
       "reason": "no_exact_match",
@@ -2749,18 +1729,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS00247",
-      "title": "Koori no Haka: Ichiyanagi Nagomu, 3-dome no Junan",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00266",
-      "title": "Dot Hack Link",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJS00269",
       "title": "Ginsei Shougi Portable",
       "reason": "no_exact_match",
@@ -2769,18 +1737,6 @@
     {
       "serial": "ULJS00270",
       "title": "Classic Dungeon: Fuyoku no Masoujin",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00279",
-      "title": "Dot Hack Link",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00282",
-      "title": "Shin Master of Monsters Final EX: Mukunaru Nageki, Tenmei no Saika",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2803,74 +1759,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS00359",
-      "title": "Kenka Banchou 5: Otoko no Rule",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00384",
-      "title": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00385",
-      "title": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJS00390",
       "title": "Naruto Shippuuden: Narutimate Impact",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00413",
-      "title": "AKB1-48+10: Idol to Guam de Koishitara...",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00414",
-      "title": "AKB1-48+10: Idol to Guam de Koishitara...",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00427",
-      "title": "Weiss Schwarz Portable: 2 Turn-me",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00429",
-      "title": "Mahou Shoujo Madoka Magica Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00430",
-      "title": "Mahou Shoujo Madoka Magica Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00434",
-      "title": "Sangoku-hime: Sangoku Ransei: Haten no Saihai",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00459",
-      "title": "Boku wa Tomodachi ga Sukunai Portable",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00475",
-      "title": "Kidou Senshi Gundam AGE: Universe Accel",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2905,12 +1795,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS00523",
-      "title": "Kuroko no Baske: Kiseki no Game",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJS19006",
       "title": "Namco Museum",
       "reason": "no_exact_match",
@@ -2919,24 +1803,6 @@
     {
       "serial": "ULJS19007",
       "title": "Tenchu: Shinobi Taizen",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS19009",
-      "title": "Boku no Watashi no Katamari Damacy",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS19058",
-      "title": "Dot Hack Link",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS19062",
-      "title": "Kenka Banchou 5: Otoko no Rule",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2959,20 +1825,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS19097",
-      "title": "Kuroko no Baske: Kiseki no Game",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULKS46012",
       "title": "Jin Samguk Mussang",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULKS46013",
-      "title": "Sincheon Magye: GOC IV: Another Side",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2983,32 +1837,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULKS46024",
-      "title": "World Soccer Winning Eleven 9: Ubiquitous Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULKS46033",
       "title": "Win-JPT: Ilboneo Chogeub",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULKS46082",
-      "title": "Oh's Talk English (Disc 1)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULKS46083",
-      "title": "Oh's Talk English (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULKS46084",
-      "title": "Jin Samguk Mussang 2nd Evolution",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -3037,18 +1867,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULKS46120",
-      "title": "World Soccer Winning Eleven 10: Ubiquitous Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULKS46130",
-      "title": "Jin Samguk Mussang 2nd Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULKS46189",
       "title": "DJ Max Emotional Sense P: Black Square",
       "reason": "no_exact_match",
@@ -3073,12 +1891,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULKS46249",
-      "title": "Pro Yagu Spirits 2010",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULKS46255",
       "title": "Silhwang Powerful Pro Yagu 2010",
       "reason": "no_exact_match",
@@ -3091,80 +1903,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULKS46281",
-      "title": "Pro Yagu Spirits 2012",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10002",
-      "title": "Lumines: Puzzle Fusion",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10051",
-      "title": "Ys: The Ark of Napishtim",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10056",
-      "title": "World Tour Soccer: Winning Eleven 9",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULUS10058",
       "title": "Stealth + WipEout Pure",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10080",
-      "title": "007: From Russia with Love",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10092",
-      "title": "Nickelodeon SpongeBob SquarePants: The Yellow Avenger",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10122",
-      "title": "NASCAR",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10162",
-      "title": "World Series of Poker: Tournament of Champions: 2007 Edition",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10165",
-      "title": "Nickelodeon Avatar: The Last Airbender",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10187",
-      "title": "DreamWorks Over the Hedge: Hammy Goes Nuts!",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10194",
-      "title": "DreamWorks Shrek: Smash n' Crash Racing",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10221",
-      "title": "UEFA Champions League 2006-2007",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -3175,74 +1915,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULUS10248",
-      "title": "DreamWorks Shrek the Third",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10252",
-      "title": "Disney Pirates of the Caribbean: At World's End",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10256",
-      "title": "MTV Pimp My Ride",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10320",
-      "title": "PES 2008: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10337",
-      "title": "UEFA Euro 2008: Austria-Switzerland",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULUS10362",
       "title": "Cake Mania: Baker's Challenge",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10386",
-      "title": "PDC World Championship Darts",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10388",
-      "title": "PES 2009: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10415",
-      "title": "Dragonball: Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10471",
-      "title": "DiRT 2",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10478",
-      "title": "Nickelodeon SpongeBob's Truth or Square",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10483",
-      "title": "PES 2010: Pro Evolution Soccer",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -3253,44 +1927,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULUS10546",
-      "title": "PES 2011: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULUS10548",
       "title": "Disney TRON: Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10553",
-      "title": "PES 2011: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10554",
-      "title": "PES 2011: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10586",
-      "title": "PES 2012: Pro Evolution Soccer",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10593",
-      "title": "Growlanser: Wayfarer of Time",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10597",
-      "title": "PES 2013: Pro Evolution Soccer",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -3427,7 +2065,6 @@
     2270,
     2353,
     2542,
-    2571,
     2749,
     3024,
     3027,
@@ -3444,7 +2081,6 @@
     3457,
     3506,
     3579,
-    3669,
     3751,
     3753,
     4000,
@@ -3483,11 +2119,7 @@
     4916,
     4959,
     5002,
-    5092,
     5097,
-    5098,
-    5111,
-    5288,
     5291,
     5293,
     5470,
@@ -3496,7 +2128,6 @@
     5568,
     5664,
     5937,
-    5944,
     6023,
     6049,
     6081,
@@ -3513,7 +2144,6 @@
     6827,
     6832,
     6841,
-    6865,
     6904,
     6906,
     6920,
@@ -3526,8 +2156,6 @@
     7071,
     7123,
     7185,
-    7225,
-    7226,
     7248,
     7281,
     7308,
@@ -3580,7 +2208,6 @@
     11608,
     11699,
     11705,
-    11846,
     12153,
     12331,
     12332,
@@ -3622,7 +2249,6 @@
     16092,
     16093,
     16550,
-    16665,
     16753,
     16997,
     17481,
@@ -3702,7 +2328,6 @@
     21173,
     21207,
     21253,
-    21313,
     21524,
     21541,
     21576,
@@ -3728,7 +2353,6 @@
     23377,
     23664,
     23806,
-    24080,
     24131,
     24320,
     25453,
@@ -3768,11 +2392,9 @@
     38391,
     38443,
     38450,
-    38451,
     38452,
     38457,
     38462,
-    38466,
     38470,
     38475,
     38476,
@@ -3780,7 +2402,6 @@
     38478,
     38481,
     38482,
-    38486,
     38725,
     39299,
     39352,
@@ -3811,7 +2432,6 @@
     42098,
     42110,
     42118,
-    42689,
     42690,
     42691,
     42692,
@@ -3876,7 +2496,6 @@
     42978,
     43047,
     43202,
-    43404,
     43596,
     43695,
     43704,
@@ -4025,7 +2644,6 @@
     45833,
     45989,
     45993,
-    45999,
     46015,
     46082,
     46083,
@@ -4070,7 +2688,6 @@
     52662,
     52663,
     52664,
-    52668,
     52726,
     52865,
     52902,
@@ -4094,7 +2711,6 @@
     56396,
     56461,
     56471,
-    56491,
     56513,
     56519,
     56523,
@@ -4115,9 +2731,7 @@
     56772,
     56792,
     56809,
-    56813,
     56826,
-    56828,
     56830,
     56995,
     57057,
@@ -4143,7 +2757,6 @@
     58529,
     58540,
     58570,
-    58571,
     58572,
     58999,
     59005,
@@ -4168,7 +2781,6 @@
     59391,
     59392,
     59393,
-    59395,
     59417,
     59418,
     59420,
@@ -4226,7 +2838,6 @@
     62640,
     62736,
     62765,
-    62766,
     62775,
     62873,
     62877,
@@ -4236,11 +2847,9 @@
     63015,
     63016,
     63041,
-    63055,
     63077,
     63270,
     63390,
-    63398,
     63431,
     63530,
     63531,
@@ -4248,7 +2857,6 @@
     63603,
     63604,
     63619,
-    63625,
     63656,
     63780,
     63781,
@@ -4286,7 +2894,6 @@
     64667,
     64669,
     64687,
-    64710,
     64719,
     64797,
     64802,
@@ -4299,14 +2906,11 @@
     64903,
     64953,
     64999,
-    65012,
-    65029,
     65049,
     65091,
     65148,
     65174,
     65178,
-    65216,
     65268,
     65344,
     65349,
@@ -4338,7 +2942,6 @@
     66507,
     66516,
     66519,
-    66526,
     66537,
     66619,
     66642,
@@ -4371,7 +2974,6 @@
     67705,
     67712,
     67878,
-    67897,
     67959,
     68053,
     68121,
@@ -4387,7 +2989,6 @@
     69279,
     69294,
     69326,
-    69401,
     69420,
     69870,
     70558,
@@ -4427,13 +3028,10 @@
     74425,
     74720,
     75301,
-    75721,
     75722,
     75726,
     75728,
     75876,
-    75879,
-    75899,
     76450,
     76599,
     76729,
@@ -4464,18 +3062,13 @@
     78566,
     78626,
     78719,
-    78795,
     78964,
-    79069,
     79138,
     79228,
     79238,
     79327,
     79344,
     79347,
-    79348,
-    79349,
-    79353,
     79415,
     79453,
     79661,
@@ -4581,7 +3174,6 @@
     108832,
     109082,
     109113,
-    111904,
     112090,
     112183,
     112542,
@@ -4609,7 +3201,6 @@
     123396,
     124264,
     124289,
-    124635,
     124641,
     124642,
     125057,
@@ -4756,7 +3347,6 @@
     145724,
     145725,
     146570,
-    146602,
     146620,
     146664,
     147194,
@@ -4840,11 +3430,9 @@
     200423,
     200661,
     200798,
-    200897,
     201080,
     202072,
     202074,
-    202100,
     202159,
     202163,
     202185,
@@ -4981,9 +3569,6 @@
     220149,
     220573,
     220575,
-    220947,
-    220972,
-    220976,
     221013,
     221221,
     221321,
@@ -5008,7 +3593,6 @@
     222628,
     222630,
     222632,
-    222634,
     222635,
     222637,
     222775,
@@ -5025,7 +3609,6 @@
     232881,
     234973,
     240067,
-    240465,
     240912,
     240913,
     240915,
@@ -5047,9 +3630,6 @@
     247509,
     247571,
     248218,
-    248508,
-    248531,
-    248548,
     248790,
     249049,
     249526,
@@ -5080,15 +3660,8 @@
     269433,
     269434,
     269435,
-    269486,
-    269487,
     269492,
-    269494,
-    269508,
     269514,
-    269516,
-    269517,
-    269522,
     269527,
     270148,
     270434,
@@ -5117,7 +3690,6 @@
     281680,
     281681,
     281843,
-    281852,
     282567,
     282725,
     282727,
@@ -5142,7 +3714,6 @@
     294698,
     294733,
     294734,
-    295596,
     298844,
     298863,
     299030,
@@ -5150,7 +3721,6 @@
     304400,
     305746,
     305775,
-    305798,
     307121,
     307127,
     307175,
@@ -5244,7 +3814,6 @@
     357102,
     357103,
     357109,
-    358374,
     360205,
     360213,
     360723,
@@ -5337,8 +3906,8 @@
   ],
   "summary": {
     "games": 3168,
-    "mapped_serials": 2468,
-    "unresolved_serials": 557,
+    "mapped_serials": 2697,
+    "unresolved_serials": 330,
     "downloaded": 3168,
     "failed": 0
   },
