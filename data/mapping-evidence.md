@@ -20,4 +20,13 @@ Serials absent from the redump source list, confirmed on user-owned PSP hardware
 
 Unique normalized equality against IGDB alternative names resolves romanised Japanese titles the redump list uses, for example `Irregular Hunter X` -> Mega Man: Maverick Hunter X, `Yuusha 30` -> Half-Minute Hero or `Minna no Golf Portable` -> Hot Shots Golf: Open Tee. Ambiguous alternative names stay unresolved.
 
+# Romanisation-folded matching
+
+Whole-string equality after canonical romanisation folding (long vowels and Hepburn variants only, no token dropping) resolves titles such as `Kenka Banchou 3: Zenkoku Seiha` -> Kenka Bancho 3, `Naruto Shippuuden: Kizuna Drive` -> Naruto Shippuden: Kizuna Drive or `SD Gundam: GGeneration Portable` -> SD Gundam G Generation Portable. A candidate is accepted only when the folded key is unique. Folded keys must not collapse roman numerals (`VII` stays distinct from `VI`).
+
+# Reviewed title batches
+
+- 30 localised titles carrying market subtitles map through a reviewed alias, for example `Saru! Get You! P!` -> Ape Escape, `M.A.C.H.: Modified Air Combat Heroes` -> Modified Air Combat Heroes, `Pro Cycling Season 2007: Le Tour de France` -> Pro Cycling: Season 2007, `Samurai Dou 2 Portable` -> Way of the Samurai 2.
+- 16 duplicate catalogue titles resolve to the canonical entry with the higher IGDB rating count, then the lower IGDB id: Myst -> 236, Full Auto 2: Battlelines -> 7309, Tom Clancy's Rainbow Six: Vegas -> 909, Bomberman Land -> 77674, LEGO Batman: The Videogame -> 2738, LEGO Indiana Jones 2 -> 138, Valkyria Chronicles II -> 14674, Hatsune Miku: Project Diva 2nd -> 11755, Tales of Destiny 2 -> 1203, Pac-Man World Rally -> 2654, Blade Dancer: Lineage of Light -> 23115, Impossible Mission -> 4929, Strike Witches: Hakugin no Tsubasa -> 38449, Namco Museum Vol. 2 -> 20259, Hayarigami 3 -> 61782, Danball Senki -> 72572.
+
 Other unresolved entries remain in review.json. Regional serial support does not imply region-specific box art.

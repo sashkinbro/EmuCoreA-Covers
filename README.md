@@ -10,9 +10,9 @@ Multiple regional serials deliberately reference one canonical game image. A sha
 
 ## Coverage and limitations
 
-The snapshot contains 3,168 original IGDB images and 3,168 generated 3D images. There are 2,315 mapped serials and 710 unresolved entries from the 3,025-entry source list (3,022 redump disc titles plus reviewed serials for discs the list omits). This is not complete PSP regional coverage. `review.json` lists every unresolved/ambiguous entry and small source image; `manifest.json` records every mapping method, source URL and checksum. Missing entries should retain the game's embedded icon or a placeholder, not an approximate title match.
+The snapshot contains 3,168 original IGDB images and 3,168 generated 3D images. There are 2,468 mapped serials and 557 unresolved entries from the 3,025-entry source list (3,022 redump disc titles plus reviewed serials for discs the list omits). This is not complete PSP regional coverage. `review.json` lists every unresolved/ambiguous entry and small source image; `manifest.json` records every mapping method, source URL and checksum. Missing entries should retain the game's embedded icon or a placeholder, not an approximate title match.
 
-Mappings use explicit database serials, unique normalized title equality, unique normalized equality against IGDB alternative names (this is what links romanised Japanese titles such as `Irregular Hunter X` or `Yuusha 30` to their catalogue entries), or reviewed overrides. Duplicate titles are not resolved automatically. The bundled serial source is a title index, not an authoritative guarantee of every retail reprint, PSN edition, demo or homebrew identity. Source errors remain possible and corrections should identify the serial, correct title and supporting evidence.
+Mappings use explicit database serials, unique normalized title equality, unique normalized equality against IGDB alternative names (this is what links romanised Japanese titles such as `Irregular Hunter X` or `Yuusha 30` to their catalogue entries), unique romanisation-folded title equality, or reviewed overrides. Romanisation folding only canonicalises long vowels and Hepburn variants (`ou`/`oo`/`uu`, `sya`/`sha`, `tu`/`tsu`, ...) for whole-string equality; it is never used for partial or fuzzy matching. Duplicate titles are not resolved automatically. The bundled serial source is a title index, not an authoritative guarantee of every retail reprint, PSN edition, demo or homebrew identity. Source errors remain possible and corrections should identify the serial, correct title and supporting evidence.
 
 Flat images preserve IGDB bytes and aspect ratio, requested at `t_1080p`; this does not guarantee the source artwork was high resolution. Clients should fit artwork without stretching. 3D images are 600x900 transparent WebP, quality 92, using an independently drawn dark PSP case with PlayStation Portable branding and a short spine header containing the PlayStation emblem. The 3D printable area fills to the bottom edge using a proportional crop, without stretching or letterbox bars; full uncropped originals remain available as flat images. No PS2 template, PS2 branding or invented regional serial is included.
 
@@ -28,7 +28,7 @@ python tools/export_psp_covers.py --database data/catalog.json --titles data/psp
 # Review the plan before downloading. The next command downloads/resumes verified images.
 python tools/export_psp_covers.py --database data/catalog.json --titles data/psp_titles.json --overrides tools/psp_cover_overrides.json --output . --download
 python tools/render_psp_covers_3d.py --repository .
-python tools/build_psp_cover_index.py --repository . --output index.json
+python tools/build_psp_cover_index.py --repository . --catalog data/catalog.json --output index.json
 python -m unittest discover -s tools -p test_psp_covers.py
 ```
 
