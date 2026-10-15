@@ -355,12 +355,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCES01534",
-      "title": "Disney/Pixar Cars 2",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCET00359",
       "title": "Formula One 06",
       "reason": "no_exact_match",
@@ -511,36 +505,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCJS10056",
-      "title": "Minna no Golf-jou Vol. 1 (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10064",
-      "title": "Minna no Golf-jou Vol. 2 (Disc 1)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10065",
-      "title": "Minna no Golf-jou Vol. 2 (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10067",
-      "title": "Minna no Golf-jou Vol. 3 (Disc 1)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJS10068",
-      "title": "Minna no Golf-jou Vol. 3 (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "UCJS10084",
       "title": "Clank & Ratchet: Maruhi Mission Ignition!",
       "reason": "no_exact_match",
@@ -627,12 +591,6 @@
     {
       "serial": "UCJX90027",
       "title": "System Software Update Ver. 3.73",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "UCJX90028",
-      "title": "Patapon 2: Don-Chaka",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -745,12 +703,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "UCUS98766",
-      "title": "Disney/Pixar Cars 2",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULAS42219",
       "title": "Geki Sengoku Musou",
       "reason": "no_exact_match",
@@ -841,42 +793,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES00440",
-      "title": "FIFA 07",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00441",
-      "title": "FIFA 07",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00442",
-      "title": "FIFA 07",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00443",
-      "title": "FIFA 07",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00444",
-      "title": "FIFA 07",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00459",
-      "title": "FIFA 07",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES00564",
       "title": "Ford Street Racing: L.A. Duel",
       "reason": "no_exact_match",
@@ -885,78 +801,6 @@
     {
       "serial": "ULES00693",
       "title": "Spinout",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00734",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00735",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00736",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00737",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00738",
-      "title": "Disney/Pixar Ratatui",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00741",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00742",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00743",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00744",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00745",
-      "title": "Disney · Pixar Rottatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00746",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES00748",
-      "title": "Disney · Pixar Ratatouille",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1021,92 +865,14 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES01415",
-      "title": "DreamWorks Megamind: The Blue Defender",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES01422",
       "title": "Iron Man 2: The Video Game",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULES01465",
-      "title": "DreamWorks Megamind: The Blue Defender",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULES01486",
       "title": "Nickelodeon Bob Esponja: Atrapados en el Congelador",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01494",
-      "title": "Disney TRON: Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01495",
-      "title": "Disney TRON: Evolution",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01565",
-      "title": "FIFA 13",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01567",
-      "title": "FIFA 13",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01568",
-      "title": "FIFA 13",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01569",
-      "title": "FIFA 13",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01570",
-      "title": "FIFA 13",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01571",
-      "title": "FIFA 13",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01572",
-      "title": "FIFA 13",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01573",
-      "title": "FIFA 13",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULES01574",
-      "title": "FIFA 13",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1257,18 +1023,6 @@
     {
       "serial": "ULJM05465",
       "title": "Onore no Shinzuru Michi o Yuke",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05497",
-      "title": "Heart no Kuni no Alice: Wonderful Wonder World (Disc 1)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM05498",
-      "title": "Heart no Kuni no Alice: Wonderful Wonder World (Disc 2)",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1513,18 +1267,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJM08034",
-      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 1)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJM08035",
-      "title": "Eiyuu Densetsu: Sora no Kiseki SC (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJM08061",
       "title": "Shin Sangoku Musou 6 Special (Disc 1)",
       "reason": "no_exact_match",
@@ -1765,30 +1507,6 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULJS00490",
-      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 1)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00491",
-      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00492",
-      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 1)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS00493",
-      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 2)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULJS00514",
       "title": "World Neverland: Nalulu Oukoku Monogatari",
       "reason": "no_exact_match",
@@ -1809,18 +1527,6 @@
     {
       "serial": "ULJS19071",
       "title": "Naruto Shippuuden: Narutimate Impact",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS19086",
-      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 1)",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULJS19087",
-      "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Disc 2)",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -1909,26 +1615,8 @@
       "candidate_igdb_ids": []
     },
     {
-      "serial": "ULUS10247",
-      "title": "Disney/Pixar Ratatouille",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
       "serial": "ULUS10362",
       "title": "Cake Mania: Baker's Challenge",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10520",
-      "title": "DreamWorks Megamind: The Blue Defender",
-      "reason": "no_exact_match",
-      "candidate_igdb_ids": []
-    },
-    {
-      "serial": "ULUS10548",
-      "title": "Disney TRON: Evolution",
       "reason": "no_exact_match",
       "candidate_igdb_ids": []
     },
@@ -2112,7 +1800,6 @@
     4696,
     4702,
     4740,
-    4749,
     4775,
     4831,
     4867,
@@ -2392,7 +2079,6 @@
     38391,
     38443,
     38450,
-    38452,
     38457,
     38462,
     38470,
@@ -2650,7 +2336,6 @@
     46084,
     46667,
     47396,
-    47896,
     48055,
     49155,
     49505,
@@ -2909,7 +2594,6 @@
     65049,
     65091,
     65148,
-    65174,
     65178,
     65268,
     65344,
@@ -3489,7 +3173,6 @@
     206831,
     206899,
     207129,
-    208754,
     208794,
     209157,
     209178,
@@ -3507,7 +3190,6 @@
     210032,
     210110,
     210172,
-    210274,
     213604,
     213692,
     213834,
@@ -3656,9 +3338,6 @@
     269174,
     269175,
     269422,
-    269432,
-    269433,
-    269434,
     269435,
     269492,
     269514,
@@ -3689,7 +3368,6 @@
     281099,
     281680,
     281681,
-    281843,
     282567,
     282725,
     282727,
@@ -3906,8 +3584,8 @@
   ],
   "summary": {
     "games": 3168,
-    "mapped_serials": 2697,
-    "unresolved_serials": 330,
+    "mapped_serials": 2749,
+    "unresolved_serials": 278,
     "downloaded": 3168,
     "failed": 0
   },

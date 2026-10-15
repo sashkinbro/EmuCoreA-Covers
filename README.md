@@ -10,36 +10,20 @@ Multiple regional serials deliberately reference one canonical game image. A sha
 
 ## Coverage and limitations
 
-The snapshot contains 3,168 original IGDB images and 3,168 generated 3D images. There are 2,697 mapped serials and 330 unresolved entries from the 3,025-entry source list (3,022 redump disc titles plus reviewed serials for discs the list omits). The unresolved remainder is dominated by Asia/China-exclusive discs, demo and sampler UMDs and hardware utility discs. `review.json` lists every unresolved/ambiguous entry and small source image; `manifest.json` records every mapping method, source URL and checksum. Missing entries should retain the game's embedded icon or a placeholder, not an approximate title match.
+The snapshot contains 3,168 original IGDB images and 3,168 generated 3D images. There are 2,749 mapped serials and 278 unresolved entries from the 3,027-entry source list (3,022 bundled product-code titles plus reviewed serials for discs the list omits). The unresolved remainder is dominated by Asia/China-exclusive discs, demo and sampler UMDs and hardware utility discs. `review.json` lists every unresolved/ambiguous entry and small source image; `manifest.json` records every mapping method, source URL and checksum. Missing entries should retain the game's embedded icon or a placeholder, not an approximate title match.
 
 Mappings use explicit database serials, unique normalized title equality, unique normalized equality against IGDB alternative names (this is what links romanised Japanese titles such as `Irregular Hunter X` or `Yuusha 30` to their catalogue entries), unique romanisation-folded title equality, or reviewed overrides. Romanisation folding only canonicalises long vowels and Hepburn variants (`ou`/`oo`/`uu`, `sya`/`sha`, `tu`/`tsu`, ...) for whole-string equality; it is never used for partial or fuzzy matching. Duplicate titles are not resolved automatically. The bundled serial source is a title index, not an authoritative guarantee of every retail reprint, PSN edition, demo or homebrew identity. Source errors remain possible and corrections should identify the serial, correct title and supporting evidence.
 
 Flat images preserve IGDB bytes and aspect ratio, requested at `t_1080p`; this does not guarantee the source artwork was high resolution. Clients should fit artwork without stretching. 3D images are 600x900 transparent WebP, quality 92, using an independently drawn dark PSP case with PlayStation Portable branding and a short spine header containing the PlayStation emblem. The 3D printable area fills to the bottom edge using a proportional crop, without stretching or letterbox bars; full uncropped originals remain available as flat images. No PS2 template, PS2 branding or invented regional serial is included.
 
-## Rebuild
+## Maintenance
 
-Python 3.11+, Pillow and NumPy are required. No API token is needed for the existing public image URLs; the optional catalogue refresh below uses Twitch API credentials.
-
-```sh
-python -m pip install -r tools/requirements.txt
-# Optional: refresh serials and alternative names in data/catalog.json from IGDB.
-python tools/fetch_igdb_catalog_extras.py --config path/to/igdb_config.py
-python tools/export_psp_covers.py --database data/catalog.json --titles data/psp_titles.json --overrides tools/psp_cover_overrides.json --output .
-# Review the plan before downloading. The next command downloads/resumes verified images.
-python tools/export_psp_covers.py --database data/catalog.json --titles data/psp_titles.json --overrides tools/psp_cover_overrides.json --output . --download
-python tools/render_psp_covers_3d.py --repository .
-python tools/build_psp_cover_index.py --repository . --catalog data/catalog.json --output index.json
-python -m unittest discover -s tools -p test_psp_covers.py
-```
-
-Exports use bounded concurrency, retries, image validation, checksums, atomic files and process locks. Inspect a stale lock before removing it. Downloads resume only when the existing image matches its recorded source and checksum. Keep previous manifests when updating an existing export. A plan-only run produces a new pending manifest; use a separate output directory for previewing changes to an existing published snapshot.
-
-The application bundles a reviewed index and downloads only the user's games. Update that snapshot when publishing mapping corrections. Images are stored once per canonical ID rather than duplicated per serial. There are no game files, emulator binaries or credentials in this repository.
+This repository publishes catalog metadata and finished cover artwork. Build tools are excluded from version control. The application bundles a reviewed index and pins downloads to a reviewed commit SHA.
 
 ## Attribution
 
 Artwork source: [IGDB](https://www.igdb.com/), via [IGDB image CDN](https://api-docs.igdb.com/#images). Cover artwork and game/platform trademarks belong to their respective owners. Repository tooling and metadata do not grant ownership or a new license to that artwork. The 3D case was implemented independently after reviewing the approach in [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers); its PS2 template and code are not included.
 
-PlayStation emblem: [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Playstation_logo_colour.svg), credited there to Sony / Manabu Sakamoto (PD-textlogo; trademark). A raster copy is in `tools/assets/playstation-logo.png`.
+PlayStation emblem: [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Playstation_logo_colour.svg), credited there to Sony / Manabu Sakamoto (PD-textlogo; trademark).
 
-PSP wordmark: [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:PSP_Logo.svg), vector credited there to Afrank99 (PD-textlogo; trademark). A raster copy is in `tools/assets/psp-logo.png`; the renderer uses its letterforms rather than substituting a system font.
+PSP wordmark: [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:PSP_Logo.svg), vector credited there to Afrank99 (PD-textlogo; trademark). The renderer uses its letterforms rather than substituting a system font.
